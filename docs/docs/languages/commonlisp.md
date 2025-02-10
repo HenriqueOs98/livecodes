@@ -1,3 +1,0 @@
-# Common Lisp
-
-TODO...

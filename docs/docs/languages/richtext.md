@@ -1,3 +1,0 @@
-# Rich Text Editor
-
-TODO...
