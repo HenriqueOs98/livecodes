@@ -92,7 +92,9 @@
     "patch-package": "7.0.2",
     "prismjs": "1.29.0",
     "split.js": "1.6.5",
-    "yjs": "13.5.40"
+    "yjs": "13.5.40",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@bitjson/typedoc": "0.15.0-0",
@@ -108,8 +110,9 @@
     "@types/node": "18.11.9",
     "@types/prettier": "2.1.6",
     "@types/prismjs": "1.16.3",
-    "@types/react": "^18.2.0",
-    "@types/scheduler": "^0.16.3",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@types/scheduler": "^0.16.8",
     "@typescript-eslint/eslint-plugin": "7.7.1",
     "@typescript-eslint/parser": "7.7.1",
     "@typescript/vfs": "1.5.3",
