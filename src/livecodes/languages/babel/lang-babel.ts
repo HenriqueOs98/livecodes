@@ -1,0 +1,36 @@
+import type { LanguageSpecs } from '../../models';
+import { babelUrl } from '../../vendors';
+import { getLanguageCustomSettings } from '../../utils';
+import { parserPlugins } from '../prettier';
+
+export const babel: LanguageSpecs = {
+  name: 'babel',
+  title: 'Babel',
+  parser: {
+    name: 'babel',
+    pluginUrls: [parserPlugins.babel, parserPlugins.html],
+  },
+  compiler: {
+    url: babelUrl,
+    factory:
+      () =>
+      async (code, { config }) => {
+        const babelConfig = getLanguageCustomSettings('babel', config);
+        const presetEnvConfig = getLanguageCustomSettings('@babel/preset-env' as any, config);
+        const presetTsConfig = getLanguageCustomSettings('@babel/preset-typescript' as any, config);
+        const presetReactConfig = getLanguageCustomSettings('@babel/preset-react' as any, config);
+        return (window as any).Babel.transform(code, {
+          filename: 'script.tsx',
+          presets: [
+            ['env', { modules: false, ...presetEnvConfig }],
+            ['typescript', presetTsConfig],
+            ['react', presetReactConfig],
+          ],
+          ...babelConfig,
+        }).code;
+      },
+  },
+  extensions: ['es', 'babel'],
+  editor: 'script',
+  editorLanguage: 'typescript',
+};

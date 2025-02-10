@@ -1,0 +1,15 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "..",
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "stories/**/*.ts",
+    "stories/**/*.tsx",
+    "stories/**/*.js",
+    "stories/**/*.jsx",
+    "src/LiveCodes.ts"
+  ],
+  "exclude": ["**/node_modules/**"]
+}
