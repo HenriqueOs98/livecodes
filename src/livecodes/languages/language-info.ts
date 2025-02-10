@@ -1,1 +1,0 @@
-export { languageInfo } from '../html';

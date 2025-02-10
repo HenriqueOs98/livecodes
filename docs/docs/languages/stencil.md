@@ -1,3 +1,0 @@
-# Stencil
-
-TODO...

@@ -1,3 +1,0 @@
-# Malina.js
-
-TODO...
