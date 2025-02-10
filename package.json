@@ -56,9 +56,9 @@
     "cov:send": "run-s cov && codecov",
     "reset": "git clean -dfx && git reset --hard && npm i",
     "clean": "recursive-delete build",
-    "postinstall": "patch-package && run-p install:*",
-    "install:docs": "cd docs && npm ci",
-    "install:storybook": "cd storybook && npm ci",
+    "postinstall": "bun install --legacy-peer-deps && patch-package && run-p install:*",
+    "install:docs": "cd docs && bun install",
+    "install:storybook": "cd storybook && bun install",
     "prepush:skip-e2e": "run-s fix build test:lint test:unit",
     "prepush": "run-s fix build test",
     "start-release": "node ./scripts/start-release.mjs",
@@ -96,7 +96,7 @@
   },
   "devDependencies": {
     "@bitjson/typedoc": "0.15.0-0",
-    "@cloudflare/workers-types": "3.4.0",
+    "@cloudflare/workers-types": "^4.20250129.0",
     "@inquirer/prompts": "1.0.3",
     "@istanbuljs/nyc-config-typescript": "1.0.1",
     "@lokalise/node-api": "12.7.0",
@@ -149,7 +149,7 @@
     "typedoc": "0.25.13",
     "typedoc-plugin-missing-exports": "2.2.0",
     "typescript": "5.4.5",
-    "wrangler": "^3.0.0"
+    "wrangler": "^2.0.0"
   },
   "prettier": {
     "semi": true,
