@@ -56,7 +56,7 @@
     "cov:send": "run-s cov && codecov",
     "reset": "git clean -dfx && git reset --hard && npm i",
     "clean": "recursive-delete build",
-    "postinstall": "bun install --legacy-peer-deps && patch-package && run-p install:*",
+    "postinstall": "bun install && patch-package && run-p install:*",
     "install:docs": "cd docs && bun install",
     "install:storybook": "cd storybook && bun install",
     "prepush:skip-e2e": "run-s fix build test:lint test:unit",
@@ -149,7 +149,7 @@
     "typedoc": "0.25.13",
     "typedoc-plugin-missing-exports": "2.2.0",
     "typescript": "5.4.5",
-    "wrangler": "^2.0.0"
+    "wrangler": "^3.0.0"
   },
   "prettier": {
     "semi": true,
