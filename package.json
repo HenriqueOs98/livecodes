@@ -56,7 +56,7 @@
     "cov:send": "run-s cov && codecov",
     "reset": "git clean -dfx && git reset --hard && npm i",
     "clean": "recursive-delete build",
-    "postinstall": "bun install && patch-package && run-p install:*",
+    "postinstall": "patch-package && run-p install:*",
     "install:docs": "cd docs && bun install",
     "install:storybook": "cd storybook && bun install",
     "prepush:skip-e2e": "run-s fix build test:lint test:unit",
