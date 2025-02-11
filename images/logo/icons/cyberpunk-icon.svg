@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect width="100" height="100" rx="20" fill="#1a1a2e"/>
+  
+  <!-- Glow effect -->
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  
+  <!-- Main icon symbol - stylized "P" -->
+  <g filter="url(#glow)">
+    <!-- Magenta offset (glitch effect) -->
+    <path d="M35 25h30c8 0 15 7 15 15s-7 15-15 15H45v20H35V25z" 
+          fill="#ff00ff" 
+          opacity="0.5" 
+          transform="translate(2,0)"/>
+    
+    <!-- Cyan offset (glitch effect) -->
+    <path d="M35 25h30c8 0 15 7 15 15s-7 15-15 15H45v20H35V25z" 
+          fill="#00ffff" 
+          opacity="0.5" 
+          transform="translate(-2,0)"/>
+    
+    <!-- Main symbol -->
+    <path d="M35 25h30c8 0 15 7 15 15s-7 15-15 15H45v20H35V25z" 
+          fill="#ffffff"/>
+  </g>
+  
+  <!-- Inner details -->
+  <path d="M45 35h15c3 0 5 2 5 5s-2 5-5 5H45V35z" 
+        fill="#1a1a2e"/>
+</svg>
