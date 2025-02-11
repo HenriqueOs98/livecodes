@@ -4,7 +4,7 @@
     "translation": "بلاگ"
   },
   "about.blog.title": {
-    "translation": "LiveCodes بلاگ"
+    "translation": "Programe.Tech بلاگ"
   },
   "about.configuration": {
     "translation": "ترتیب"
@@ -13,10 +13,10 @@
     "translation": "کریڈٹس"
   },
   "about.credits.para1": {
-    "translation": "LiveCodes کو اوپن سورس پروجیکٹس، ویب سروسز اور تعاون کنندگان کے ذریعے ممکن بنایا گیا ہے۔ <tag-1> کریڈٹ دیکھیں </tag-1>"
+    "translation": "Programe.Tech کو اوپن سورس پروجیکٹس، ویب سروسز اور تعاون کنندگان کے ذریعے ممکن بنایا گیا ہے۔ <tag-1> کریڈٹ دیکھیں </tag-1>"
   },
   "about.credits.para2": {
-    "translation": "© 2024 حاتم حسنی LiveCodes MIT لائسنس کے تحت لائسنس یافتہ ہے۔"
+    "translation": "© 2024 حاتم حسنی Programe.Tech MIT لائسنس کے تحت لائسنس یافتہ ہے۔"
   },
   "about.documentations.heading": {
     "translation": "دستاویزات"
@@ -33,17 +33,17 @@
   "about.heading": {
     "translation": "لائیو کوڈز کے بارے میں"
   },
-  "about.livecodes.aboutUs": {
+  "about.Programe.Tech.aboutUs": {
     "translation": "لائیو کوڈز کے بارے میں"
   },
-  "about.livecodes.para1": {
+  "about.Programe.Tech.para1": {
     "translation": "<tag-1><tag-2>لائیو کوڈز</tag-2></tag-1> ایک <tag-3>اوپن سورس</tag-3>، <tag-4>خصوصیات سے بھرپور</tag-4>، <tag-5>کلائنٹ-سائیڈ</tag-5> کوڈ پلے گراؤنڈ ہے۔ فی الحال، <tag-6>90+ زبانیں/<tag-7></tag-7>فریم ورکس</tag-6> کو سپورٹ کیا جاتا ہے۔ اسے ایک خودمختار ایپ کے طور پر استعمال کیا جا سکتا ہے یا کسی بھی ویب صفحے میں <tag-8>ایمبیڈ</tag-8> کیا جا سکتا ہے۔ کوڈ کے ساتھ پلے گراؤنڈز کو <tag-9>پہلے سے بھرنے</tag-9> کے کئی طریقے ہیں۔"
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "translation": "<tag-1>کنفیگریشن آپشنز</tag-1> کی وسیع رینج اسے بہت لچکدار بناتی ہے۔ ایک طاقتور <tag-2>ایس ڈی کے</tag-2> (<tag-3>جے ایس/ٹی ایس</tag-3>، <tag-4>ری ایکٹ</tag-4>، <tag-5>ویو</tag-5> اور <tag-6>سویلٹ</tag-6> کے لیے) پلے گراؤنڈز کو <tag-7>ایمبیڈ</tag-7> کرنے اور ان سے <tag-8>مواصلت</tag-8> کرنے میں سہولت فراہم کرتی ہے۔ کوڈ نمونوں، لائیو ڈیموز اور اسکرین شاٹس کے ساتھ <tag-9>جامع دستاویزات</tag-9> دستیاب ہیں۔"
   },
   "about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "translation": "سپانسر"
@@ -166,7 +166,7 @@
     "translation": "فائل شامل کریں"
   },
   "assets.add.githubPages.desc": {
-    "translation": "اثاثے کو گٹ ہب پیجز پر تعینات کریں۔ فائل کو آپ کے گٹ ہب اکاؤنٹ پر <tag-2>livecodes-assets</tag-2> ریپو کی <tag-1>gh-pages</tag-1> برانچ میں پش کیا جاتا ہے۔ اگر ریپو پہلے سے موجود نہیں ہے تو، ایک عوامی ریپو بنایا جائے گا۔"
+    "translation": "اثاثے کو گٹ ہب پیجز پر تعینات کریں۔ فائل کو آپ کے گٹ ہب اکاؤنٹ پر <tag-2>Programe.Tech-assets</tag-2> ریپو کی <tag-1>gh-pages</tag-1> برانچ میں پش کیا جاتا ہے۔ اگر ریپو پہلے سے موجود نہیں ہے تو، ایک عوامی ریپو بنایا جائے گا۔"
   },
   "assets.add.githubPages.heading": {
     "translation": "گٹ ہب پیجز"
@@ -1357,7 +1357,7 @@
     "translation": "بیک اپ / بحالی …"
   },
   "menu.blog": {
-    "translation": "LiveCodes بلاگ"
+    "translation": "Programe.Tech بلاگ"
   },
   "menu.broadcast": {
     "translation": "نشریات …"

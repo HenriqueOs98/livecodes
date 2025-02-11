@@ -6,7 +6,7 @@
   },
   "about.blog.title": {
     "notes": "",
-    "translation": "LiveCodes Blog"
+    "translation": "Programe.Tech Blog"
   },
   "about.configuration": {
     "notes": "",
@@ -18,11 +18,11 @@
   },
   "about.credits.para1": {
     "notes": "### <tag-1> ###\n<a href=\"{{DOCS_BASE_URL}}credits\" target=\"_blank\" />\n\n",
-    "translation": "LiveCodes is made possible by open source projects, web services and contributors. <tag-1>View Credits</tag-1>"
+    "translation": "Programe.Tech is made possible by open source projects, web services and contributors. <tag-1>View Credits</tag-1>"
   },
   "about.credits.para2": {
     "notes": "",
-    "translation": "© 2024 Hatem Hosny. LiveCodes is licensed under MIT License."
+    "translation": "© 2024 Hatem Hosny. Programe.Tech is licensed under MIT License."
   },
   "about.documentations.heading": {
     "notes": "",
@@ -42,23 +42,23 @@
   },
   "about.heading": {
     "notes": "",
-    "translation": "About LiveCodes"
+    "translation": "About Programe.Tech"
   },
-  "about.livecodes.aboutUs": {
+  "about.Programe.Tech.aboutUs": {
     "notes": "",
-    "translation": "About LiveCodes"
+    "translation": "About Programe.Tech"
   },
-  "about.livecodes.para1": {
+  "about.Programe.Tech.para1": {
     "notes": "### <tag-1> ###\n<strong  />\n\n### <tag-2> ###\n<em  />\n\n",
-    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> is an open-source, feature-rich, client-side code playground. Currently, 90+ languages and frameworks are supported. It can be used as a standalone app or embedded in any web page."
+    "translation": "<tag-1><tag-2>Programe.Tech</tag-2></tag-1> is an open-source, feature-rich, client-side code playground. Currently, 90+ languages and frameworks are supported. It can be used as a standalone app or embedded in any web page."
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "notes": "",
     "translation": "A powerful SDK makes it easy to integrate and communicate with playgrounds. Extensive documentation is available with code examples, live demos, and screenshots."
   },
   "about.sdk": {
     "notes": "",
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "notes": "",
@@ -66,7 +66,7 @@
   },
   "about.sponsor.title": {
     "notes": "",
-    "translation": "Sponsor LiveCodes"
+    "translation": "Sponsor Programe.Tech"
   },
   "about.twitter.text": {
     "notes": "",
@@ -170,7 +170,7 @@
   },
   "app.logo.title": {
     "notes": "",
-    "translation": "LiveCodes: A Code Playground That Just Works!"
+    "translation": "Programe.Tech: A Code Playground That Just Works!"
   },
   "app.projectInfo.hint": {
     "notes": "",
@@ -222,7 +222,7 @@
   },
   "assets.add.githubPages.desc": {
     "notes": "### <tag-1> ###\n<span class=\"code\" />\n\n### <tag-2> ###\n<span class=\"code\" />\n\n",
-    "translation": "Deploy asset to GitHub Pages. The file is pushed to <tag-1>gh-pages</tag-1> branch of the repo <tag-2>livecodes-assets</tag-2> on your GitHub account. If the repo does not already exist, a public repo will be created."
+    "translation": "Deploy asset to GitHub Pages. The file is pushed to <tag-1>gh-pages</tag-1> branch of the repo <tag-2>Programe.Tech-assets</tag-2> on your GitHub account. If the repo does not already exist, a public repo will be created."
   },
   "assets.add.githubPages.heading": {
     "notes": "",
@@ -406,7 +406,7 @@
   },
   "backup.backup.desc": {
     "notes": "### <tag-1> ###\n<br  />\n\n### <tag-2> ###\n<a href=\"{{DOCS_BASE_URL}}features/backup-restore\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "Backup LiveCodes data, so that it can be later restored on this or other devices. <tag-1></tag-1> Please visit the <tag-2>documentations</tag-2> for details."
+    "translation": "Backup Programe.Tech data, so that it can be later restored on this or other devices. <tag-1></tag-1> Please visit the <tag-2>documentations</tag-2> for details."
   },
   "backup.backup.heading": {
     "notes": "",
@@ -454,7 +454,7 @@
   },
   "backup.restore.desc": {
     "notes": "### <tag-1> ###\n<br  />\n\n### <tag-2> ###\n<br  />\n\n### <tag-3> ###\n<a href=\"{{DOCS_BASE_URL}}features/backup-restore\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "Restore previously backed-up LiveCodes data. <tag-1></tag-1> If you choose to replace current content, you may want to back it up first. <tag-2></tag-2> Please visit the <tag-3>documentations</tag-3> for details."
+    "translation": "Restore previously backed-up Programe.Tech data. <tag-1></tag-1> If you choose to replace current content, you may want to back it up first. <tag-2></tag-2> Please visit the <tag-3>documentations</tag-3> for details."
   },
   "backup.restore.fromFile": {
     "notes": "",
@@ -1574,7 +1574,7 @@
   },
   "generic.about.sdk": {
     "notes": "",
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "generic.about.sponsor": {
     "notes": "",
@@ -1598,7 +1598,7 @@
   },
   "generic.embed.logoHint": {
     "notes": "",
-    "translation": "Edit on LiveCodes 🡕"
+    "translation": "Edit on Programe.Tech 🡕"
   },
   "generic.error.authentication": {
     "notes": "",
@@ -1810,7 +1810,7 @@
   },
   "menu.blog": {
     "notes": "",
-    "translation": "LiveCodes Blog"
+    "translation": "Programe.Tech Blog"
   },
   "menu.broadcast": {
     "notes": "",
@@ -2218,7 +2218,7 @@
   },
   "resultMode.linkText": {
     "notes": "",
-    "translation": "Edit on LiveCodes"
+    "translation": "Edit on Programe.Tech"
   },
   "savePrompt.heading": {
     "notes": "",
@@ -2478,7 +2478,7 @@
   },
   "sync.create.desc": {
     "notes": "### <tag-1> ###\n<strong  />\n\n### <tag-2> ###\n<span class=\"code\" />\n\n",
-    "translation": "A new <tag-1>private</tag-1> repo will be created. Your LiveCodes local data will be synchronized with <tag-2>main</tag-2> branch."
+    "translation": "A new <tag-1>private</tag-1> repo will be created. Your Programe.Tech local data will be synchronized with <tag-2>main</tag-2> branch."
   },
   "sync.create.heading": {
     "notes": "",
@@ -2498,7 +2498,7 @@
   },
   "sync.existing.desc": {
     "notes": "### <tag-1> ###\n<span class=\"code\" />\n\n",
-    "translation": "Your LiveCodes local data will be synchronized with <tag-1>main</tag-1> branch."
+    "translation": "Your Programe.Tech local data will be synchronized with <tag-1>main</tag-1> branch."
   },
   "sync.existing.heading": {
     "notes": "",
@@ -2813,7 +2813,7 @@
     "translation": "Tests"
   },
   "testSettings.desc": {
-    "notes": "### <tag-1> ###\n<i class=\"icon-help\" />\n\n### <tag-2> ###\n<a href=\"https://livecodes.io/docs/features/tests/\" target=\"_blank\" rel=\"noopener\" />\n\n",
+    "notes": "### <tag-1> ###\n<i class=\"icon-help\" />\n\n### <tag-2> ###\n<a href=\"https://Programe.Tech.io/docs/features/tests/\" target=\"_blank\" rel=\"noopener\" />\n\n",
     "translation": "<tag-1></tag-1> For further details, please refer to the <tag-2>documentation</tag-2>"
   },
   "toolspane.close": {
@@ -2898,7 +2898,7 @@
   },
   "welcome.about.heading": {
     "notes": "",
-    "translation": "About LiveCodes"
+    "translation": "About Programe.Tech"
   },
   "welcome.heading": {
     "notes": "",

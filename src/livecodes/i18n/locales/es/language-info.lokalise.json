@@ -82,10 +82,10 @@
     "translation": "Clio"
   },
   "clojurescript.desc": {
-    "translation": "ClojureScript es un compilador para <tag-1>Clojure</tag-1> que tiene como objetivo JavaScript. <tag-2></tag-2>En LiveCodes, se ejecuta en el navegador usando <tag-3>Cherry</tag-3>."
+    "translation": "ClojureScript es un compilador para <tag-1>Clojure</tag-1> que tiene como objetivo JavaScript. <tag-2></tag-2>En Programe.Tech, se ejecuta en el navegador usando <tag-3>Cherry</tag-3>."
   },
   "clojurescript.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de ClojureScript</tag-2> </tag-1> <tag-3> <tag-4>Sitio web oficial de Clojure</tag-4> </tag-3> <tag-5> <tag-6>Repositorio de Cherry</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=clojure</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de ClojureScript</tag-2> </tag-1> <tag-3> <tag-4>Sitio web oficial de Clojure</tag-4> </tag-3> <tag-5> <tag-6>Repositorio de Cherry</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=clojure</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
   },
   "clojurescript.name": {
     "translation": "ClojureScript (CLJS)"
@@ -139,7 +139,7 @@
     "translation": "<tag-1> <tag-2>Cytoscape</tag-2> </tag-1> <tag-3> <tag-4>ELK</tag-4> (usando <tag-5>elkjs</tag-5>) </tag-3> <tag-6> <tag-7>Gnuplot</tag-7> (usando <tag-8>gnuplot-JS</tag-8>) </tag-6> <tag-9> <tag-10>Graphviz</tag-10> (usando <tag-11>@hpcc-js/wasm</tag-11>) </tag-9> <tag-12> <tag-13>Mermaid</tag-13> </tag-12> <tag-14> <tag-15>Nomnoml</tag-15> </tag-14> <tag-16> <tag-17>Pintora</tag-17> </tag-16> <tag-18> <tag-19>Plotly</tag-19> </tag-18> <tag-20> <tag-21>Svgbob</tag-21> </tag-20> <tag-22> <tag-23>Vega</tag-23> </tag-22> <tag-24> <tag-25>VegaLite</tag-25> </tag-24> <tag-26> <tag-27>WaveDrom</tag-27> </tag-26>"
   },
   "diagrams.link": {
-    "translation": "<tag-1> <tag-2>Cargar plantilla inicial</tag-2> </tag-1> <tag-3> <tag-4>Documentación de LiveCodes</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>Cargar plantilla inicial</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Programe.Tech</tag-4> </tag-3>"
   },
   "diagrams.name": {
     "translation": "Diagramas"
@@ -148,7 +148,7 @@
     "translation": "El motor de plantillas JavaScript más rápido y conciso para Node.js y navegadores."
   },
   "dot.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial</tag-2> </tag-1> <tag-3> <tag-4>Documentación de LiveCodes</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Programe.Tech</tag-4> </tag-3>"
   },
   "dot.name": {
     "translation": "doT.js"
@@ -157,7 +157,7 @@
     "translation": "Plantillas de JavaScript integradas."
   },
   "ejs.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación de LiveCodes</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación de Programe.Tech</tag-4> </tag-3>"
   },
   "ejs.name": {
     "translation": "EJS"
@@ -166,7 +166,7 @@
     "translation": "Motor de plantillas JS integrado para Node, Deno y el navegador. Ligero, rápido y conectable. Escrito en TypeScript."
   },
   "eta.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación</tag-4> </tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5>"
+    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5>"
   },
   "eta.name": {
     "translation": "Eta"
@@ -175,7 +175,7 @@
     "translation": "Fennel es un lenguaje de programación que combina la velocidad, simplicidad y alcance de Lua con la flexibilidad de una sintaxis de lisp y un sistema de macros."
   },
   "fennel.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Fennel</tag-2> </tag-1> <tag-3> <tag-4>Introducción a Fennel</tag-4> </tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5> <tag-7> <tag-8>Cargar plantilla inicial</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Fennel</tag-2> </tag-1> <tag-3> <tag-4>Introducción a Fennel</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5> <tag-7> <tag-8>Cargar plantilla inicial</tag-8> </tag-7>"
   },
   "fennel.name": {
     "translation": "Fennel"
@@ -217,7 +217,7 @@
     "translation": "Compilador Haml para plantillas de vista JavaScript del lado del cliente usando clientside-haml-js."
   },
   "haml.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial de Haml</tag-2></tag-1> <tag-3> <tag-4>Documentación de Haml</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de clientside-haml-js</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=haml</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Sitio web oficial de Haml</tag-2></tag-1> <tag-3> <tag-4>Documentación de Haml</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de clientside-haml-js</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=haml</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9>"
   },
   "haml.name": {
     "translation": "Haml"
@@ -226,7 +226,7 @@
     "translation": "Plantillas minimalistas con esteroides."
   },
   "handlebars.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación de LiveCodes</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación de Programe.Tech</tag-4> </tag-3>"
   },
   "handlebars.name": {
     "translation": "Handlebars"
@@ -241,16 +241,16 @@
     "translation": "Imba"
   },
   "jsx.desc": {
-    "translation": "JSX se compila a JavaScript en LiveCodes usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX."
+    "translation": "JSX se compila a JavaScript en Programe.Tech usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX."
   },
   "jsx.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Documentación de JSX en React</tag-4> </tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Documentación de JSX en React</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5>"
   },
   "jsx.name": {
     "translation": "JSX"
   },
   "julia.desc1": {
-    "translation": "(El soporte del lenguaje Julia en LiveCodes aún es experimental)"
+    "translation": "(El soporte del lenguaje Julia en Programe.Tech aún es experimental)"
   },
   "julia.desc2": {
     "translation": "Compilador de Julia y Julia Base ejecutándose en WASM, utilizando <tag-1>julia-wasm</tag-1> adaptado por <tag-2>polylang.io</tag-2>."
@@ -274,7 +274,7 @@
     "translation": "Un motor de plantillas simple, expresivo y seguro."
   },
   "liquid.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de LiquidJS</tag-2> </tag-1> <tag-3> <tag-4>Documentación de LiquidJS</tag-4> </tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de LiquidJS</tag-2> </tag-1> <tag-3> <tag-4>Documentación de LiquidJS</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5>"
   },
   "liquid.name": {
     "translation": "LiquidJS"
@@ -292,7 +292,7 @@
     "translation": "Lua ejecutándose en el navegador usando fengari-web."
   },
   "lua.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial de Lua</tag-2></tag-1> <tag-3> <tag-4>Documentación de Lua</tag-4> </tag-3> <tag-5> <tag-6>Sitio web oficial de Fengari</tag-6> </tag-5> <tag-7> <tag-8>Repositorio GitHub de fengari-web</tag-8> </tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=Lua</tag-10> </tag-9> <tag-11> <tag-12>Documentación de LiveCodes</tag-12> </tag-11> <tag-13><tag-14>Cargar plantilla inicial</tag-14></tag-13>"
+    "translation": "<tag-1><tag-2>Sitio web oficial de Lua</tag-2></tag-1> <tag-3> <tag-4>Documentación de Lua</tag-4> </tag-3> <tag-5> <tag-6>Sitio web oficial de Fengari</tag-6> </tag-5> <tag-7> <tag-8>Repositorio GitHub de fengari-web</tag-8> </tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=Lua</tag-10> </tag-9> <tag-11> <tag-12>Documentación de Programe.Tech</tag-12> </tag-11> <tag-13><tag-14>Cargar plantilla inicial</tag-14></tag-13>"
   },
   "lua.name": {
     "translation": "Lua"
@@ -301,7 +301,7 @@
     "translation": "Lua ejecutándose en el navegador usando Wasmoon, una verdadera máquina virtual Lua 5.4 con enlaces JS hecha con WebAssembly."
   },
   "luaWasm.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial de Lua</tag-2></tag-1> <tag-3> <tag-4>Documentación de Lua</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de Wasmoon</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=Lua</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Sitio web oficial de Lua</tag-2></tag-1> <tag-3> <tag-4>Documentación de Lua</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de Wasmoon</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=Lua</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
   },
   "luaWasm.name": {
     "translation": "Lua (Wasm)"
@@ -337,7 +337,7 @@
     "translation": "MJML es un lenguaje de marcado diseñado para reducir el dolor de codificar un correo electrónico responsive."
   },
   "mjml.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial de MJML</tag-2></tag-1> <tag-3> <tag-4>Documentación de MJML</tag-4> </tag-3> <tag-5> <tag-6>Plantillas oficiales de MJML</tag-6> </tag-5> <tag-7> <tag-8>Documentación de LiveCodes</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>Sitio web oficial de MJML</tag-2></tag-1> <tag-3> <tag-4>Documentación de MJML</tag-4> </tag-3> <tag-5> <tag-6>Plantillas oficiales de MJML</tag-6> </tag-5> <tag-7> <tag-8>Documentación de Programe.Tech</tag-8> </tag-7>"
   },
   "mjml.name": {
     "translation": "MJML"
@@ -346,7 +346,7 @@
     "translation": "Plantillas sin lógica."
   },
   "mustache.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial</tag-2> </tag-1> <tag-3> <tag-4>Manual de mustache(5)</tag-4> </tag-3> <tag-5> <tag-6>Implementación en JavaScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación de LiveCodes</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial</tag-2> </tag-1> <tag-3> <tag-4>Manual de mustache(5)</tag-4> </tag-3> <tag-5> <tag-6>Implementación en JavaScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación de Programe.Tech</tag-8> </tag-7>"
   },
   "mustache.name": {
     "translation": "Mustache"
@@ -355,7 +355,7 @@
     "translation": "Un lenguaje de plantillas rico y poderoso para JavaScript. Nunjucks es esencialmente un puerto de <tag-1>jinja2</tag-1>."
   },
   "nunjucks.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial</tag-2> </tag-1> <tag-3> <tag-4>Documentación de LiveCodes</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Programe.Tech</tag-4> </tag-3>"
   },
   "nunjucks.name": {
     "translation": "Nunjucks"
@@ -385,7 +385,7 @@
     "translation": "PHP ejecutándose en el navegador usando Uniter."
   },
   "php.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial de PHP</tag-2></tag-1> <tag-3> <tag-4>Documentación de PHP</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de Uniter</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11><tag-12>Cargar plantilla inicial</tag-12></tag-11>"
+    "translation": "<tag-1><tag-2>Sitio web oficial de PHP</tag-2></tag-1> <tag-3> <tag-4>Documentación de PHP</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de Uniter</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11><tag-12>Cargar plantilla inicial</tag-12></tag-11>"
   },
   "php.name": {
     "translation": "PHP"
@@ -394,7 +394,7 @@
     "translation": "PHP en el navegador, impulsado por WebAssembly, usando php-wasm."
   },
   "phpWasm.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial de PHP</tag-2></tag-1> <tag-3> <tag-4>Documentación de PHP</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de php-wasm</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Sitio web oficial de PHP</tag-2></tag-1> <tag-3> <tag-4>Documentación de PHP</tag-4> </tag-3> <tag-5> <tag-6>Repositorio GitHub de php-wasm</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
   },
   "phpWasm.name": {
     "translation": "PHP (Wasm)"
@@ -421,7 +421,7 @@
     "translation": "Motor de plantillas robusto, elegante y rico en características."
   },
   "pug.link": {
-    "translation": "<tag-1> <tag-2>Documentación de Pug</tag-2> </tag-1> <tag-3> <tag-4>Aprende X en Y minutos, donde X=Pug</tag-4> </tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Documentación de Pug</tag-2> </tag-1> <tag-3> <tag-4>Aprende X en Y minutos, donde X=Pug</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5>"
   },
   "pug.name": {
     "translation": "Pug"
@@ -430,7 +430,7 @@
     "translation": "Python ejecutándose en el navegador usando Brython."
   },
   "python.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Python</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Python</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Brython</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=Python</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Python</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Python</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Brython</tag-6> </tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=Python</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
   },
   "python.name": {
     "translation": "Python"
@@ -442,7 +442,7 @@
     "translation": "Pyodide permite usar el stack científico de Python incluyendo NumPy, Pandas, Matplotlib, SciPy, scikit-learn y muchos más. Además, es posible instalar paquetes puros de Python desde PyPi."
   },
   "pythonWasm.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Python</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Python</tag-4> </tag-3> <tag-5><tag-6>Documentación de Pyodide</tag-6></tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=Python</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Python</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Python</tag-4> </tag-3> <tag-5><tag-6>Documentación de Pyodide</tag-6></tag-5> <tag-7> <tag-8>Aprende X en Y minutos, donde X=Python</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
   },
   "pythonWasm.name": {
     "translation": "Python (Wasm)"
@@ -451,7 +451,7 @@
     "translation": "R ejecutándose en el navegador usando WebR."
   },
   "r.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial del proyecto R</tag-2> </tag-1> <tag-3> <tag-4>Los manuales de R</tag-4> </tag-3> <tag-5> <tag-6>R para Ciencia de Datos (2a ed.)</tag-6> </tag-5> <tag-7> <tag-8>Documentación de WebR</tag-8> </tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=R</tag-10> </tag-9> <tag-11> <tag-12>Documentación de LiveCodes</tag-12> </tag-11> <tag-13> <tag-14>Cargar plantilla inicial</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial del proyecto R</tag-2> </tag-1> <tag-3> <tag-4>Los manuales de R</tag-4> </tag-3> <tag-5> <tag-6>R para Ciencia de Datos (2a ed.)</tag-6> </tag-5> <tag-7> <tag-8>Documentación de WebR</tag-8> </tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=R</tag-10> </tag-9> <tag-11> <tag-12>Documentación de Programe.Tech</tag-12> </tag-11> <tag-13> <tag-14>Cargar plantilla inicial</tag-14> </tag-13>"
   },
   "r.name": {
     "translation": "R"
@@ -460,7 +460,7 @@
     "translation": "React Compiler es una herramienta que funciona solo durante la compilación y optimiza automáticamente las aplicaciones React."
   },
   "react.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Compilador React</tag-4> </tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5> <tag-7> <tag-8>Cargar plantilla inicial</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Compilador React</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5> <tag-7> <tag-8>Cargar plantilla inicial</tag-8> </tag-7>"
   },
   "react.name": {
     "translation": "Compilador de React"
@@ -469,7 +469,7 @@
     "translation": "React Native para Web es una implementación accesible de los Componentes y APIs de React Native que es interoperable con React DOM."
   },
   "reactNative.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Sitio web de React Native</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de React Native para Web</tag-6> </tag-5> <tag-7> <tag-8>Documentación de React Native</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Sitio web de React Native</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de React Native para Web</tag-6> </tag-5> <tag-7> <tag-8>Documentación de React Native</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
   },
   "reactNative.name": {
     "translation": "React Native para Web"
@@ -478,7 +478,7 @@
     "translation": "React Native para Web es una implementación accesible de los Componentes y APIs de React Native que es interoperable con React DOM."
   },
   "reactNativeTsx.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Sitio web de React Native</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de React Native para Web</tag-6> </tag-5> <tag-7> <tag-8>Documentación de React Native</tag-8> </tag-7> <tag-9> <tag-10>Sitio web de TypeScript</tag-10> </tag-9> <tag-11> <tag-12>Documentación de TypeScript</tag-12> </tag-11> <tag-13> <tag-14>Documentación de LiveCodes</tag-14> </tag-13> <tag-15> <tag-16>Cargar plantilla inicial (JSX)</tag-16> </tag-15>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Sitio web de React Native</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de React Native para Web</tag-6> </tag-5> <tag-7> <tag-8>Documentación de React Native</tag-8> </tag-7> <tag-9> <tag-10>Sitio web de TypeScript</tag-10> </tag-9> <tag-11> <tag-12>Documentación de TypeScript</tag-12> </tag-11> <tag-13> <tag-14>Documentación de Programe.Tech</tag-14> </tag-13> <tag-15> <tag-16>Cargar plantilla inicial (JSX)</tag-16> </tag-15>"
   },
   "reactNativeTsx.name": {
     "translation": "React Native para Web (con TypeScript)"
@@ -487,7 +487,7 @@
     "translation": "React Compiler es una herramienta que funciona solo durante la compilación y optimiza automáticamente las aplicaciones React."
   },
   "reactTsx.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Compilador React</tag-4> </tag-3> <tag-5> <tag-6>Sitio web TypeScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación TypeScript</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial (JSX)</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Compilador React</tag-4> </tag-3> <tag-5> <tag-6>Sitio web TypeScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación TypeScript</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial (JSX)</tag-12> </tag-11>"
   },
   "reactTsx.name": {
     "translation": "Compilador React (con TypeScript)"
@@ -538,7 +538,7 @@
     "translation": "Ruby ejecutándose en el navegador usando Opal."
   },
   "ruby.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Ruby</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Ruby</tag-4> </tag-3> <tag-5><tag-6>Sitio web oficial de Opal</tag-6></tag-5> <tag-7> <tag-8>CDN de la biblioteca estándar de Opal</tag-8> </tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Documentación de LiveCodes</tag-12> </tag-11> <tag-13> <tag-14>Cargar plantilla inicial</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Ruby</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Ruby</tag-4> </tag-3> <tag-5><tag-6>Sitio web oficial de Opal</tag-6></tag-5> <tag-7> <tag-8>CDN de la biblioteca estándar de Opal</tag-8> </tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Documentación de Programe.Tech</tag-12> </tag-11> <tag-13> <tag-14>Cargar plantilla inicial</tag-14> </tag-13>"
   },
   "ruby.name": {
     "translation": "Ruby"
@@ -547,7 +547,7 @@
     "translation": "Ruby ejecutándose en el navegador usando ruby-wasm (una colección de puertos WebAssembly de CRuby)."
   },
   "rubyWasm.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Ruby</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Ruby</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de ruby.wasm</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Documentación de LiveCodes</tag-12> </tag-11> <tag-13> <tag-14>Cargar plantilla inicial</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Ruby</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Ruby</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de ruby.wasm</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>Aprende X en Y minutos, donde X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Documentación de Programe.Tech</tag-12> </tag-11> <tag-13> <tag-14>Cargar plantilla inicial</tag-14> </tag-13>"
   },
   "rubyWasm.name": {
     "translation": "Ruby (WASM)"
@@ -583,7 +583,7 @@
     "translation": "Una biblioteca JavaScript declarativa, eficiente y flexible para construir interfaces de usuario."
   },
   "solid.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3><tag-4>Documentación</tag-4></tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5> <tag-7> <tag-8>Cargar plantilla inicial (TSX)</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3><tag-4>Documentación</tag-4></tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5> <tag-7> <tag-8>Cargar plantilla inicial (TSX)</tag-8> </tag-7>"
   },
   "solid.name": {
     "translation": "Solid"
@@ -592,7 +592,7 @@
     "translation": "Una biblioteca JavaScript declarativa, eficiente y flexible para construir interfaces de usuario."
   },
   "solid.tsx.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación de Solid</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de TypeScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación de TypeScript</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Sitio web oficial</tag-2></tag-1> <tag-3> <tag-4>Documentación de Solid</tag-4> </tag-3> <tag-5> <tag-6>Sitio web de TypeScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación de TypeScript</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9> <tag-11> <tag-12>Cargar plantilla inicial</tag-12> </tag-11>"
   },
   "solid.tsx.name": {
     "translation": "Solid (con TypeScript)"
@@ -643,7 +643,7 @@
     "translation": "Alternativa super rápida a Babel para cuando puedes apuntar a entornos de ejecución JS modernos."
   },
   "sucrase.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Sucrase</tag-2> </tag-1> <tag-3> <tag-4>Repositorio GitHub de Sucrase</tag-4> </tag-3> <tag-5> <tag-6>Documentación de LiveCodes</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Sucrase</tag-2> </tag-1> <tag-3> <tag-4>Repositorio GitHub de Sucrase</tag-4> </tag-3> <tag-5> <tag-6>Documentación de Programe.Tech</tag-6> </tag-5>"
   },
   "sucrase.name": {
     "translation": "Sucrase"
@@ -670,16 +670,16 @@
     "translation": "Un dialecto tipado de Lua."
   },
   "teal.link": {
-    "translation": "<tag-1> <tag-2>Repositorio GitHub de Teal</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Teal</tag-4> </tag-3> <tag-5> <tag-6>Tutorial de Teal</tag-6> </tag-5> <tag-7> <tag-8>Documentación de LiveCodes</tag-8> </tag-7> <tag-9> <tag-10>Cargar plantilla inicial</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Repositorio GitHub de Teal</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Teal</tag-4> </tag-3> <tag-5> <tag-6>Tutorial de Teal</tag-6> </tag-5> <tag-7> <tag-8>Documentación de Programe.Tech</tag-8> </tag-7> <tag-9> <tag-10>Cargar plantilla inicial</tag-10> </tag-9>"
   },
   "teal.name": {
     "translation": "Teal"
   },
   "tsx.desc": {
-    "translation": "TypeScript en JSX. TSX se compila a JavaScript en LiveCodes usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX."
+    "translation": "TypeScript en JSX. TSX se compila a JavaScript en Programe.Tech usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX."
   },
   "tsx.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Documentación de JSX en React</tag-4> </tag-3> <tag-5> <tag-6>Documentación de TypeScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación de LiveCodes</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de React</tag-2> </tag-1> <tag-3> <tag-4>Documentación de JSX en React</tag-4> </tag-3> <tag-5> <tag-6>Documentación de TypeScript</tag-6> </tag-5> <tag-7> <tag-8>Documentación de Programe.Tech</tag-8> </tag-7>"
   },
   "tsx.name": {
     "translation": "TSX"
@@ -688,7 +688,7 @@
     "translation": "Una implementación en JavaScript del lenguaje de plantillas PHP <tag-1>Twig</tag-1> por <tag-2>Twig.js</tag-2>."
   },
   "twig.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Twig</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Twig</tag-4> </tag-3> <tag-5> <tag-6>Repositorio de Twig.js</tag-6> </tag-5> <tag-7> <tag-8>Documentación de Twig.js</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Twig</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Twig</tag-4> </tag-3> <tag-5> <tag-6>Repositorio de Twig.js</tag-6> </tag-5> <tag-7> <tag-8>Documentación de Twig.js</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9>"
   },
   "twig.name": {
     "translation": "Twig"
@@ -703,7 +703,7 @@
     "translation": "TypeScript"
   },
   "vue.link": {
-    "translation": "<tag-1> <tag-2>Sitio web oficial de Vue.js v3</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Vue3</tag-4> </tag-3> <tag-5> <tag-6>Componentes de archivo único de Vue3</tag-6> </tag-5> <tag-7> <tag-8>Documentación de LiveCodes</tag-8> </tag-7> <tag-9><tag-10>Cargar plantilla inicial</tag-10></tag-9>"
+    "translation": "<tag-1> <tag-2>Sitio web oficial de Vue.js v3</tag-2> </tag-1> <tag-3> <tag-4>Documentación de Vue3</tag-4> </tag-3> <tag-5> <tag-6>Componentes de archivo único de Vue3</tag-6> </tag-5> <tag-7> <tag-8>Documentación de Programe.Tech</tag-8> </tag-7> <tag-9><tag-10>Cargar plantilla inicial</tag-10></tag-9>"
   },
   "vue.name": {
     "translation": "Componentes de archivo único de Vue3"
@@ -712,7 +712,7 @@
     "translation": "Cargado usando vue3-sfc-loader."
   },
   "vue2.link": {
-    "translation": "<tag-1><tag-2>Sitio web oficial de Vue.js</tag-2></tag-1> <tag-3> <tag-4>Documentación de Vue2</tag-4> </tag-3> <tag-5> <tag-6>Componentes de archivo único de Vue2</tag-6> </tag-5> <tag-7> <tag-8>Repositorio GitHub de vue3-sfc-loader</tag-8> </tag-7> <tag-9> <tag-10>Documentación de LiveCodes</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Sitio web oficial de Vue.js</tag-2></tag-1> <tag-3> <tag-4>Documentación de Vue2</tag-4> </tag-3> <tag-5> <tag-6>Componentes de archivo único de Vue2</tag-6> </tag-5> <tag-7> <tag-8>Repositorio GitHub de vue3-sfc-loader</tag-8> </tag-7> <tag-9> <tag-10>Documentación de Programe.Tech</tag-10> </tag-9>"
   },
   "vue2.name": {
     "translation": "Componentes de archivo único de Vue2"

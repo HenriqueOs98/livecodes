@@ -13,14 +13,14 @@ const translation = {
   about: {
     blog: {
       text: 'Blog',
-      title: 'LiveCodes Blog',
+      title: 'Programe.Tech Blog',
     },
     configuration: 'Configuration',
     credits: {
       heading: 'Credits',
       para1:
-        'LiveCodes is made possible by open source projects, web services and contributors. <1>View Credits</1>',
-      para2: '© 2024 Hatem Hosny. LiveCodes is licensed under MIT License.',
+        'Programe.Tech is made possible by open source projects, web services and contributors. <1>View Credits</1>',
+      para2: '© 2024 Hatem Hosny. Programe.Tech is licensed under MIT License.',
     },
     documentations: {
       heading: 'Documentations',
@@ -30,18 +30,18 @@ const translation = {
       text: 'GitHub',
       title: 'GitHub',
     },
-    heading: 'About LiveCodes',
-    livecodes: {
-      aboutUs: 'About LiveCodes',
+    heading: 'About Programe.Tech',
+    Programe.Tech: {
+      aboutUs: 'About Programe.Tech',
       para1:
-        '<1><2>LiveCodes</2></1> is an open-source, feature-rich, client-side code playground. Currently, 90+ languages and frameworks are supported. It can be used as a standalone app or embedded in any web page.',
+        '<1><2>Programe.Tech</2></1> is an open-source, feature-rich, client-side code playground. Currently, 90+ languages and frameworks are supported. It can be used as a standalone app or embedded in any web page.',
       para2:
         'A powerful SDK makes it easy to integrate and communicate with playgrounds. Extensive documentation is available with code examples, live demos, and screenshots.',
     },
-    sdk: 'LiveCodes SDK',
+    sdk: 'Programe.Tech SDK',
     sponsor: {
       text: 'Sponsor',
-      title: 'Sponsor LiveCodes',
+      title: 'Sponsor Programe.Tech',
     },
     twitter: {
       text: '𝕏 / Twitter',
@@ -101,7 +101,7 @@ const translation = {
       helpTranslate: 'Help Us Translate',
     },
     logo: {
-      title: 'LiveCodes: A Code Playground That Just Works!',
+      title: 'Programe.Tech: A Code Playground That Just Works!',
     },
     projectInfo: {
       hint: 'Project Info',
@@ -137,7 +137,7 @@ const translation = {
         label: 'Add file',
       },
       githubPages: {
-        desc: 'Deploy asset to GitHub Pages. The file is pushed to <1>gh-pages</1> branch of the repo <2>livecodes-assets</2> on your GitHub account. If the repo does not already exist, a public repo will be created.',
+        desc: 'Deploy asset to GitHub Pages. The file is pushed to <1>gh-pages</1> branch of the repo <2>Programe.Tech-assets</2> on your GitHub account. If the repo does not already exist, a public repo will be created.',
         heading: 'GitHub Pages',
         label: 'Upload file',
       },
@@ -208,7 +208,7 @@ const translation = {
     backup: {
       assets: 'Assets',
       button: 'Backup',
-      desc: 'Backup LiveCodes data, so that it can be later restored on this or other devices. <1></1> Please visit the <2>documentations</2> for details.',
+      desc: 'Backup Programe.Tech data, so that it can be later restored on this or other devices. <1></1> Please visit the <2>documentations</2> for details.',
       heading: 'Backup',
       projects: 'Projects',
       settings: 'User Settings',
@@ -224,7 +224,7 @@ const translation = {
     heading: 'Backup / Restore',
     inProgress: 'In progress...',
     restore: {
-      desc: 'Restore previously backed-up LiveCodes data. <1></1> If you choose to replace current content, you may want to back it up first. <2></2> Please visit the <3>documentations</3> for details.',
+      desc: 'Restore previously backed-up Programe.Tech data. <1></1> If you choose to replace current content, you may want to back it up first. <2></2> Please visit the <3>documentations</3> for details.',
       fromFile: 'Restore from file',
       heading: 'Restore',
       mode: {
@@ -616,7 +616,7 @@ const translation = {
       configuration: 'Configuration',
       gettingStarted: 'Getting Started',
       github: 'GitHub',
-      sdk: 'LiveCodes SDK',
+      sdk: 'Programe.Tech SDK',
       sponsor: 'Sponsor',
       twitter: '𝕏 / Twitter',
     },
@@ -624,7 +624,7 @@ const translation = {
     close: 'Close',
     custom: 'Custom',
     embed: {
-      logoHint: 'Edit on LiveCodes 🡕',
+      logoHint: 'Edit on Programe.Tech 🡕',
     },
     error: {
       authentication: 'Authentication error!',
@@ -705,7 +705,7 @@ const translation = {
     autoSave: 'Auto Save',
     autoUpdate: 'Auto Update',
     backup: 'Backup / Restore …',
-    blog: 'LiveCodes Blog',
+    blog: 'Programe.Tech Blog',
     broadcast: 'Broadcast …',
     commandMenu: 'Command Menu',
     config: 'Configuration',
@@ -851,7 +851,7 @@ const translation = {
     urlDesc: 'Add stylesheet/script URLs. Each URL should be in a separate line.',
   },
   resultMode: {
-    linkText: 'Edit on LiveCodes',
+    linkText: 'Edit on Programe.Tech',
   },
   savePrompt: {
     heading: 'Unsaved changes',
@@ -955,7 +955,7 @@ const translation = {
   sync: {
     autoSync: 'Auto sync',
     create: {
-      desc: 'A new <1>private</1> repo will be created. Your LiveCodes local data will be synchronized with <2>main</2> branch.',
+      desc: 'A new <1>private</1> repo will be created. Your Programe.Tech local data will be synchronized with <2>main</2> branch.',
       heading: 'Create New Repo',
       repoName: 'Repo Name',
     },
@@ -964,7 +964,7 @@ const translation = {
       repoNameRequired: 'Repo name is required',
     },
     existing: {
-      desc: 'Your LiveCodes local data will be synchronized with <1>main</1> branch.',
+      desc: 'Your Programe.Tech local data will be synchronized with <1>main</1> branch.',
       heading: 'Existing Repo',
       repoName: 'Repo Name',
     },
@@ -1094,7 +1094,7 @@ const translation = {
   welcome: {
     about: {
       documentation: 'Documentation',
-      heading: 'About LiveCodes',
+      heading: 'About Programe.Tech',
     },
     heading: 'Welcome',
     recent: {

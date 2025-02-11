@@ -82,10 +82,10 @@
     "translation": "Clio"
   },
   "clojurescript.desc": {
-    "translation": "ClojureScript は JavaScript をターゲットとする<tag-1>Clojure</tag-1>のコンパイラです。<tag-2></tag-2>LiveCodes では、<tag-3>Cherry</tag-3>を使用してブラウザで実行されます。"
+    "translation": "ClojureScript は JavaScript をターゲットとする<tag-1>Clojure</tag-1>のコンパイラです。<tag-2></tag-2>Programe.Tech では、<tag-3>Cherry</tag-3>を使用してブラウザで実行されます。"
   },
   "clojurescript.link": {
-    "translation": "<tag-1> <tag-2>ClojureScript 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Clojure 公式ウェブサイト</tag-4> </tag-3> <tag-5> <tag-6>Cherry リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=clojure</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>ClojureScript 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Clojure 公式ウェブサイト</tag-4> </tag-3> <tag-5> <tag-6>Cherry リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=clojure</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
   },
   "clojurescript.name": {
     "translation": "ClojureScript (CLJS)"
@@ -139,7 +139,7 @@
     "translation": "<tag-1> <tag-2>Cytoscape</tag-2> </tag-1> <tag-3> <tag-4>ELK</tag-4> (<tag-5>elkjs</tag-5>を使用) </tag-3> <tag-6> <tag-7>Gnuplot</tag-7> (<tag-8>gnuplot-JS</tag-8>を使用) </tag-6> <tag-9> <tag-10>Graphviz</tag-10> (<tag-11>@hpcc-js/wasm</tag-11>を使用) </tag-9> <tag-12> <tag-13>Mermaid</tag-13> </tag-12> <tag-14> <tag-15>Nomnoml</tag-15> </tag-14> <tag-16> <tag-17>Pintora</tag-17> </tag-16> <tag-18> <tag-19>Plotly</tag-19> </tag-18> <tag-20> <tag-21>Svgbob</tag-21> </tag-20> <tag-22> <tag-23>Vega</tag-23> </tag-22> <tag-24> <tag-25>VegaLite</tag-25> </tag-24> <tag-26> <tag-27>WaveDrom</tag-27> </tag-26>"
   },
   "diagrams.link": {
-    "translation": "<tag-1> <tag-2>スターターテンプレートを読み込む</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes ドキュメント</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>スターターテンプレートを読み込む</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech ドキュメント</tag-4> </tag-3>"
   },
   "diagrams.name": {
     "translation": "ダイアグラム"
@@ -148,7 +148,7 @@
     "translation": "Node.js とブラウザ向けの最速かつ簡潔な JavaScript テンプレートエンジン。"
   },
   "dot.link": {
-    "translation": "<tag-1> <tag-2>公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes ドキュメント</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech ドキュメント</tag-4> </tag-3>"
   },
   "dot.name": {
     "translation": "doT.js"
@@ -157,7 +157,7 @@
     "translation": "埋め込み JavaScript テンプレート。"
   },
   "ejs.link": {
-    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>LiveCodes ドキュメント</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech ドキュメント</tag-4> </tag-3>"
   },
   "ejs.name": {
     "translation": "EJS"
@@ -166,7 +166,7 @@
     "translation": "Node、Deno、ブラウザ用の埋め込み JS テンプレートエンジン。軽量、高速、プラガブル。TypeScript で書かれています。"
   },
   "eta.link": {
-    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes ドキュメント</tag-6> </tag-5>"
+    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech ドキュメント</tag-6> </tag-5>"
   },
   "eta.name": {
     "translation": "Eta"
@@ -175,7 +175,7 @@
     "translation": "Fennel は、Lua のスピード、シンプルさ、リーチと、Lisp 構文とマクロシステムの柔軟性を組み合わせたプログラミング言語です。"
   },
   "fennel.link": {
-    "translation": "<tag-1> <tag-2>Fennel 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Fennel 入門</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>スターターテンプレートを読み込む</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Fennel 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Fennel 入門</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>スターターテンプレートを読み込む</tag-8> </tag-7>"
   },
   "fennel.name": {
     "translation": "Fennel"
@@ -217,7 +217,7 @@
     "translation": "clientside-haml-js を使用したクライアントサイド JavaScript ビューテンプレート用の Haml コンパイラ。"
   },
   "haml.link": {
-    "translation": "<tag-1><tag-2>Haml 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Haml ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=haml</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Haml 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Haml ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=haml</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9>"
   },
   "haml.name": {
     "translation": "Haml"
@@ -226,7 +226,7 @@
     "translation": "ステロイドを使用したミニマルなテンプレートエンジン。"
   },
   "handlebars.link": {
-    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>LiveCodes ドキュメント</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech ドキュメント</tag-4> </tag-3>"
   },
   "handlebars.name": {
     "translation": "Handlebars"
@@ -241,16 +241,16 @@
     "translation": "Imba"
   },
   "jsx.desc": {
-    "translation": "JSX は LiveCodes で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。"
+    "translation": "JSX は Programe.Tech で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。"
   },
   "jsx.link": {
-    "translation": "<tag-1> <tag-2>React 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React ドキュメントの JSX</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes ドキュメント</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>React 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React ドキュメントの JSX</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech ドキュメント</tag-6> </tag-5>"
   },
   "jsx.name": {
     "translation": "JSX"
   },
   "julia.desc1": {
-    "translation": "（LiveCodes での Julia 言語サポートはまだ実験的です）"
+    "translation": "（Programe.Tech での Julia 言語サポートはまだ実験的です）"
   },
   "julia.desc2": {
     "translation": "<tag-2>polylang.io</tag-2>によって適応された<tag-1>julia-wasm</tag-1>を使用して、WASM上で動作するJuliaコンパイラとJulia Base。"
@@ -274,7 +274,7 @@
     "translation": "シンプルで表現力豊かで安全なテンプレートエンジン。"
   },
   "liquid.link": {
-    "translation": "<tag-1> <tag-2>LiquidJS 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes ドキュメント</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>LiquidJS 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech ドキュメント</tag-6> </tag-5>"
   },
   "liquid.name": {
     "translation": "LiquidJS"
@@ -292,7 +292,7 @@
     "translation": "fengari-web を使用してブラウザで動作する Lua。"
   },
   "lua.link": {
-    "translation": "<tag-1><tag-2>Lua 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Lua ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Fengari 公式ウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub リポジトリ</tag-8> </tag-7> <tag-9> <tag-10>X分でYを学ぶ、X=Lua</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes ドキュメント</tag-12> </tag-11> <tag-13><tag-14>スターターテンプレートを読み込む</tag-14></tag-13>"
+    "translation": "<tag-1><tag-2>Lua 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Lua ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Fengari 公式ウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub リポジトリ</tag-8> </tag-7> <tag-9> <tag-10>X分でYを学ぶ、X=Lua</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech ドキュメント</tag-12> </tag-11> <tag-13><tag-14>スターターテンプレートを読み込む</tag-14></tag-13>"
   },
   "lua.name": {
     "translation": "Lua"
@@ -301,7 +301,7 @@
     "translation": "WebAssembly で作成された JS バインディングを持つ実際の Lua 5.4 VM である Wasmoon を使用してブラウザで動作する Lua。"
   },
   "luaWasm.link": {
-    "translation": "<tag-1><tag-2>Lua 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Lua ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=Lua</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Lua 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Lua ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=Lua</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
   },
   "luaWasm.name": {
     "translation": "Lua (Wasm)"
@@ -337,7 +337,7 @@
     "translation": "MJML は、レスポンシブなメールのコーディングの苦痛を軽減するために設計されたマークアップ言語です。"
   },
   "mjml.link": {
-    "translation": "<tag-1><tag-2>MJML 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>MJML ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>MJML 公式テンプレート</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes ドキュメント</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>MJML 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>MJML ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>MJML 公式テンプレート</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech ドキュメント</tag-8> </tag-7>"
   },
   "mjml.name": {
     "translation": "MJML"
@@ -346,7 +346,7 @@
     "translation": "ロジックレステンプレート。"
   },
   "mustache.link": {
-    "translation": "<tag-1> <tag-2>公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>mustache(5) マニュアル</tag-4> </tag-3> <tag-5> <tag-6>JavaScript 実装</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes ドキュメント</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>mustache(5) マニュアル</tag-4> </tag-3> <tag-5> <tag-6>JavaScript 実装</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech ドキュメント</tag-8> </tag-7>"
   },
   "mustache.name": {
     "translation": "Mustache"
@@ -355,7 +355,7 @@
     "translation": "JavaScript 用の豊富で強力なテンプレート言語。Nunjucks は本質的に<tag-1>jinja2</tag-1>のポートです。"
   },
   "nunjucks.link": {
-    "translation": "<tag-1> <tag-2>公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes ドキュメント</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech ドキュメント</tag-4> </tag-3>"
   },
   "nunjucks.name": {
     "translation": "Nunjucks"
@@ -385,7 +385,7 @@
     "translation": "Uniter を使用してブラウザで動作する PHP。"
   },
   "php.link": {
-    "translation": "<tag-1><tag-2>PHP 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>PHP ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9> <tag-11><tag-12>スターターテンプレートを読み込む</tag-12></tag-11>"
+    "translation": "<tag-1><tag-2>PHP 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>PHP ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9> <tag-11><tag-12>スターターテンプレートを読み込む</tag-12></tag-11>"
   },
   "php.name": {
     "translation": "PHP"
@@ -394,7 +394,7 @@
     "translation": "php-wasm を使用し、WebAssembly を利用したブラウザ内の PHP。"
   },
   "phpWasm.link": {
-    "translation": "<tag-1><tag-2>PHP 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>PHP ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>PHP 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>PHP ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
   },
   "phpWasm.name": {
     "translation": "PHP (Wasm)"
@@ -421,7 +421,7 @@
     "translation": "堅牢で、エレガントで、機能豊富なテンプレートエンジン。"
   },
   "pug.link": {
-    "translation": "<tag-1> <tag-2>Pug ドキュメント</tag-2> </tag-1> <tag-3> <tag-4>X分でYを学ぶ、X=Pug</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes ドキュメント</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Pug ドキュメント</tag-2> </tag-1> <tag-3> <tag-4>X分でYを学ぶ、X=Pug</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech ドキュメント</tag-6> </tag-5>"
   },
   "pug.name": {
     "translation": "Pug"
@@ -430,7 +430,7 @@
     "translation": "Brython を使用してブラウザで動作する Python。"
   },
   "python.link": {
-    "translation": "<tag-1> <tag-2>Python 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Python ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Brython ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Python ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Brython ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
   },
   "python.name": {
     "translation": "Python"
@@ -442,7 +442,7 @@
     "translation": "Pyodide を使用すると、NumPy、Pandas、Matplotlib、SciPy、scikit-learn などを含む Python の科学計算スタックを使用できます。さらに、PyPi からピュアな Python ホイールをインストールすることも可能です。"
   },
   "pythonWasm.link": {
-    "translation": "<tag-1> <tag-2>Python 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Python ドキュメント</tag-4> </tag-3> <tag-5><tag-6>Pyodide ドキュメント</tag-6></tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Python ドキュメント</tag-4> </tag-3> <tag-5><tag-6>Pyodide ドキュメント</tag-6></tag-5> <tag-7> <tag-8>X分でYを学ぶ、X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
   },
   "pythonWasm.name": {
     "translation": "Python (Wasm)"
@@ -451,7 +451,7 @@
     "translation": "WebRを使用してブラウザで実行されるR。"
   },
   "r.link": {
-    "translation": "<tag-1> <tag-2>Rプロジェクト公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Rマニュアル</tag-4> </tag-3> <tag-5> <tag-6>Rによるデータサイエンス（第2版）</tag-6> </tag-5> <tag-7> <tag-8>WebRドキュメント</tag-8> </tag-7> <tag-9> <tag-10>X分でわかるR（X in Y minutes）</tag-10> </tag-9> <tag-11> <tag-12>LiveCodesドキュメント</tag-12> </tag-11> <tag-13> <tag-14>スターターテンプレートを読み込む</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Rプロジェクト公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Rマニュアル</tag-4> </tag-3> <tag-5> <tag-6>Rによるデータサイエンス（第2版）</tag-6> </tag-5> <tag-7> <tag-8>WebRドキュメント</tag-8> </tag-7> <tag-9> <tag-10>X分でわかるR（X in Y minutes）</tag-10> </tag-9> <tag-11> <tag-12>Programe.Techドキュメント</tag-12> </tag-11> <tag-13> <tag-14>スターターテンプレートを読み込む</tag-14> </tag-13>"
   },
   "r.name": {
     "translation": "R"
@@ -460,7 +460,7 @@
     "translation": "React Compiler はビルド時にのみ動作し、React アプリケーションを自動的に最適化するツールです。"
   },
   "react.link": {
-    "translation": "<tag-1> <tag-2>React 公式サイト</tag-2> </tag-1> <tag-3> <tag-4>React コンパイラ</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>スターターテンプレートを読み込む</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React 公式サイト</tag-2> </tag-1> <tag-3> <tag-4>React コンパイラ</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>スターターテンプレートを読み込む</tag-8> </tag-7>"
   },
   "react.name": {
     "translation": "React コンパイラ"
@@ -469,7 +469,7 @@
     "translation": "React Native for WebはReact DOMと相互運用可能なReact NativeのコンポーネントとAPIのアクセシブルな実装です。"
   },
   "reactNative.link": {
-    "translation": "<tag-1> <tag-2>React公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React Nativeウェブサイト</tag-4> </tag-3> <tag-5> <tag-6>React Native for Webウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>React Nativeドキュメント</tag-8> </tag-7> <tag-9> <tag-10>LiveCodesドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React Nativeウェブサイト</tag-4> </tag-3> <tag-5> <tag-6>React Native for Webウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>React Nativeドキュメント</tag-8> </tag-7> <tag-9> <tag-10>Programe.Techドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
   },
   "reactNative.name": {
     "translation": "React Native for Web"
@@ -478,7 +478,7 @@
     "translation": "React Native for WebはReact DOMと相互運用可能なReact NativeのコンポーネントとAPIのアクセシブルな実装です。"
   },
   "reactNativeTsx.link": {
-    "translation": "<tag-1> <tag-2>React公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React Nativeウェブサイト</tag-4> </tag-3> <tag-5> <tag-6>React Native for Webウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>React Nativeドキュメント</tag-8> </tag-7> <tag-9> <tag-10>TypeScriptウェブサイト</tag-10> </tag-9> <tag-11> <tag-12>TypeScriptドキュメント</tag-12> </tag-11> <tag-13> <tag-14>LiveCodesドキュメント</tag-14> </tag-13> <tag-15> <tag-16>スターターテンプレートを読み込む（JSX）</tag-16> </tag-15>"
+    "translation": "<tag-1> <tag-2>React公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React Nativeウェブサイト</tag-4> </tag-3> <tag-5> <tag-6>React Native for Webウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>React Nativeドキュメント</tag-8> </tag-7> <tag-9> <tag-10>TypeScriptウェブサイト</tag-10> </tag-9> <tag-11> <tag-12>TypeScriptドキュメント</tag-12> </tag-11> <tag-13> <tag-14>Programe.Techドキュメント</tag-14> </tag-13> <tag-15> <tag-16>スターターテンプレートを読み込む（JSX）</tag-16> </tag-15>"
   },
   "reactNativeTsx.name": {
     "translation": "React Native for Web（TypeScript使用）"
@@ -487,7 +487,7 @@
     "translation": "React Compiler はビルド時にのみ動作し、React アプリケーションを自動的に最適化するツールです。"
   },
   "reactTsx.link": {
-    "translation": "<tag-1> <tag-2>React 公式サイト</tag-2> </tag-1> <tag-3> <tag-4>React コンパイラ</tag-4> </tag-3> <tag-5> <tag-6>TypeScript サイト</tag-6> </tag-5> <tag-7> <tag-8>TypeScript ドキュメント</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む (JSX)</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React 公式サイト</tag-2> </tag-1> <tag-3> <tag-4>React コンパイラ</tag-4> </tag-3> <tag-5> <tag-6>TypeScript サイト</tag-6> </tag-5> <tag-7> <tag-8>TypeScript ドキュメント</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む (JSX)</tag-12> </tag-11>"
   },
   "reactTsx.name": {
     "translation": "React コンパイラ (TypeScript 付き)"
@@ -538,7 +538,7 @@
     "translation": "Opalを使用してブラウザで実行されるRuby。"
   },
   "ruby.link": {
-    "translation": "<tag-1> <tag-2>Ruby公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Rubyドキュメント</tag-4> </tag-3> <tag-5><tag-6>Opal公式ウェブサイト</tag-6></tag-5> <tag-7> <tag-8>Opal標準ライブラリCDN</tag-8> </tag-7> <tag-9> <tag-10>X分でわかるRuby（X in Y minutes）</tag-10> </tag-9> <tag-11> <tag-12>LiveCodesドキュメント</tag-12> </tag-11> <tag-13> <tag-14>スターターテンプレートを読み込む</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Rubyドキュメント</tag-4> </tag-3> <tag-5><tag-6>Opal公式ウェブサイト</tag-6></tag-5> <tag-7> <tag-8>Opal標準ライブラリCDN</tag-8> </tag-7> <tag-9> <tag-10>X分でわかるRuby（X in Y minutes）</tag-10> </tag-9> <tag-11> <tag-12>Programe.Techドキュメント</tag-12> </tag-11> <tag-13> <tag-14>スターターテンプレートを読み込む</tag-14> </tag-13>"
   },
   "ruby.name": {
     "translation": "Ruby"
@@ -547,7 +547,7 @@
     "translation": "ruby-wasm（CRubyのWebAssemblyポートのコレクション）を使用してブラウザで実行されるRuby。"
   },
   "rubyWasm.link": {
-    "translation": "<tag-1> <tag-2>Ruby公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Rubyドキュメント</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasmウェブサイト</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>X分でわかるRuby（X in Y minutes）</tag-10> </tag-9> <tag-11> <tag-12>LiveCodesドキュメント</tag-12> </tag-11> <tag-13> <tag-14>スターターテンプレートを読み込む</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Rubyドキュメント</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasmウェブサイト</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>X分でわかるRuby（X in Y minutes）</tag-10> </tag-9> <tag-11> <tag-12>Programe.Techドキュメント</tag-12> </tag-11> <tag-13> <tag-14>スターターテンプレートを読み込む</tag-14> </tag-13>"
   },
   "rubyWasm.name": {
     "translation": "Ruby（WASM）"
@@ -583,7 +583,7 @@
     "translation": "ユーザーインターフェースを構築するための宣言的、効率的、柔軟なJavaScriptライブラリ。"
   },
   "solid.link": {
-    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3><tag-4>ドキュメント</tag-4></tag-3> <tag-5> <tag-6>LiveCodesドキュメント</tag-6> </tag-5> <tag-7> <tag-8>スターターテンプレートを読み込む（TSX）</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3><tag-4>ドキュメント</tag-4></tag-3> <tag-5> <tag-6>Programe.Techドキュメント</tag-6> </tag-5> <tag-7> <tag-8>スターターテンプレートを読み込む（TSX）</tag-8> </tag-7>"
   },
   "solid.name": {
     "translation": "Solid"
@@ -592,7 +592,7 @@
     "translation": "ユーザーインターフェースを構築するための宣言的、効率的、柔軟なJavaScriptライブラリ。"
   },
   "solid.tsx.link": {
-    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Solidドキュメント</tag-4> </tag-3> <tag-5> <tag-6>TypeScriptウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>TypeScriptドキュメント</tag-8> </tag-7> <tag-9> <tag-10>LiveCodesドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Solidドキュメント</tag-4> </tag-3> <tag-5> <tag-6>TypeScriptウェブサイト</tag-6> </tag-5> <tag-7> <tag-8>TypeScriptドキュメント</tag-8> </tag-7> <tag-9> <tag-10>Programe.Techドキュメント</tag-10> </tag-9> <tag-11> <tag-12>スターターテンプレートを読み込む</tag-12> </tag-11>"
   },
   "solid.tsx.name": {
     "translation": "Solid（TypeScript使用）"
@@ -643,7 +643,7 @@
     "translation": "最新の JS ランタイムをターゲットにできる場合のための、超高速な Babel の代替品。"
   },
   "sucrase.link": {
-    "translation": "<tag-1> <tag-2>Sucrase 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub リポジトリ</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes ドキュメント</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sucrase 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub リポジトリ</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech ドキュメント</tag-6> </tag-5>"
   },
   "sucrase.name": {
     "translation": "Sucrase"
@@ -670,16 +670,16 @@
     "translation": "Lua の型付き方言。"
   },
   "teal.link": {
-    "translation": "<tag-1> <tag-2>Teal GitHub リポジトリ</tag-2> </tag-1> <tag-3> <tag-4>Teal ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Teal チュートリアル</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes ドキュメント</tag-8> </tag-7> <tag-9> <tag-10>スターターテンプレートを読み込む</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Teal GitHub リポジトリ</tag-2> </tag-1> <tag-3> <tag-4>Teal ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Teal チュートリアル</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech ドキュメント</tag-8> </tag-7> <tag-9> <tag-10>スターターテンプレートを読み込む</tag-10> </tag-9>"
   },
   "teal.name": {
     "translation": "Teal"
   },
   "tsx.desc": {
-    "translation": "JSX での TypeScript。TSX は LiveCodes で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。"
+    "translation": "JSX での TypeScript。TSX は Programe.Tech で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。"
   },
   "tsx.link": {
-    "translation": "<tag-1> <tag-2>React 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React ドキュメントの JSX</tag-4> </tag-3> <tag-5> <tag-6>Typescript ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes ドキュメント</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>React ドキュメントの JSX</tag-4> </tag-3> <tag-5> <tag-6>Typescript ドキュメント</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech ドキュメント</tag-8> </tag-7>"
   },
   "tsx.name": {
     "translation": "TSX"
@@ -688,7 +688,7 @@
     "translation": "<tag-2>Twig.js</tag-2>による<tag-1>Twig</tag-1> PHP テンプレート言語の JavaScript 実装。"
   },
   "twig.link": {
-    "translation": "<tag-1> <tag-2>Twig 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Twig ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Twig.js リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>Twig.js ドキュメント</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Twig 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Twig ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Twig.js リポジトリ</tag-6> </tag-5> <tag-7> <tag-8>Twig.js ドキュメント</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9>"
   },
   "twig.name": {
     "translation": "Twig"
@@ -703,7 +703,7 @@
     "translation": "TypeScript"
   },
   "vue.link": {
-    "translation": "<tag-1> <tag-2>Vue.js v3 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Vue3 ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Vue3 単一ファイルコンポーネント</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes ドキュメント</tag-8> </tag-7> <tag-9><tag-10>スターターテンプレートを読み込む</tag-10></tag-9>"
+    "translation": "<tag-1> <tag-2>Vue.js v3 公式ウェブサイト</tag-2> </tag-1> <tag-3> <tag-4>Vue3 ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Vue3 単一ファイルコンポーネント</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech ドキュメント</tag-8> </tag-7> <tag-9><tag-10>スターターテンプレートを読み込む</tag-10></tag-9>"
   },
   "vue.name": {
     "translation": "Vue3 単一ファイルコンポーネント"
@@ -712,7 +712,7 @@
     "translation": "vue3-sfc-loader を使用して読み込みます。"
   },
   "vue2.link": {
-    "translation": "<tag-1><tag-2>Vue.js 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Vue2 ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Vue2 単一ファイルコンポーネント</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub リポジトリ</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes ドキュメント</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Vue.js 公式ウェブサイト</tag-2></tag-1> <tag-3> <tag-4>Vue2 ドキュメント</tag-4> </tag-3> <tag-5> <tag-6>Vue2 単一ファイルコンポーネント</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub リポジトリ</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech ドキュメント</tag-10> </tag-9>"
   },
   "vue2.name": {
     "translation": "Vue2 単一ファイルコンポーネント"

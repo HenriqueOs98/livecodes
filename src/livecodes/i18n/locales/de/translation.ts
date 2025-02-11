@@ -6,14 +6,14 @@ const translation: I18nTranslation = {
   about: {
     blog: {
       text: 'Blog',
-      title: 'LiveCodes Blog',
+      title: 'Programe.Tech Blog',
     },
     configuration: 'Konfiguration',
     credits: {
       heading: 'Kredite',
       para1:
-        'LiveCodes wird durch Open-Source-Projekte, Webdienste und Mitwirkende ermöglicht. <1> Credits anzeigen </1>',
-      para2: '© 2024 Hatem Hosny. LiveCodes ist unter der MIT-Lizenz lizenziert.',
+        'Programe.Tech wird durch Open-Source-Projekte, Webdienste und Mitwirkende ermöglicht. <1> Credits anzeigen </1>',
+      para2: '© 2024 Hatem Hosny. Programe.Tech ist unter der MIT-Lizenz lizenziert.',
     },
     documentations: {
       heading: 'Dokumentationen',
@@ -23,18 +23,18 @@ const translation: I18nTranslation = {
       text: 'GitHub',
       title: 'GitHub',
     },
-    heading: 'Über LiveCodes',
-    livecodes: {
-      aboutUs: 'Über LiveCodes',
+    heading: 'Über Programe.Tech',
+    Programe.Tech: {
+      aboutUs: 'Über Programe.Tech',
       para1:
-        '<1><2>LiveCodes</2></1> ist ein <3>Open-Source</3>, <4>funktionsreiches</4>, <5>clientseitiger</5> Code-Spielplatz. Derzeit werden <6>über 90 Sprachen/<7></7>Frameworks</6> unterstützt. Es kann als eigenständige App verwendet oder in jede Webseite <8>eingebettet</8> werden. Es gibt viele Möglichkeiten, Spielplätze mit Code <9>vorzufüllen</9>.',
+        '<1><2>Programe.Tech</2></1> ist ein <3>Open-Source</3>, <4>funktionsreiches</4>, <5>clientseitiger</5> Code-Spielplatz. Derzeit werden <6>über 90 Sprachen/<7></7>Frameworks</6> unterstützt. Es kann als eigenständige App verwendet oder in jede Webseite <8>eingebettet</8> werden. Es gibt viele Möglichkeiten, Spielplätze mit Code <9>vorzufüllen</9>.',
       para2:
         'Eine breite Palette von <1>Konfigurationsoptionen</1> macht es sehr flexibel. Ein leistungsstarkes <2>SDK</2> (für <3>JS/TS</3>, <4>React</4>, <5>Vue</5> und <6>Svelte</6>) erleichtert das <7>Einbetten</7> und die <8>Kommunikation</8> mit Spielplätzen. <9>umfassende Dokumentationen</9> sind mit Codebeispielen, Live-Demos und Screenshots verfügbar.',
     },
-    sdk: 'LiveCodes SDK',
+    sdk: 'Programe.Tech SDK',
     sponsor: {
       text: 'Sponsor',
-      title: 'LiveCodes sponsern',
+      title: 'Programe.Tech sponsern',
     },
     twitter: {
       text: '𝕏 / Twitter',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: 'Helfen Sie uns beim Übersetzen',
     },
     logo: {
-      title: 'LiveCodes: Ein Code-Spielplatz, Der Einfach Funktioniert!',
+      title: 'Programe.Tech: Ein Code-Spielplatz, Der Einfach Funktioniert!',
     },
     projectInfo: {
       hint: 'Projektinformationen',
@@ -130,7 +130,7 @@ const translation: I18nTranslation = {
         label: 'Datei hinzufügen',
       },
       githubPages: {
-        desc: 'Asset auf GitHub Pages bereitstellen. Die Datei wird in den <1>gh-pages</1>-Branch des Repos <2>livecodes-assets</2> in Ihrem GitHub-Konto gepusht. Wenn das Repo noch nicht existiert, wird ein öffentliches Repo erstellt.',
+        desc: 'Asset auf GitHub Pages bereitstellen. Die Datei wird in den <1>gh-pages</1>-Branch des Repos <2>Programe.Tech-assets</2> in Ihrem GitHub-Konto gepusht. Wenn das Repo noch nicht existiert, wird ein öffentliches Repo erstellt.',
         heading: 'GitHub Pages',
         label: 'Datei hochladen',
       },
@@ -201,7 +201,7 @@ const translation: I18nTranslation = {
     backup: {
       assets: 'Assets',
       button: 'Sichern',
-      desc: 'Sichern Sie LiveCodes-Daten, damit sie später auf diesem oder anderen Geräten wiederhergestellt werden können. <1></1> Bitte besuchen Sie die <2>Dokumentation</2> für Details.',
+      desc: 'Sichern Sie Programe.Tech-Daten, damit sie später auf diesem oder anderen Geräten wiederhergestellt werden können. <1></1> Bitte besuchen Sie die <2>Dokumentation</2> für Details.',
       heading: 'Sicherung',
       projects: 'Projekte',
       settings: 'Benutzereinstellungen',
@@ -217,7 +217,7 @@ const translation: I18nTranslation = {
     heading: 'Sichern / Wiederherstellen',
     inProgress: 'In Bearbeitung...',
     restore: {
-      desc: 'Stellen Sie zuvor gesicherte LiveCodes-Daten wieder her. <1></1> Wenn Sie sich dafür entscheiden, den aktuellen Inhalt zu ersetzen, sollten Sie diesen möglicherweise zuerst sichern. <2></2> Bitte besuchen Sie die <3>Dokumentation</3> für Details.',
+      desc: 'Stellen Sie zuvor gesicherte Programe.Tech-Daten wieder her. <1></1> Wenn Sie sich dafür entscheiden, den aktuellen Inhalt zu ersetzen, sollten Sie diesen möglicherweise zuerst sichern. <2></2> Bitte besuchen Sie die <3>Dokumentation</3> für Details.',
       fromFile: 'Aus Datei wiederherstellen',
       heading: 'Wiederherstellen',
       mode: {
@@ -617,7 +617,7 @@ const translation: I18nTranslation = {
     close: 'Schließen',
     custom: 'Benutzerdefiniert',
     embed: {
-      logoHint: 'Bearbeiten auf LiveCodes 🡕',
+      logoHint: 'Bearbeiten auf Programe.Tech 🡕',
     },
     error: {
       authentication: 'Authentifizierungsfehler!',
@@ -698,7 +698,7 @@ const translation: I18nTranslation = {
     autoSave: 'Automatisches Speichern',
     autoUpdate: 'Automatisches Aktualisieren',
     backup: 'Sichern / Wiederherstellen …',
-    blog: 'LiveCodes Blog',
+    blog: 'Programe.Tech Blog',
     broadcast: 'Übertragen …',
     commandMenu: 'Befehlsmenü',
     config: 'Konfiguration',
@@ -845,7 +845,7 @@ const translation: I18nTranslation = {
       'Fügen Sie Stylesheet/Skript-URLs hinzu. Jede URL sollte in einer separaten Zeile stehen.',
   },
   resultMode: {
-    linkText: 'Bearbeiten auf LiveCodes',
+    linkText: 'Bearbeiten auf Programe.Tech',
   },
   savePrompt: {
     heading: 'Ungespeicherte Änderungen',
@@ -945,12 +945,12 @@ const translation: I18nTranslation = {
     text: 'Klartext',
   },
   splash: {
-    loading: 'LiveCodes wird geladen…',
+    loading: 'Programe.Tech wird geladen…',
   },
   sync: {
     autoSync: 'Automatische Synchronisierung',
     create: {
-      desc: 'Ein neues <1>privates</1> Repository wird erstellt. Ihre lokalen LiveCodes-Daten werden mit dem <2>main</2>-Branch synchronisiert.',
+      desc: 'Ein neues <1>privates</1> Repository wird erstellt. Ihre lokalen Programe.Tech-Daten werden mit dem <2>main</2>-Branch synchronisiert.',
       heading: 'Neues Repository erstellen',
       repoName: 'Repository-Name',
     },
@@ -959,7 +959,7 @@ const translation: I18nTranslation = {
       repoNameRequired: 'Repository-Name ist erforderlich',
     },
     existing: {
-      desc: 'Ihre lokalen LiveCodes-Daten werden mit dem <1>main</1>-Branch synchronisiert.',
+      desc: 'Ihre lokalen Programe.Tech-Daten werden mit dem <1>main</1>-Branch synchronisiert.',
       heading: 'Bestehendes Repository',
       repoName: 'Repository-Name',
     },
@@ -1089,7 +1089,7 @@ const translation: I18nTranslation = {
   welcome: {
     about: {
       documentation: 'Dokumentation',
-      heading: 'Über LiveCodes',
+      heading: 'Über Programe.Tech',
     },
     heading: 'Willkommen',
     recent: {

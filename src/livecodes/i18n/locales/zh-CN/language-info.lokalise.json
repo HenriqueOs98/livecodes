@@ -82,10 +82,10 @@
     "translation": "Clio"
   },
   "clojurescript.desc": {
-    "translation": "ClojureScript 是 <tag-1>Clojure</tag-1> 到 JavaScript 的编译器。<tag-2></tag-2>在 LiveCodes 中，它使用 <tag-3>Cherry</tag-3> 在浏览器中运行。"
+    "translation": "ClojureScript 是 <tag-1>Clojure</tag-1> 到 JavaScript 的编译器。<tag-2></tag-2>在 Programe.Tech 中，它使用 <tag-3>Cherry</tag-3> 在浏览器中运行。"
   },
   "clojurescript.link": {
-    "translation": "<tag-1> <tag-2>ClojureScript 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Clojure 官方网站</tag-4> </tag-3> <tag-5> <tag-6>Cherry 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=clojure</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>ClojureScript 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Clojure 官方网站</tag-4> </tag-3> <tag-5> <tag-6>Cherry 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=clojure</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
   },
   "clojurescript.name": {
     "translation": "ClojureScript（CLJS）"
@@ -139,7 +139,7 @@
     "translation": "<tag-1> <tag-2>Cytoscape</tag-2> </tag-1> <tag-3> <tag-4>ELK</tag-4>（使用 <tag-5>elkjs</tag-5>） </tag-3> <tag-6> <tag-7>Gnuplot</tag-7>（使用 <tag-8>gnuplot-JS</tag-8>） </tag-6> <tag-9> <tag-10>Graphviz</tag-10>（使用 <tag-11>@hpcc-js/wasm</tag-11>） </tag-9> <tag-12> <tag-13>Mermaid</tag-13> </tag-12> <tag-14> <tag-15>Nomnoml</tag-15> </tag-14> <tag-16> <tag-17>Pintora</tag-17> </tag-16> <tag-18> <tag-19>Plotly</tag-19> </tag-18> <tag-20> <tag-21>Svgbob</tag-21> </tag-20><tag-22> <tag-23>Vega</tag-23> </tag-22> <tag-24> <tag-25>VegaLite</tag-25> </tag-24> <tag-26> <tag-27>WaveDrom</tag-27> </tag-26>"
   },
   "diagrams.link": {
-    "translation": "<tag-1> <tag-2>加载启动模板</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes 文档</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>加载启动模板</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech 文档</tag-4> </tag-3>"
   },
   "diagrams.name": {
     "translation": "图表"
@@ -148,7 +148,7 @@
     "translation": "适用于 Node.js 和浏览器的最快、最简洁的 JavaScript 模板引擎。"
   },
   "dot.link": {
-    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>LiveCodes 文档</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech 文档</tag-4> </tag-3>"
   },
   "dot.name": {
     "translation": "doT.js"
@@ -157,7 +157,7 @@
     "translation": "嵌入式 JavaScript 模板。"
   },
   "ejs.link": {
-    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>LiveCodes 文档</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech 文档</tag-4> </tag-3>"
   },
   "ejs.name": {
     "translation": "EJS"
@@ -166,7 +166,7 @@
     "translation": "用于 Node、Deno 和浏览器的嵌入式 JS 模板引擎。轻巧、快速且可插拔。使用 TypeScript 编写。"
   },
   "eta.link": {
-    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>文档</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5>"
+    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>文档</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5>"
   },
   "eta.name": {
     "translation": "Eta"
@@ -175,7 +175,7 @@
     "translation": "Fennel 是一种编程语言，它结合了 Lua 的快速、简洁和广泛性以及 Lisp 语法和宏系统的灵活性。"
   },
   "fennel.link": {
-    "translation": "<tag-1> <tag-2>Fennel 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Fennel 入门</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5> <tag-7> <tag-8>加载启动模板</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Fennel 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Fennel 入门</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5> <tag-7> <tag-8>加载启动模板</tag-8> </tag-7>"
   },
   "fennel.name": {
     "translation": "Fennel"
@@ -217,7 +217,7 @@
     "translation": "使用 clientside-haml-js 的 Haml 编译器，用于编写客户端侧 JavaScript 视图模板。"
   },
   "haml.link": {
-    "translation": "<tag-1><tag-2>Haml 官网</tag-2></tag-1> <tag-3> <tag-4>Haml 文档</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=haml</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Haml 官网</tag-2></tag-1> <tag-3> <tag-4>Haml 文档</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=haml</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9>"
   },
   "haml.name": {
     "translation": "Haml"
@@ -226,7 +226,7 @@
     "translation": "极简模板引擎的增强版。"
   },
   "handlebars.link": {
-    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>LiveCodes 文档</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech 文档</tag-4> </tag-3>"
   },
   "handlebars.name": {
     "translation": "Handlebars"
@@ -241,16 +241,16 @@
     "translation": "Imba"
   },
   "jsx.desc": {
-    "translation": "在 LiveCodes 中，JSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。"
+    "translation": "在 Programe.Tech 中，JSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。"
   },
   "jsx.link": {
-    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 文档中的 JSX</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 文档中的 JSX</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5>"
   },
   "jsx.name": {
     "translation": "JSX"
   },
   "julia.desc1": {
-    "translation": "LiveCodes 中的 Julia 语言支持仍处于实验阶段。"
+    "translation": "Programe.Tech 中的 Julia 语言支持仍处于实验阶段。"
   },
   "julia.desc2": {
     "translation": "在 WASM 上运行的 Julia 编译器和 Julia Base，使用由 <tag-2>polylang.io</tag-2> 适配的 <tag-1>julia-wasm</tag-1> 。"
@@ -274,7 +274,7 @@
     "translation": "一个简单、富有表现力且安全的模板引擎。"
   },
   "liquid.link": {
-    "translation": "<tag-1> <tag-2>LiquidJS 官方网站</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS 文档</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>LiquidJS 官方网站</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS 文档</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5>"
   },
   "liquid.name": {
     "translation": "LiquidJS"
@@ -292,7 +292,7 @@
     "translation": "使用 fengari-web 在浏览器中运行的 Lua。"
   },
   "lua.link": {
-    "translation": "<tag-1><tag-2>Lua 官方网站</tag-2></tag-1> <tag-3> <tag-4>Lua 文档</tag-4> </tag-3> <tag-5> <tag-6>Fengari 官网</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub 仓库</tag-8> </tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=Lua</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes 文档</tag-12> </tag-11> <tag-13><tag-14>加载启动模板</tag-14></tag-13>"
+    "translation": "<tag-1><tag-2>Lua 官方网站</tag-2></tag-1> <tag-3> <tag-4>Lua 文档</tag-4> </tag-3> <tag-5> <tag-6>Fengari 官网</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub 仓库</tag-8> </tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=Lua</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech 文档</tag-12> </tag-11> <tag-13><tag-14>加载启动模板</tag-14></tag-13>"
   },
   "lua.name": {
     "translation": "Lua"
@@ -301,7 +301,7 @@
     "translation": "使用 Wasmoon 在浏览器中运行的 Lua。Wasmoon 是一个真正的 Lua 5.4 虚拟机，附带使用 WebAssembly 制作的 JS 绑定。"
   },
   "luaWasm.link": {
-    "translation": "<tag-1><tag-2>Lua 官方网站</tag-2></tag-1> <tag-3> <tag-4>Lua 文档</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=Lua</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Lua 官方网站</tag-2></tag-1> <tag-3> <tag-4>Lua 文档</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=Lua</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
   },
   "luaWasm.name": {
     "translation": "Lua（WASM）"
@@ -337,7 +337,7 @@
     "translation": "MJML 是一种标记语言，旨在减轻编写响应式电子邮件的痛苦。"
   },
   "mjml.link": {
-    "translation": "<tag-1><tag-2>MJML 官方网站</tag-2></tag-1> <tag-3> <tag-4>MJML 文档</tag-4> </tag-3> <tag-5> <tag-6>MJML 官方模板</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes 文档</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>MJML 官方网站</tag-2></tag-1> <tag-3> <tag-4>MJML 文档</tag-4> </tag-3> <tag-5> <tag-6>MJML 官方模板</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech 文档</tag-8> </tag-7>"
   },
   "mjml.name": {
     "translation": "MJML"
@@ -346,7 +346,7 @@
     "translation": "无逻辑的模板。"
   },
   "mustache.link": {
-    "translation": "<tag-1> <tag-2>官方网站</tag-2> </tag-1> <tag-3> <tag-4>Mustache 5 手册</tag-4> </tag-3> <tag-5> <tag-6>JavaScript 实现</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes 文档</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>官方网站</tag-2> </tag-1> <tag-3> <tag-4>Mustache 5 手册</tag-4> </tag-3> <tag-5> <tag-6>JavaScript 实现</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech 文档</tag-8> </tag-7>"
   },
   "mustache.name": {
     "translation": "Mustache"
@@ -355,7 +355,7 @@
     "translation": "一种丰富而强大的 JavaScript 模板语言。Nunjucks 本质上是 <tag-1>jinja2</tag-1> 的一个移植。"
   },
   "nunjucks.link": {
-    "translation": "<tag-1> <tag-2>官方网站</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes 文档</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>官方网站</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech 文档</tag-4> </tag-3>"
   },
   "nunjucks.name": {
     "translation": "Nunjucks"
@@ -385,7 +385,7 @@
     "translation": "使用 Uniter 在浏览器中运行的 PHP。"
   },
   "php.link": {
-    "translation": "<tag-1><tag-2>PHP 官网</tag-2></tag-1> <tag-3> <tag-4>PHP 文档</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11><tag-12>加载启动模板</tag-12></tag-11>"
+    "translation": "<tag-1><tag-2>PHP 官网</tag-2></tag-1> <tag-3> <tag-4>PHP 文档</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11><tag-12>加载启动模板</tag-12></tag-11>"
   },
   "php.name": {
     "translation": "PHP"
@@ -394,7 +394,7 @@
     "translation": "浏览器中的 PHP，由 WebAssembly 提供支持，使用 php-wasm。"
   },
   "phpWasm.link": {
-    "translation": "<tag-1><tag-2>PHP 官方网站</tag-2></tag-1> <tag-3> <tag-4>PHP 文档</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>PHP 官方网站</tag-2></tag-1> <tag-3> <tag-4>PHP 文档</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub 仓库</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
   },
   "phpWasm.name": {
     "translation": "PHP（WASM）"
@@ -421,7 +421,7 @@
     "translation": "强大、优雅、功能丰富的模板引擎。"
   },
   "pug.link": {
-    "translation": "<tag-1> <tag-2>Pug 文档</tag-2> </tag-1> <tag-3> <tag-4>在 Y 分钟内学习 X，其中 X=Pug</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Pug 文档</tag-2> </tag-1> <tag-3> <tag-4>在 Y 分钟内学习 X，其中 X=Pug</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5>"
   },
   "pug.name": {
     "translation": "Pug"
@@ -430,7 +430,7 @@
     "translation": "使用 Brython 在浏览器中运行的 Python。"
   },
   "python.link": {
-    "translation": "<tag-1> <tag-2>Python 官网</tag-2> </tag-1> <tag-3> <tag-4>Python 文档</tag-4> </tag-3> <tag-5> <tag-6>Brython 文档</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python 官网</tag-2> </tag-1> <tag-3> <tag-4>Python 文档</tag-4> </tag-3> <tag-5> <tag-6>Brython 文档</tag-6> </tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
   },
   "python.name": {
     "translation": "Python"
@@ -442,7 +442,7 @@
     "translation": "Pyodide 允许使用包括 NumPy, Pandas, Matplotlib, SciPy, scikit-learn 等库在内的 Python 科学技术栈。此外，还可以从 PyPI 安装纯 Python Wheel。"
   },
   "pythonWasm.link": {
-    "translation": "<tag-1> <tag-2>Python 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Python 文档</tag-4> </tag-3> <tag-5><tag-6>Pyodide 文档</tag-6></tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Python 文档</tag-4> </tag-3> <tag-5><tag-6>Pyodide 文档</tag-6></tag-5> <tag-7> <tag-8>在 Y 分钟内学习 X，其中 X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
   },
   "pythonWasm.name": {
     "translation": "Python（WASM）"
@@ -451,7 +451,7 @@
     "translation": "使用 WebR 在浏览器中运行的 R。"
   },
   "r.link": {
-    "translation": "<tag-1> <tag-2>R 项目官方网站</tag-2> </tag-1> <tag-3> <tag-4>R 手册</tag-4> </tag-3> <tag-5> <tag-6>R for Data Science（2e）</tag-6> </tag-5> <tag-7> <tag-8>WebR 文档</tag-8> </tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=R</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes 文档</tag-12> </tag-11> <tag-13> <tag-14>加载启动模板</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>R 项目官方网站</tag-2> </tag-1> <tag-3> <tag-4>R 手册</tag-4> </tag-3> <tag-5> <tag-6>R for Data Science（2e）</tag-6> </tag-5> <tag-7> <tag-8>WebR 文档</tag-8> </tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=R</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech 文档</tag-12> </tag-11> <tag-13> <tag-14>加载启动模板</tag-14> </tag-13>"
   },
   "r.name": {
     "translation": "R"
@@ -460,7 +460,7 @@
     "translation": "React Compiler 是一个仅在构建时运行的工具，可自动优化 React 应用程序。"
   },
   "react.link": {
-    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 编译器</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5> <tag-7> <tag-8>加载初始模板</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 编译器</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5> <tag-7> <tag-8>加载初始模板</tag-8> </tag-7>"
   },
   "react.name": {
     "translation": "React 编译器"
@@ -469,7 +469,7 @@
     "translation": "React Native for Web 是 React Native 的组件和 API 的可访问实现，可与 React DOM 互操作。"
   },
   "reactNative.link": {
-    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React Native 官方网站</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web 官方网站</tag-6> </tag-5> <tag-7> <tag-8>React Native 文档</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React Native 官方网站</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web 官方网站</tag-6> </tag-5> <tag-7> <tag-8>React Native 文档</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
   },
   "reactNative.name": {
     "translation": "React Native for Web"
@@ -478,7 +478,7 @@
     "translation": "React Native for Web 是 React Native 的组件和 API 的可访问实现，可与 React DOM 互操作。"
   },
   "reactNativeTsx.link": {
-    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React Native 官方网站</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web 官方网站</tag-6> </tag-5> <tag-7> <tag-8>React Native 文档</tag-8> </tag-7> <tag-9> <tag-10>TypeScript 网站</tag-10> </tag-9> <tag-11> <tag-12>TypeScript 文档</tag-12> </tag-11> <tag-13> <tag-14>LiveCodes 文档</tag-14> </tag-13> <tag-15> <tag-16>加载启动模板（JSX）</tag-16> </tag-15>"
+    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React Native 官方网站</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web 官方网站</tag-6> </tag-5> <tag-7> <tag-8>React Native 文档</tag-8> </tag-7> <tag-9> <tag-10>TypeScript 网站</tag-10> </tag-9> <tag-11> <tag-12>TypeScript 文档</tag-12> </tag-11> <tag-13> <tag-14>Programe.Tech 文档</tag-14> </tag-13> <tag-15> <tag-16>加载启动模板（JSX）</tag-16> </tag-15>"
   },
   "reactNativeTsx.name": {
     "translation": "React Native for Web（TypeScript 支持）"
@@ -487,7 +487,7 @@
     "translation": "React Compiler 是一个仅在构建时运行的工具，可自动优化 React 应用程序。"
   },
   "reactTsx.link": {
-    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 编译器</tag-4> </tag-3> <tag-5> <tag-6>TypeScript 网站</tag-6> </tag-5> <tag-7> <tag-8>TypeScript 文档</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载初始模板 (JSX)</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 编译器</tag-4> </tag-3> <tag-5> <tag-6>TypeScript 网站</tag-6> </tag-5> <tag-7> <tag-8>TypeScript 文档</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载初始模板 (JSX)</tag-12> </tag-11>"
   },
   "reactTsx.name": {
     "translation": "React 编译器 (使用 TypeScript)"
@@ -538,7 +538,7 @@
     "translation": "使用 Opal 在浏览器中运行的 Ruby。"
   },
   "ruby.link": {
-    "translation": "<tag-1> <tag-2>Ruby 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Ruby 文档</tag-4> </tag-3> <tag-5><tag-6>Opal 官方网站</tag-6></tag-5> <tag-7> <tag-8>Opal 标准库 CDN</tag-8> </tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=ruby</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes 文档</tag-12> </tag-11> <tag-13> <tag-14>加载启动模板</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Ruby 文档</tag-4> </tag-3> <tag-5><tag-6>Opal 官方网站</tag-6></tag-5> <tag-7> <tag-8>Opal 标准库 CDN</tag-8> </tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech 文档</tag-12> </tag-11> <tag-13> <tag-14>加载启动模板</tag-14> </tag-13>"
   },
   "ruby.name": {
     "translation": "Ruby"
@@ -547,7 +547,7 @@
     "translation": "使用 ruby-wasm（移植到 WebAssembly 中的 CRuby 集合）在浏览器中运行的 Ruby。"
   },
   "rubyWasm.link": {
-    "translation": "<tag-1> <tag-2>Ruby 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Ruby 文档</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasm 网站</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=ruby</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes 文档</tag-12> </tag-11> <tag-13> <tag-14>加载启动模板</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Ruby 文档</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasm 网站</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>在 Y 分钟内学习 X，其中 X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech 文档</tag-12> </tag-11> <tag-13> <tag-14>加载启动模板</tag-14> </tag-13>"
   },
   "rubyWasm.name": {
     "translation": "Ruby（WASM）"
@@ -583,7 +583,7 @@
     "translation": "用于构建用户界面的声明式、高效且灵活的 JavaScript 库。"
   },
   "solid.link": {
-    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3><tag-4>文档</tag-4></tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5> <tag-7> <tag-8>加载启动模板（TSX）</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3><tag-4>文档</tag-4></tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5> <tag-7> <tag-8>加载启动模板（TSX）</tag-8> </tag-7>"
   },
   "solid.name": {
     "translation": "Solid"
@@ -592,7 +592,7 @@
     "translation": "用于构建用户界面的声明式、高效且灵活的 JavaScript 库。"
   },
   "solid.tsx.link": {
-    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>Solid 文档</tag-4> </tag-3> <tag-5> <tag-6>TypeScript 官方网站</tag-6> </tag-5> <tag-7> <tag-8>TypeScript 文档</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>官方网站</tag-2></tag-1> <tag-3> <tag-4>Solid 文档</tag-4> </tag-3> <tag-5> <tag-6>TypeScript 官方网站</tag-6> </tag-5> <tag-7> <tag-8>TypeScript 文档</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9> <tag-11> <tag-12>加载启动模板</tag-12> </tag-11>"
   },
   "solid.tsx.name": {
     "translation": "Solid（TypeScript 支持）"
@@ -643,7 +643,7 @@
     "translation": "针对现代 JS 运行时的 Babel 的超快速替代品。"
   },
   "sucrase.link": {
-    "translation": "<tag-1> <tag-2>Sucrase 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub 仓库</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes 文档</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sucrase 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub 仓库</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech 文档</tag-6> </tag-5>"
   },
   "sucrase.name": {
     "translation": "Sucrase"
@@ -670,16 +670,16 @@
     "translation": "Lua 的一种类型化方言。"
   },
   "teal.link": {
-    "translation": "<tag-1> <tag-2>Teal GitHub 仓库</tag-2> </tag-1> <tag-3> <tag-4>Teal 文档</tag-4> </tag-3> <tag-5> <tag-6>Teal 教程</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes 文档</tag-8> </tag-7> <tag-9> <tag-10>加载启动模板</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Teal GitHub 仓库</tag-2> </tag-1> <tag-3> <tag-4>Teal 文档</tag-4> </tag-3> <tag-5> <tag-6>Teal 教程</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech 文档</tag-8> </tag-7> <tag-9> <tag-10>加载启动模板</tag-10> </tag-9>"
   },
   "teal.name": {
     "translation": "Teal"
   },
   "tsx.desc": {
-    "translation": "JSX 中的 TypeScript。在 LiveCodes 中，TSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。"
+    "translation": "JSX 中的 TypeScript。在 Programe.Tech 中，TSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。"
   },
   "tsx.link": {
-    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 中的 JSX 文档</tag-4> </tag-3> <tag-5> <tag-6>Typescript 文档</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes 文档</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React 官方网站</tag-2> </tag-1> <tag-3> <tag-4>React 中的 JSX 文档</tag-4> </tag-3> <tag-5> <tag-6>Typescript 文档</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech 文档</tag-8> </tag-7>"
   },
   "tsx.name": {
     "translation": "TSX"
@@ -688,7 +688,7 @@
     "translation": "由 <tag-2>Twig.js </tag-2> 支持的 <tag-1>Twig</tag-1> PHP 模板语言的 JavaScript 实现。"
   },
   "twig.link": {
-    "translation": "<tag-1> <tag-2>Twig 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Twig 文档</tag-4> </tag-3> <tag-5> <tag-6>Twig.js 仓库</tag-6> </tag-5> <tag-7> <tag-8>Twig.js 文档</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Twig 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Twig 文档</tag-4> </tag-3> <tag-5> <tag-6>Twig.js 仓库</tag-6> </tag-5> <tag-7> <tag-8>Twig.js 文档</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9>"
   },
   "twig.name": {
     "translation": "Twig"
@@ -703,7 +703,7 @@
     "translation": "TypeScript"
   },
   "vue.link": {
-    "translation": "<tag-1> <tag-2>Vue.js v3 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Vue3 文档</tag-4> </tag-3> <tag-5> <tag-6>Vue3 单文件组件</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes 文档</tag-8> </tag-7> <tag-9><tag-10>加载启动模板</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Vue.js v3 官方网站</tag-2> </tag-1> <tag-3> <tag-4>Vue3 文档</tag-4> </tag-3> <tag-5> <tag-6>Vue3 单文件组件</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech 文档</tag-8> </tag-7> <tag-9><tag-10>加载启动模板</tag-10> </tag-9>"
   },
   "vue.name": {
     "translation": "Vue3 单文件组件"
@@ -712,7 +712,7 @@
     "translation": "使用 vue3-sfc-loader 加载。"
   },
   "vue2.link": {
-    "translation": "<tag-1><tag-2>Vue.js 官方网站</tag-2></tag-1> <tag-3> <tag-4>Vue2 文档</tag-4> </tag-3> <tag-5> <tag-6>Vue2 单文件组件</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub 仓库</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes 文档</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Vue.js 官方网站</tag-2></tag-1> <tag-3> <tag-4>Vue2 文档</tag-4> </tag-3> <tag-5> <tag-6>Vue2 单文件组件</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub 仓库</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech 文档</tag-10> </tag-9>"
   },
   "vue2.name": {
     "translation": "Vue2 单文件组件"

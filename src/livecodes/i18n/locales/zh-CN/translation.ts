@@ -6,13 +6,13 @@ const translation: I18nTranslation = {
   about: {
     blog: {
       text: '博客',
-      title: 'LiveCodes 博客',
+      title: 'Programe.Tech 博客',
     },
     configuration: '配置',
     credits: {
       heading: '致谢',
-      para1: 'LiveCodes 的实现得益于开源项目、网络服务和贡献者的支持。 <1>查看致谢</1>',
-      para2: '© 2024 Hatem Hosny。LiveCodes 已获得 MIT 许可。',
+      para1: 'Programe.Tech 的实现得益于开源项目、网络服务和贡献者的支持。 <1>查看致谢</1>',
+      para2: '© 2024 Hatem Hosny。Programe.Tech 已获得 MIT 许可。',
     },
     documentations: {
       heading: '文档',
@@ -22,18 +22,18 @@ const translation: I18nTranslation = {
       text: 'GitHub',
       title: 'GitHub',
     },
-    heading: '关于 LiveCodes',
-    livecodes: {
-      aboutUs: '关于 LiveCodes',
+    heading: '关于 Programe.Tech',
+    Programe.Tech: {
+      aboutUs: '关于 Programe.Tech',
       para1:
-        '<1><2>LiveCodes</2></1> 是一个开源的、功能丰富的、客户端侧的代码运行环境。目前支持超过 90 种语言 / 框架。它可以作为独立应用使用，亦可嵌入到任意网页中。',
+        '<1><2>Programe.Tech</2></1> 是一个开源的、功能丰富的、客户端侧的代码运行环境。目前支持超过 90 种语言 / 框架。它可以作为独立应用使用，亦可嵌入到任意网页中。',
       para2:
         '功能强大的 SDK 可轻松整合代码运行环境并与其进行通信。文档内容详细完整，代码示例、实时演示和屏幕截图一应俱全。',
     },
-    sdk: 'LiveCodes SDK',
+    sdk: 'Programe.Tech SDK',
     sponsor: {
       text: '赞助',
-      title: '赞助 LiveCodes',
+      title: '赞助 Programe.Tech',
     },
     twitter: {
       text: '𝕏 / Twitter',
@@ -93,7 +93,7 @@ const translation: I18nTranslation = {
       helpTranslate: '帮助我们翻译',
     },
     logo: {
-      title: 'LiveCodes: 一个简单实用的代码运行环境！',
+      title: 'Programe.Tech: 一个简单实用的代码运行环境！',
     },
     projectInfo: {
       hint: '项目信息',
@@ -129,7 +129,7 @@ const translation: I18nTranslation = {
         label: '添加文件',
       },
       githubPages: {
-        desc: '将资产部署到 GitHub Pages。该文件将推送至您 GitHub 帐户上 <2> livecodes-assets</2> 仓库的 <1>gh-pages</1> 分支。如果该仓库尚不存在，则将创建一个公开仓库。',
+        desc: '将资产部署到 GitHub Pages。该文件将推送至您 GitHub 帐户上 <2> Programe.Tech-assets</2> 仓库的 <1>gh-pages</1> 分支。如果该仓库尚不存在，则将创建一个公开仓库。',
         heading: 'GitHub Pages',
         label: '上传文件',
       },
@@ -200,7 +200,7 @@ const translation: I18nTranslation = {
     backup: {
       assets: '资产',
       button: '备份',
-      desc: '备份 LiveCodes 数据，以便稍后在此设备上或其他设备上恢复。 <1> </1>请访问<2>文档</2>以了解详情。',
+      desc: '备份 Programe.Tech 数据，以便稍后在此设备上或其他设备上恢复。 <1> </1>请访问<2>文档</2>以了解详情。',
       heading: '备份',
       projects: '项目',
       settings: '用户设置',
@@ -216,7 +216,7 @@ const translation: I18nTranslation = {
     heading: '备份 / 恢复',
     inProgress: '进行中 ...',
     restore: {
-      desc: '恢复先前备份的 LiveCodes 数据。<1></1>如果您选择替换当前内容，可能需要先将其备份。<2></2>请访问<3>文档</3> 以了解详情。',
+      desc: '恢复先前备份的 Programe.Tech 数据。<1></1>如果您选择替换当前内容，可能需要先将其备份。<2></2>请访问<3>文档</3> 以了解详情。',
       fromFile: '从文件恢复',
       heading: '恢复',
       mode: {
@@ -608,7 +608,7 @@ const translation: I18nTranslation = {
       configuration: '配置',
       gettingStarted: '快速开始',
       github: 'GitHub',
-      sdk: 'LiveCodes SDK',
+      sdk: 'Programe.Tech SDK',
       sponsor: '赞助',
       twitter: '𝕏 / Twitter',
     },
@@ -616,7 +616,7 @@ const translation: I18nTranslation = {
     close: '关闭',
     custom: '自定义',
     embed: {
-      logoHint: '在 LiveCodes 上编辑 🡕',
+      logoHint: '在 Programe.Tech 上编辑 🡕',
     },
     error: {
       authentication: '身份验证错误！',
@@ -696,7 +696,7 @@ const translation: I18nTranslation = {
     autoSave: '自动保存',
     autoUpdate: '自动更新',
     backup: '备份 / 恢复 ...',
-    blog: 'LiveCodes 博客',
+    blog: 'Programe.Tech 博客',
     broadcast: '播送 ...',
     commandMenu: '命令菜单',
     config: '配置',
@@ -842,7 +842,7 @@ const translation: I18nTranslation = {
     urlDesc: '键入样式/脚本 URL。每个 URL 应位于单独的一行中。',
   },
   resultMode: {
-    linkText: '在 LiveCodes 上编辑',
+    linkText: '在 Programe.Tech 上编辑',
   },
   savePrompt: {
     heading: '未保存的更改',
@@ -941,12 +941,12 @@ const translation: I18nTranslation = {
     text: '纯文本',
   },
   splash: {
-    loading: '正在加载 LiveCodes ...',
+    loading: '正在加载 Programe.Tech ...',
   },
   sync: {
     autoSync: '自动同步',
     create: {
-      desc: '将创建一个新的<1>私有</1>仓库。您的 LiveCodes 本地数据将与 <2>main</2> 分支同步。',
+      desc: '将创建一个新的<1>私有</1>仓库。您的 Programe.Tech 本地数据将与 <2>main</2> 分支同步。',
       heading: '创建新仓库',
       repoName: '仓库名称',
     },
@@ -955,7 +955,7 @@ const translation: I18nTranslation = {
       repoNameRequired: '必须填写仓库名称',
     },
     existing: {
-      desc: '您的 LiveCodes 本地数据将与 <1>main</1> 分支同步。',
+      desc: '您的 Programe.Tech 本地数据将与 <1>main</1> 分支同步。',
       heading: '现有仓库',
       repoName: '仓库名称',
     },
@@ -1085,7 +1085,7 @@ const translation: I18nTranslation = {
   welcome: {
     about: {
       documentation: '文档',
-      heading: '关于 LiveCodes',
+      heading: '关于 Programe.Tech',
     },
     heading: '欢迎',
     recent: {

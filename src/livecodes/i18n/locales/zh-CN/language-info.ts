@@ -49,8 +49,8 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'Clio',
   },
   clojurescript: {
-    desc: 'ClojureScript 是 <1>Clojure</1> 到 JavaScript 的编译器。<2></2>在 LiveCodes 中，它使用 <3>Cherry</3> 在浏览器中运行。',
-    link: '<1> <2>ClojureScript 官方网站</2> </1> <3> <4>Clojure 官方网站</4> </3> <5> <6>Cherry 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=clojure</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载启动模板</12> </11>',
+    desc: 'ClojureScript 是 <1>Clojure</1> 到 JavaScript 的编译器。<2></2>在 Programe.Tech 中，它使用 <3>Cherry</3> 在浏览器中运行。',
+    link: '<1> <2>ClojureScript 官方网站</2> </1> <3> <4>Clojure 官方网站</4> </3> <5> <6>Cherry 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=clojure</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载启动模板</12> </11>',
     name: 'ClojureScript（CLJS）',
   },
   coffeescript: {
@@ -79,27 +79,27 @@ const languageInfo: I18nLangInfoTranslation = {
     desc2: '使用代码绘制图表。支持：',
     desc3:
       '<1> <2>Cytoscape</2> </1> <3> <4>ELK</4>（使用 <5>elkjs</5>） </3> <6> <7>Gnuplot</7>（使用 <8>gnuplot-JS</8>） </6> <9> <10>Graphviz</10>（使用 <11>@hpcc-js/wasm</11>） </9> <12> <13>Mermaid</13> </12> <14> <15>Nomnoml</15> </14> <16> <17>Pintora</17> </16> <18> <19>Plotly</19> </18> <20> <21>Svgbob</21> </20><22> <23>Vega</23> </22> <24> <25>VegaLite</25> </24> <26> <27>WaveDrom</27> </26>',
-    link: '<1> <2>加载启动模板</2> </1> <3> <4>LiveCodes 文档</4> </3>',
+    link: '<1> <2>加载启动模板</2> </1> <3> <4>Programe.Tech 文档</4> </3>',
     name: '图表',
   },
   dot: {
     desc: '适用于 Node.js 和浏览器的最快、最简洁的 JavaScript 模板引擎。',
-    link: '<1><2>官方网站</2></1> <3> <4>LiveCodes 文档</4> </3>',
+    link: '<1><2>官方网站</2></1> <3> <4>Programe.Tech 文档</4> </3>',
     name: 'doT.js',
   },
   ejs: {
     desc: '嵌入式 JavaScript 模板。',
-    link: '<1><2>官方网站</2></1> <3> <4>LiveCodes 文档</4> </3>',
+    link: '<1><2>官方网站</2></1> <3> <4>Programe.Tech 文档</4> </3>',
     name: 'EJS',
   },
   eta: {
     desc: '用于 Node、Deno 和浏览器的嵌入式 JS 模板引擎。轻巧、快速且可插拔。使用 TypeScript 编写。',
-    link: '<1><2>官方网站</2></1> <3> <4>文档</4> </3> <5> <6>LiveCodes 文档</6> </5>',
+    link: '<1><2>官方网站</2></1> <3> <4>文档</4> </3> <5> <6>Programe.Tech 文档</6> </5>',
     name: 'Eta',
   },
   fennel: {
     desc: 'Fennel 是一种编程语言，它结合了 Lua 的快速、简洁和广泛性以及 Lisp 语法和宏系统的灵活性。',
-    link: '<1> <2>Fennel 官方网站</2> </1> <3> <4>Fennel 入门</4> </3> <5> <6>LiveCodes 文档</6> </5> <7> <8>加载启动模板</8> </7>',
+    link: '<1> <2>Fennel 官方网站</2> </1> <3> <4>Fennel 入门</4> </3> <5> <6>Programe.Tech 文档</6> </5> <7> <8>加载启动模板</8> </7>',
     name: 'Fennel',
   },
   flow: {
@@ -121,12 +121,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   haml: {
     desc: '使用 clientside-haml-js 的 Haml 编译器，用于编写客户端侧 JavaScript 视图模板。',
-    link: '<1><2>Haml 官网</2></1> <3> <4>Haml 文档</4> </3> <5> <6>clientside-haml-js GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=haml</8> </7> <9> <10>LiveCodes 文档</10> </9>',
+    link: '<1><2>Haml 官网</2></1> <3> <4>Haml 文档</4> </3> <5> <6>clientside-haml-js GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=haml</8> </7> <9> <10>Programe.Tech 文档</10> </9>',
     name: 'Haml',
   },
   handlebars: {
     desc: '极简模板引擎的增强版。',
-    link: '<1><2>官方网站</2></1> <3> <4>LiveCodes 文档</4> </3>',
+    link: '<1><2>官方网站</2></1> <3> <4>Programe.Tech 文档</4> </3>',
     name: 'Handlebars',
   },
   imba: {
@@ -135,12 +135,12 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'Imba',
   },
   jsx: {
-    desc: '在 LiveCodes 中，JSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。',
-    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 文档中的 JSX</4> </3> <5> <6>LiveCodes 文档</6> </5>',
+    desc: '在 Programe.Tech 中，JSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。',
+    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 文档中的 JSX</4> </3> <5> <6>Programe.Tech 文档</6> </5>',
     name: 'JSX',
   },
   julia: {
-    desc1: 'LiveCodes 中的 Julia 语言支持仍处于实验阶段。',
+    desc1: 'Programe.Tech 中的 Julia 语言支持仍处于实验阶段。',
     desc2:
       '在 WASM 上运行的 Julia 编译器和 Julia Base，使用由 <2>polylang.io</2> 适配的 <1>julia-wasm</1> 。',
     link: '<1> <2>Julia 官方网站</2> </1> <3> <4>Julia 文档</4> </3> <5> <6>在 Y 分钟内学习 X，其中 X=Julia</6> </5> <7> <8>加载启动模板</8> </7>',
@@ -153,7 +153,7 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   liquid: {
     desc: '一个简单、富有表现力且安全的模板引擎。',
-    link: '<1> <2>LiquidJS 官方网站</2> </1> <3> <4>LiquidJS 文档</4> </3> <5> <6>LiveCodes 文档</6> </5>',
+    link: '<1> <2>LiquidJS 官方网站</2> </1> <3> <4>LiquidJS 文档</4> </3> <5> <6>Programe.Tech 文档</6> </5>',
     name: 'LiquidJS',
   },
   livescript: {
@@ -163,12 +163,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   lua: {
     desc: '使用 fengari-web 在浏览器中运行的 Lua。',
-    link: '<1><2>Lua 官方网站</2></1> <3> <4>Lua 文档</4> </3> <5> <6>Fengari 官网</6> </5> <7> <8>fengari-web GitHub 仓库</8> </7> <9> <10>在 Y 分钟内学习 X，其中 X=Lua</10> </9> <11> <12>LiveCodes 文档</12> </11> <13><14>加载启动模板</14></13>',
+    link: '<1><2>Lua 官方网站</2></1> <3> <4>Lua 文档</4> </3> <5> <6>Fengari 官网</6> </5> <7> <8>fengari-web GitHub 仓库</8> </7> <9> <10>在 Y 分钟内学习 X，其中 X=Lua</10> </9> <11> <12>Programe.Tech 文档</12> </11> <13><14>加载启动模板</14></13>',
     name: 'Lua',
   },
   luaWasm: {
     desc: '使用 Wasmoon 在浏览器中运行的 Lua。Wasmoon 是一个真正的 Lua 5.4 虚拟机，附带使用 WebAssembly 制作的 JS 绑定。',
-    link: '<1><2>Lua 官方网站</2></1> <3> <4>Lua 文档</4> </3> <5> <6>Wasmoon GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=Lua</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载启动模板</12> </11>',
+    link: '<1><2>Lua 官方网站</2></1> <3> <4>Lua 文档</4> </3> <5> <6>Wasmoon GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=Lua</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载启动模板</12> </11>',
     name: 'Lua（WASM）',
   },
   malina: {
@@ -188,17 +188,17 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   mjml: {
     desc: 'MJML 是一种标记语言，旨在减轻编写响应式电子邮件的痛苦。',
-    link: '<1><2>MJML 官方网站</2></1> <3> <4>MJML 文档</4> </3> <5> <6>MJML 官方模板</6> </5> <7> <8>LiveCodes 文档</8> </7>',
+    link: '<1><2>MJML 官方网站</2></1> <3> <4>MJML 文档</4> </3> <5> <6>MJML 官方模板</6> </5> <7> <8>Programe.Tech 文档</8> </7>',
     name: 'MJML',
   },
   mustache: {
     desc: '无逻辑的模板。',
-    link: '<1> <2>官方网站</2> </1> <3> <4>Mustache 5 手册</4> </3> <5> <6>JavaScript 实现</6> </5> <7> <8>LiveCodes 文档</8> </7>',
+    link: '<1> <2>官方网站</2> </1> <3> <4>Mustache 5 手册</4> </3> <5> <6>JavaScript 实现</6> </5> <7> <8>Programe.Tech 文档</8> </7>',
     name: 'Mustache',
   },
   nunjucks: {
     desc: '一种丰富而强大的 JavaScript 模板语言。Nunjucks 本质上是 <1>jinja2</1> 的一个移植。',
-    link: '<1> <2>官方网站</2> </1> <3> <4>LiveCodes 文档</4> </3>',
+    link: '<1> <2>官方网站</2> </1> <3> <4>Programe.Tech 文档</4> </3>',
     name: 'Nunjucks',
   },
   ocaml: {
@@ -214,12 +214,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   php: {
     desc: '使用 Uniter 在浏览器中运行的 PHP。',
-    link: '<1><2>PHP 官网</2></1> <3> <4>PHP 文档</4> </3> <5> <6>Uniter GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=PHP</8> </7> <9> <10>LiveCodes 文档</10> </9> <11><12>加载启动模板</12></11>',
+    link: '<1><2>PHP 官网</2></1> <3> <4>PHP 文档</4> </3> <5> <6>Uniter GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=PHP</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11><12>加载启动模板</12></11>',
     name: 'PHP',
   },
   phpWasm: {
     desc: '浏览器中的 PHP，由 WebAssembly 提供支持，使用 php-wasm。',
-    link: '<1><2>PHP 官方网站</2></1> <3> <4>PHP 文档</4> </3> <5> <6>php-wasm GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=PHP</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载启动模板</12> </11>',
+    link: '<1><2>PHP 官方网站</2></1> <3> <4>PHP 文档</4> </3> <5> <6>php-wasm GitHub 仓库</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=PHP</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载启动模板</12> </11>',
     name: 'PHP（WASM）',
   },
   postgresql: {
@@ -234,44 +234,44 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   pug: {
     desc: '强大、优雅、功能丰富的模板引擎。',
-    link: '<1> <2>Pug 文档</2> </1> <3> <4>在 Y 分钟内学习 X，其中 X=Pug</4> </3> <5> <6>LiveCodes 文档</6> </5>',
+    link: '<1> <2>Pug 文档</2> </1> <3> <4>在 Y 分钟内学习 X，其中 X=Pug</4> </3> <5> <6>Programe.Tech 文档</6> </5>',
     name: 'Pug',
   },
   python: {
     desc: '使用 Brython 在浏览器中运行的 Python。',
-    link: '<1> <2>Python 官网</2> </1> <3> <4>Python 文档</4> </3> <5> <6>Brython 文档</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=Python</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载启动模板</12> </11>',
+    link: '<1> <2>Python 官网</2> </1> <3> <4>Python 文档</4> </3> <5> <6>Brython 文档</6> </5> <7> <8>在 Y 分钟内学习 X，其中 X=Python</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载启动模板</12> </11>',
     name: 'Python',
   },
   pythonWasm: {
     desc1: '支持科学技术栈的 Python，使用 Pyodide 编译为 WebAssembly。',
     desc2:
       'Pyodide 允许使用包括 NumPy, Pandas, Matplotlib, SciPy, scikit-learn 等库在内的 Python 科学技术栈。此外，还可以从 PyPI 安装纯 Python Wheel。',
-    link: '<1> <2>Python 官方网站</2> </1> <3> <4>Python 文档</4> </3> <5><6>Pyodide 文档</6></5> <7> <8>在 Y 分钟内学习 X，其中 X=Python</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载启动模板</12> </11>',
+    link: '<1> <2>Python 官方网站</2> </1> <3> <4>Python 文档</4> </3> <5><6>Pyodide 文档</6></5> <7> <8>在 Y 分钟内学习 X，其中 X=Python</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载启动模板</12> </11>',
     name: 'Python（WASM）',
   },
   r: {
     desc: '使用 WebR 在浏览器中运行的 R。',
-    link: '<1> <2>R 项目官方网站</2> </1> <3> <4>R 手册</4> </3> <5> <6>R for Data Science（2e）</6> </5> <7> <8>WebR 文档</8> </7> <9> <10>在 Y 分钟内学习 X，其中 X=R</10> </9> <11> <12>LiveCodes 文档</12> </11> <13> <14>加载启动模板</14> </13>',
+    link: '<1> <2>R 项目官方网站</2> </1> <3> <4>R 手册</4> </3> <5> <6>R for Data Science（2e）</6> </5> <7> <8>WebR 文档</8> </7> <9> <10>在 Y 分钟内学习 X，其中 X=R</10> </9> <11> <12>Programe.Tech 文档</12> </11> <13> <14>加载启动模板</14> </13>',
     name: 'R',
   },
   react: {
     desc: 'React Compiler 是一个仅在构建时运行的工具，可自动优化 React 应用程序。',
-    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 编译器</4> </3> <5> <6>LiveCodes 文档</6> </5> <7> <8>加载初始模板</8> </7>',
+    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 编译器</4> </3> <5> <6>Programe.Tech 文档</6> </5> <7> <8>加载初始模板</8> </7>',
     name: 'React 编译器',
   },
   reactNative: {
     desc: 'React Native for Web 是 React Native 的组件和 API 的可访问实现，可与 React DOM 互操作。',
-    link: '<1> <2>React 官方网站</2> </1> <3> <4>React Native 官方网站</4> </3> <5> <6>React Native for Web 官方网站</6> </5> <7> <8>React Native 文档</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载启动模板</12> </11>',
+    link: '<1> <2>React 官方网站</2> </1> <3> <4>React Native 官方网站</4> </3> <5> <6>React Native for Web 官方网站</6> </5> <7> <8>React Native 文档</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载启动模板</12> </11>',
     name: 'React Native for Web',
   },
   reactNativeTsx: {
     desc: 'React Native for Web 是 React Native 的组件和 API 的可访问实现，可与 React DOM 互操作。',
-    link: '<1> <2>React 官方网站</2> </1> <3> <4>React Native 官方网站</4> </3> <5> <6>React Native for Web 官方网站</6> </5> <7> <8>React Native 文档</8> </7> <9> <10>TypeScript 网站</10> </9> <11> <12>TypeScript 文档</12> </11> <13> <14>LiveCodes 文档</14> </13> <15> <16>加载启动模板（JSX）</16> </15>',
+    link: '<1> <2>React 官方网站</2> </1> <3> <4>React Native 官方网站</4> </3> <5> <6>React Native for Web 官方网站</6> </5> <7> <8>React Native 文档</8> </7> <9> <10>TypeScript 网站</10> </9> <11> <12>TypeScript 文档</12> </11> <13> <14>Programe.Tech 文档</14> </13> <15> <16>加载启动模板（JSX）</16> </15>',
     name: 'React Native for Web（TypeScript 支持）',
   },
   reactTsx: {
     desc: 'React Compiler 是一个仅在构建时运行的工具，可自动优化 React 应用程序。',
-    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 编译器</4> </3> <5> <6>TypeScript 网站</6> </5> <7> <8>TypeScript 文档</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载初始模板 (JSX)</12> </11>',
+    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 编译器</4> </3> <5> <6>TypeScript 网站</6> </5> <7> <8>TypeScript 文档</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载初始模板 (JSX)</12> </11>',
     name: 'React 编译器 (使用 TypeScript)',
   },
   reason: {
@@ -298,12 +298,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   ruby: {
     desc: '使用 Opal 在浏览器中运行的 Ruby。',
-    link: '<1> <2>Ruby 官方网站</2> </1> <3> <4>Ruby 文档</4> </3> <5><6>Opal 官方网站</6></5> <7> <8>Opal 标准库 CDN</8> </7> <9> <10>在 Y 分钟内学习 X，其中 X=ruby</10> </9> <11> <12>LiveCodes 文档</12> </11> <13> <14>加载启动模板</14> </13>',
+    link: '<1> <2>Ruby 官方网站</2> </1> <3> <4>Ruby 文档</4> </3> <5><6>Opal 官方网站</6></5> <7> <8>Opal 标准库 CDN</8> </7> <9> <10>在 Y 分钟内学习 X，其中 X=ruby</10> </9> <11> <12>Programe.Tech 文档</12> </11> <13> <14>加载启动模板</14> </13>',
     name: 'Ruby',
   },
   rubyWasm: {
     desc: '使用 ruby-wasm（移植到 WebAssembly 中的 CRuby 集合）在浏览器中运行的 Ruby。',
-    link: '<1> <2>Ruby 官方网站</2> </1> <3> <4>Ruby 文档</4> </3> <5> <6>ruby.wasm 网站</6> </5> <7><8>CRuby</8></7> <9> <10>在 Y 分钟内学习 X，其中 X=ruby</10> </9> <11> <12>LiveCodes 文档</12> </11> <13> <14>加载启动模板</14> </13>',
+    link: '<1> <2>Ruby 官方网站</2> </1> <3> <4>Ruby 文档</4> </3> <5> <6>ruby.wasm 网站</6> </5> <7><8>CRuby</8></7> <9> <10>在 Y 分钟内学习 X，其中 X=ruby</10> </9> <11> <12>Programe.Tech 文档</12> </11> <13> <14>加载启动模板</14> </13>',
     name: 'Ruby（WASM）',
   },
   sass: {
@@ -323,11 +323,11 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   solid: {
     desc: '用于构建用户界面的声明式、高效且灵活的 JavaScript 库。',
-    link: '<1><2>官方网站</2></1> <3><4>文档</4></3> <5> <6>LiveCodes 文档</6> </5> <7> <8>加载启动模板（TSX）</8> </7>',
+    link: '<1><2>官方网站</2></1> <3><4>文档</4></3> <5> <6>Programe.Tech 文档</6> </5> <7> <8>加载启动模板（TSX）</8> </7>',
     name: 'Solid',
     tsx: {
       desc: '用于构建用户界面的声明式、高效且灵活的 JavaScript 库。',
-      link: '<1><2>官方网站</2></1> <3> <4>Solid 文档</4> </3> <5> <6>TypeScript 官方网站</6> </5> <7> <8>TypeScript 文档</8> </7> <9> <10>LiveCodes 文档</10> </9> <11> <12>加载启动模板</12> </11>',
+      link: '<1><2>官方网站</2></1> <3> <4>Solid 文档</4> </3> <5> <6>TypeScript 官方网站</6> </5> <7> <8>TypeScript 文档</8> </7> <9> <10>Programe.Tech 文档</10> </9> <11> <12>加载启动模板</12> </11>',
       name: 'Solid（TypeScript 支持）',
     },
   },
@@ -357,7 +357,7 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   sucrase: {
     desc: '针对现代 JS 运行时的 Babel 的超快速替代品。',
-    link: '<1> <2>Sucrase 官方网站</2> </1> <3> <4>Sucrase GitHub 仓库</4> </3> <5> <6>LiveCodes 文档</6> </5>',
+    link: '<1> <2>Sucrase 官方网站</2> </1> <3> <4>Sucrase GitHub 仓库</4> </3> <5> <6>Programe.Tech 文档</6> </5>',
     name: 'Sucrase',
   },
   svelte: {
@@ -372,17 +372,17 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   teal: {
     desc: 'Lua 的一种类型化方言。',
-    link: '<1> <2>Teal GitHub 仓库</2> </1> <3> <4>Teal 文档</4> </3> <5> <6>Teal 教程</6> </5> <7> <8>LiveCodes 文档</8> </7> <9> <10>加载启动模板</10> </9>',
+    link: '<1> <2>Teal GitHub 仓库</2> </1> <3> <4>Teal 文档</4> </3> <5> <6>Teal 教程</6> </5> <7> <8>Programe.Tech 文档</8> </7> <9> <10>加载启动模板</10> </9>',
     name: 'Teal',
   },
   tsx: {
-    desc: 'JSX 中的 TypeScript。在 LiveCodes 中，TSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。',
-    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 中的 JSX 文档</4> </3> <5> <6>Typescript 文档</6> </5> <7> <8>LiveCodes 文档</8> </7>',
+    desc: 'JSX 中的 TypeScript。在 Programe.Tech 中，TSX 使用 TypeScript 编译器编译为 JavaScript。默认情况下，React 将作为 JSX 运行时。',
+    link: '<1> <2>React 官方网站</2> </1> <3> <4>React 中的 JSX 文档</4> </3> <5> <6>Typescript 文档</6> </5> <7> <8>Programe.Tech 文档</8> </7>',
     name: 'TSX',
   },
   twig: {
     desc: '由 <2>Twig.js </2> 支持的 <1>Twig</1> PHP 模板语言的 JavaScript 实现。',
-    link: '<1> <2>Twig 官方网站</2> </1> <3> <4>Twig 文档</4> </3> <5> <6>Twig.js 仓库</6> </5> <7> <8>Twig.js 文档</8> </7> <9> <10>LiveCodes 文档</10> </9>',
+    link: '<1> <2>Twig 官方网站</2> </1> <3> <4>Twig 文档</4> </3> <5> <6>Twig.js 仓库</6> </5> <7> <8>Twig.js 文档</8> </7> <9> <10>Programe.Tech 文档</10> </9>',
     name: 'Twig',
   },
   typescript: {
@@ -391,12 +391,12 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'TypeScript',
   },
   vue: {
-    link: '<1> <2>Vue.js v3 官方网站</2> </1> <3> <4>Vue3 文档</4> </3> <5> <6>Vue3 单文件组件</6> </5> <7> <8>LiveCodes 文档</8> </7> <9><10>加载启动模板</10> </9>',
+    link: '<1> <2>Vue.js v3 官方网站</2> </1> <3> <4>Vue3 文档</4> </3> <5> <6>Vue3 单文件组件</6> </5> <7> <8>Programe.Tech 文档</8> </7> <9><10>加载启动模板</10> </9>',
     name: 'Vue3 单文件组件',
   },
   vue2: {
     desc: '使用 vue3-sfc-loader 加载。',
-    link: '<1><2>Vue.js 官方网站</2></1> <3> <4>Vue2 文档</4> </3> <5> <6>Vue2 单文件组件</6> </5> <7> <8>vue3-sfc-loader GitHub 仓库</8> </7> <9> <10>LiveCodes 文档</10> </9>',
+    link: '<1><2>Vue.js 官方网站</2></1> <3> <4>Vue2 文档</4> </3> <5> <6>Vue2 单文件组件</6> </5> <7> <8>vue3-sfc-loader GitHub 仓库</8> </7> <9> <10>Programe.Tech 文档</10> </9>',
     name: 'Vue2 单文件组件',
   },
   wat: {

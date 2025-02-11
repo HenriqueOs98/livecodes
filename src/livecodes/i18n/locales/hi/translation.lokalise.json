@@ -31,25 +31,25 @@
     "translation": "GitHub"
   },
   "about.heading": {
-    "translation": "LiveCodes के बारे में"
+    "translation": "Programe.Tech के बारे में"
   },
-  "about.livecodes.aboutUs": {
-    "translation": "LiveCodes के बारे में"
+  "about.Programe.Tech.aboutUs": {
+    "translation": "Programe.Tech के बारे में"
   },
-  "about.livecodes.para1": {
-    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> एक <tag-3>ओपन-सोर्स</tag-3>, <tag-4>सुविधा-संपन्न</tag-4>, <tag-5>क्लाइंट-साइड</tag-5> कोड प्लेग्राउंड है। वर्तमान में, <tag-6>90+ भाषाओं/<tag-7></tag-7>फ्रेमवर्क</tag-6> समर्थित हैं। इसका उपयोग एक स्टैंडअलोन ऐप के रूप में किया जा सकता है या किसी भी वेब पेज में <tag-8>एम्बेड</tag-8> किया जा सकता है। कोड के साथ प्लेग्राउंड को <tag-9>पूर्व-भरने</tag-9> के कई तरीके हैं।"
+  "about.Programe.Tech.para1": {
+    "translation": "<tag-1><tag-2>Programe.Tech</tag-2></tag-1> एक <tag-3>ओपन-सोर्स</tag-3>, <tag-4>सुविधा-संपन्न</tag-4>, <tag-5>क्लाइंट-साइड</tag-5> कोड प्लेग्राउंड है। वर्तमान में, <tag-6>90+ भाषाओं/<tag-7></tag-7>फ्रेमवर्क</tag-6> समर्थित हैं। इसका उपयोग एक स्टैंडअलोन ऐप के रूप में किया जा सकता है या किसी भी वेब पेज में <tag-8>एम्बेड</tag-8> किया जा सकता है। कोड के साथ प्लेग्राउंड को <tag-9>पूर्व-भरने</tag-9> के कई तरीके हैं।"
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "translation": "विस्तृत <tag-1>कॉन्फ़िगरेशन विकल्प</tag-1> इसे बहुत लचीला बनाते हैं। एक शक्तिशाली <tag-2>SDK</tag-2> (<tag-3>JS/TS</tag-3>, <tag-4>React</tag-4>, <tag-5>Vue</tag-5> और <tag-6>Svelte</tag-6> के लिए) प्लेग्राउंड को <tag-7>एम्बेड करने</tag-7> और उनके साथ <tag-8>संवाद करने</tag-8> की सुविधा प्रदान करता है। कोड नमूनों, लाइव डेमो और स्क्रीनशॉट के साथ <tag-9>व्यापक दस्तावेज़ीकरण</tag-9> उपलब्ध हैं।"
   },
   "about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "translation": "प्रायोजक"
   },
   "about.sponsor.title": {
-    "translation": "LiveCodes को प्रायोजित करें"
+    "translation": "Programe.Tech को प्रायोजित करें"
   },
   "about.twitter.text": {
     "translation": "𝕏 / ट्विटर"
@@ -127,7 +127,7 @@
     "translation": "अनुवाद करने में हमारी सहायता करें"
   },
   "app.logo.title": {
-    "translation": "LiveCodes: एक कोड प्लेग्राउंड जो बस काम करता है!"
+    "translation": "Programe.Tech: एक कोड प्लेग्राउंड जो बस काम करता है!"
   },
   "app.projectInfo.hint": {
     "translation": "प्रोजेक्ट जानकारी"
@@ -166,7 +166,7 @@
     "translation": "फ़ाइल जोड़ें"
   },
   "assets.add.githubPages.desc": {
-    "translation": "संपत्ति को GitHub Pages पर तैनात करें। फ़ाइल को आपके GitHub खाते पर <tag-2>livecodes-assets</tag-2> रेपो की <tag-1>gh-pages</tag-1> शाखा में पुश किया जाता है। यदि रेपो पहले से मौजूद नहीं है, तो एक सार्वजनिक रेपो बनाया जाएगा।"
+    "translation": "संपत्ति को GitHub Pages पर तैनात करें। फ़ाइल को आपके GitHub खाते पर <tag-2>Programe.Tech-assets</tag-2> रेपो की <tag-1>gh-pages</tag-1> शाखा में पुश किया जाता है। यदि रेपो पहले से मौजूद नहीं है, तो एक सार्वजनिक रेपो बनाया जाएगा।"
   },
   "assets.add.githubPages.heading": {
     "translation": "GitHub पेजेज"
@@ -304,7 +304,7 @@
     "translation": "बैकअप"
   },
   "backup.backup.desc": {
-    "translation": "LiveCodes डेटा का बैकअप लें, ताकि इसे बाद में इस या अन्य उपकरणों पर पुनर्स्थापित किया जा सके। <tag-1></tag-1> कृपया विवरण के लिए <tag-2>दस्तावेज़ीकरण</tag-2> देखें।"
+    "translation": "Programe.Tech डेटा का बैकअप लें, ताकि इसे बाद में इस या अन्य उपकरणों पर पुनर्स्थापित किया जा सके। <tag-1></tag-1> कृपया विवरण के लिए <tag-2>दस्तावेज़ीकरण</tag-2> देखें।"
   },
   "backup.backup.heading": {
     "translation": "बैकअप"
@@ -340,7 +340,7 @@
     "translation": "प्रगति में..."
   },
   "backup.restore.desc": {
-    "translation": "पहले बैकअप किए गए LiveCodes डेटा को पुनर्स्थापित करें। <tag-1></tag-1> यदि आप वर्तमान सामग्री को बदलना चाहते हैं, तो आप पहले उसका बैकअप लेना चाह सकते हैं। <tag-2></tag-2> कृपया विवरण के लिए <tag-3>दस्तावेज़ीकरण</tag-3> देखें।"
+    "translation": "पहले बैकअप किए गए Programe.Tech डेटा को पुनर्स्थापित करें। <tag-1></tag-1> यदि आप वर्तमान सामग्री को बदलना चाहते हैं, तो आप पहले उसका बैकअप लेना चाह सकते हैं। <tag-2></tag-2> कृपया विवरण के लिए <tag-3>दस्तावेज़ीकरण</tag-3> देखें।"
   },
   "backup.restore.fromFile": {
     "translation": "फ़ाइल से पुनर्स्थापित करें"
@@ -1852,13 +1852,13 @@
     "translation": "सादा टेक्स्ट"
   },
   "splash.loading": {
-    "translation": "LiveCodes लोड हो रहा है…"
+    "translation": "Programe.Tech लोड हो रहा है…"
   },
   "sync.autoSync": {
     "translation": "स्वतः सिंक"
   },
   "sync.create.desc": {
-    "translation": "एक नया <tag-1>निजी</tag-1> रेपो बनाया जाएगा। आपका LiveCodes स्थानीय डेटा <tag-2>main</tag-2> शाखा के साथ सिंक्रनाइज़ किया जाएगा।"
+    "translation": "एक नया <tag-1>निजी</tag-1> रेपो बनाया जाएगा। आपका Programe.Tech स्थानीय डेटा <tag-2>main</tag-2> शाखा के साथ सिंक्रनाइज़ किया जाएगा।"
   },
   "sync.create.heading": {
     "translation": "नया रेपो बनाएं"
@@ -1873,7 +1873,7 @@
     "translation": "रेपो का नाम आवश्यक है"
   },
   "sync.existing.desc": {
-    "translation": "आपका LiveCodes स्थानीय डेटा <tag-1>main</tag-1> शाखा के साथ सिंक्रनाइज़ किया जाएगा।"
+    "translation": "आपका Programe.Tech स्थानीय डेटा <tag-1>main</tag-1> शाखा के साथ सिंक्रनाइज़ किया जाएगा।"
   },
   "sync.existing.heading": {
     "translation": "मौजूदा रेपो"
@@ -2173,7 +2173,7 @@
     "translation": "दस्तावेज़ीकरण"
   },
   "welcome.about.heading": {
-    "translation": "LiveCodes के बारे में"
+    "translation": "Programe.Tech के बारे में"
   },
   "welcome.heading": {
     "translation": "स्वागत है"

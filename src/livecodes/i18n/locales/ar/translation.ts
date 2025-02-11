@@ -6,14 +6,14 @@ const translation: I18nTranslation = {
   about: {
     blog: {
       text: 'المدونة',
-      title: 'مدونة LiveCodes',
+      title: 'مدونة Programe.Tech',
     },
     configuration: 'إعدادات',
     credits: {
       heading: 'الاعتمادات',
       para1:
-        'تم إنشاء LiveCodes بفضل مشاريع مفتوحة المصدر وخدمات الويب والمساهمين. <1> عرض الاعتمادات </1>',
-      para2: '© 2024 حاتم حسني. LiveCodes مرخصة بموجب ترخيص MIT.',
+        'تم إنشاء Programe.Tech بفضل مشاريع مفتوحة المصدر وخدمات الويب والمساهمين. <1> عرض الاعتمادات </1>',
+      para2: '© 2024 حاتم حسني. Programe.Tech مرخصة بموجب ترخيص MIT.',
     },
     documentations: {
       heading: 'الوثائق',
@@ -23,18 +23,18 @@ const translation: I18nTranslation = {
       text: 'GitHub',
       title: 'GitHub',
     },
-    heading: 'حول LiveCodes',
-    livecodes: {
-      aboutUs: 'حول LiveCodes',
+    heading: 'حول Programe.Tech',
+    Programe.Tech: {
+      aboutUs: 'حول Programe.Tech',
       para1:
-        '<1><2>LiveCodes</2></1> هو ملعب برمجي <3>مفتوح المصدر</3>، <4>غني بالميزات</4>، <5>يعمل على جانب العميل</5>. حاليًا، يتم دعم <6>أكثر من 90 لغة/<7></7>إطار عمل</6>. يمكن استخدامه كتطبيق مستقل أو يمكن <8>تضمينه</8> في أي صفحة ويب. هناك العديد من الطرق <9>لملء الملاعب مسبقًا</9> بالكود.',
+        '<1><2>Programe.Tech</2></1> هو ملعب برمجي <3>مفتوح المصدر</3>، <4>غني بالميزات</4>، <5>يعمل على جانب العميل</5>. حاليًا، يتم دعم <6>أكثر من 90 لغة/<7></7>إطار عمل</6>. يمكن استخدامه كتطبيق مستقل أو يمكن <8>تضمينه</8> في أي صفحة ويب. هناك العديد من الطرق <9>لملء الملاعب مسبقًا</9> بالكود.',
       para2:
         'مجموعة واسعة من <1>الإعدادات</1> تجعله مرنًا للغاية. <2>SDK</2> قوي (لـ <3>JS/TS</3>، و<4>React</4>، و<5>Vue</5> و<6>Svelte</6>) يسهل <7>التضمين</7> و<8>التواصل</8> مع الملاعب. تتوفر <9>وثائق شاملة</9> مع نماذج الكود والعروض التوضيحية الحية ولقطات الشاشة.',
     },
-    sdk: 'LiveCodes SDK',
+    sdk: 'Programe.Tech SDK',
     sponsor: {
       text: 'دعم',
-      title: 'دعم LiveCodes',
+      title: 'دعم Programe.Tech',
     },
     twitter: {
       text: '𝕏 / تويتر',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: 'ساعدنا في الترجمة',
     },
     logo: {
-      title: 'LiveCodes: محرر برمجي يعمل ببساطة!',
+      title: 'Programe.Tech: محرر برمجي يعمل ببساطة!',
     },
     projectInfo: {
       hint: 'معلومات المشروع',
@@ -130,7 +130,7 @@ const translation: I18nTranslation = {
         label: 'إضافة ملف',
       },
       githubPages: {
-        desc: 'نشر الأصل على صفحات GitHub. يتم دفع الملف إلى فرع <1>gh-pages</1> في المستودع <2>livecodes-assets</2> على حساب GitHub الخاص بك. إذا لم يكن المستودع موجودًا بالفعل، سيتم إنشاء مستودع عام.',
+        desc: 'نشر الأصل على صفحات GitHub. يتم دفع الملف إلى فرع <1>gh-pages</1> في المستودع <2>Programe.Tech-assets</2> على حساب GitHub الخاص بك. إذا لم يكن المستودع موجودًا بالفعل، سيتم إنشاء مستودع عام.',
         heading: 'صفحات GitHub',
         label: 'رفع ملف',
       },
@@ -201,7 +201,7 @@ const translation: I18nTranslation = {
     backup: {
       assets: 'الملفات',
       button: 'نسخ احتياطي',
-      desc: 'قم بعمل نسخة احتياطية من بيانات LiveCodes، حتى يمكن استعادتها لاحقًا على هذا الجهاز أو أجهزة أخرى. <1></1> يرجى زيارة <2>الوثائق</2> للحصول على التفاصيل.',
+      desc: 'قم بعمل نسخة احتياطية من بيانات Programe.Tech، حتى يمكن استعادتها لاحقًا على هذا الجهاز أو أجهزة أخرى. <1></1> يرجى زيارة <2>الوثائق</2> للحصول على التفاصيل.',
       heading: 'نسخ احتياطي',
       projects: 'المشاريع',
       settings: 'إعدادات المستخدم',
@@ -217,7 +217,7 @@ const translation: I18nTranslation = {
     heading: 'نسخ احتياطي / استعادة',
     inProgress: 'جارٍ التنفيذ...',
     restore: {
-      desc: 'استعادة بيانات LiveCodes التي تم نسخها احتياطيًا مسبقًا. <1></1> إذا اخترت استبدال المحتوى الحالي، قد ترغب في عمل نسخة احتياطية منه أولاً. <2></2> يرجى زيارة <3>الوثائق</3> للحصول على التفاصيل.',
+      desc: 'استعادة بيانات Programe.Tech التي تم نسخها احتياطيًا مسبقًا. <1></1> إذا اخترت استبدال المحتوى الحالي، قد ترغب في عمل نسخة احتياطية منه أولاً. <2></2> يرجى زيارة <3>الوثائق</3> للحصول على التفاصيل.',
       fromFile: 'استعادة من ملف',
       heading: 'استعادة',
       mode: {
@@ -617,7 +617,7 @@ const translation: I18nTranslation = {
     close: 'إغلاق',
     custom: 'مخصص',
     embed: {
-      logoHint: 'تحرير على LiveCodes 🡕',
+      logoHint: 'تحرير على Programe.Tech 🡕',
     },
     error: {
       authentication: 'خطأ في المصادقة!',
@@ -698,7 +698,7 @@ const translation: I18nTranslation = {
     autoSave: 'حفظ تلقائي',
     autoUpdate: 'تحديث تلقائي',
     backup: 'نسخ احتياطي / استعادة …',
-    blog: 'مدونة LiveCodes',
+    blog: 'مدونة Programe.Tech',
     broadcast: 'بث …',
     commandMenu: 'قائمة الأوامر',
     config: 'إعدادات',
@@ -844,7 +844,7 @@ const translation: I18nTranslation = {
     urlDesc: 'أضف روابط ورقة الأنماط/النص البرمجي. يجب أن يكون كل رابط في سطر منفصل.',
   },
   resultMode: {
-    linkText: 'تحرير على LiveCodes',
+    linkText: 'تحرير على Programe.Tech',
   },
   savePrompt: {
     heading: 'تغييرات غير محفوظة',
@@ -943,12 +943,12 @@ const translation: I18nTranslation = {
     text: 'نص عادي',
   },
   splash: {
-    loading: 'جارٍ تحميل LiveCodes…',
+    loading: 'جارٍ تحميل Programe.Tech…',
   },
   sync: {
     autoSync: 'مزامنة تلقائية',
     create: {
-      desc: 'سيتم إنشاء مستودع <1>خاص</1> جديد. ستتم مزامنة بيانات LiveCodes المحلية مع فرع <2>main</2>.',
+      desc: 'سيتم إنشاء مستودع <1>خاص</1> جديد. ستتم مزامنة بيانات Programe.Tech المحلية مع فرع <2>main</2>.',
       heading: 'إنشاء مستودع جديد',
       repoName: 'اسم المستودع',
     },
@@ -957,7 +957,7 @@ const translation: I18nTranslation = {
       repoNameRequired: 'اسم المستودع مطلوب',
     },
     existing: {
-      desc: 'ستتم مزامنة بيانات LiveCodes المحلية مع فرع <1>main</1>.',
+      desc: 'ستتم مزامنة بيانات Programe.Tech المحلية مع فرع <1>main</1>.',
       heading: 'مستودع موجود',
       repoName: 'اسم المستودع',
     },
@@ -1087,7 +1087,7 @@ const translation: I18nTranslation = {
   welcome: {
     about: {
       documentation: 'الوثائق',
-      heading: 'حول LiveCodes',
+      heading: 'حول Programe.Tech',
     },
     heading: 'مرحبًا',
     recent: {

@@ -460,7 +460,7 @@
     "translation": "React Compiler ایک بلڈ-ٹائم ٹول ہے جو خود کار طریقے سے React ایپس کو بہتر بناتا ہے۔"
   },
   "react.link": {
-    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React کمپائلر</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React کمپائلر</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
   },
   "react.name": {
     "translation": "ری ایکٹ کمپائلر"
@@ -487,7 +487,7 @@
     "translation": "React Compiler ایک بلڈ-ٹائم ٹول ہے جو خود کار طریقے سے React ایپس کو بہتر بناتا ہے۔"
   },
   "reactTsx.link": {
-    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React کمپائلر</tag-4> </tag-3> <tag-5> <tag-6>TypeScript ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>TypeScript دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں (JSX)</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React کمپائلر</tag-4> </tag-3> <tag-5> <tag-6>TypeScript ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>TypeScript دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں (JSX)</tag-12> </tag-11>"
   },
   "reactTsx.name": {
     "translation": "React کمپائلر (TypeScript کے ساتھ)"
@@ -643,7 +643,7 @@
     "translation": "جب آپ جدید JS رن ٹائمز کو ہدف بنا سکتے ہیں تو Babel کا انتہائی تیز متبادل۔"
   },
   "sucrase.link": {
-    "translation": "<tag-1> <tag-2>Sucrase کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub ریپو</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes دستاویزات</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sucrase کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub ریپو</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech دستاویزات</tag-6> </tag-5>"
   },
   "sucrase.name": {
     "translation": "Sucrase"
@@ -670,16 +670,16 @@
     "translation": "Lua کی ایک ٹائپ کردہ بولی۔"
   },
   "teal.link": {
-    "translation": "<tag-1> <tag-2>Teal GitHub ریپو</tag-2> </tag-1> <tag-3> <tag-4>Teal دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Teal ٹیوٹوریل</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>شروعاتی سانچہ لوڈ کریں</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Teal GitHub ریپو</tag-2> </tag-1> <tag-3> <tag-4>Teal دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Teal ٹیوٹوریل</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>شروعاتی سانچہ لوڈ کریں</tag-10> </tag-9>"
   },
   "teal.name": {
     "translation": "Teal"
   },
   "tsx.desc": {
-    "translation": "JSX میں TypeScript۔ TSX کو LiveCodes میں TypeScript کمپائلر کا استعمال کرتے ہوئے جاوا اسکرپٹ میں مرتب کیا جاتا ہے۔ ڈیفالٹ طور پر یہ JSX رن ٹائم کے طور پر React کا استعمال کرتا ہے۔"
+    "translation": "JSX میں TypeScript۔ TSX کو Programe.Tech میں TypeScript کمپائلر کا استعمال کرتے ہوئے جاوا اسکرپٹ میں مرتب کیا جاتا ہے۔ ڈیفالٹ طور پر یہ JSX رن ٹائم کے طور پر React کا استعمال کرتا ہے۔"
   },
   "tsx.link": {
-    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React میں JSX دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Typescript دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes دستاویزات</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React میں JSX دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Typescript دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech دستاویزات</tag-8> </tag-7>"
   },
   "tsx.name": {
     "translation": "TSX"
@@ -688,7 +688,7 @@
     "translation": "<tag-2>Twig.js</tag-2> کے ذریعے <tag-1>Twig</tag-1> PHP ٹیمپلیٹنگ زبان کا ایک جاوا اسکرپٹ نفاذ۔"
   },
   "twig.link": {
-    "translation": "<tag-1> <tag-2>Twig کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Twig دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Twig.js ریپو</tag-6> </tag-5> <tag-7> <tag-8>Twig.js دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes دستاویزات</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Twig کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Twig دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Twig.js ریپو</tag-6> </tag-5> <tag-7> <tag-8>Twig.js دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech دستاویزات</tag-10> </tag-9>"
   },
   "twig.name": {
     "translation": "Twig"
@@ -703,7 +703,7 @@
     "translation": "TypeScript"
   },
   "vue.link": {
-    "translation": "<tag-1> <tag-2>Vue.js v3 کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Vue3 دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Vue3 سنگل فائل کمپوننٹس</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes دستاویزات</tag-8> </tag-7> <tag-9><tag-10>شروعاتی سانچہ لوڈ کریں</tag-10></tag-9>"
+    "translation": "<tag-1> <tag-2>Vue.js v3 کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Vue3 دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Vue3 سنگل فائل کمپوننٹس</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech دستاویزات</tag-8> </tag-7> <tag-9><tag-10>شروعاتی سانچہ لوڈ کریں</tag-10></tag-9>"
   },
   "vue.name": {
     "translation": "Vue3 سنگل فائل کمپوننٹس"
@@ -712,7 +712,7 @@
     "translation": "vue3-sfc-loader کا استعمال کرتے ہوئے لوڈ کیا گیا۔"
   },
   "vue2.link": {
-    "translation": "<tag-1><tag-2>Vue.js کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>Vue2 دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Vue2 سنگل فائل کمپوننٹس</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub ریپو</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes دستاویزات</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Vue.js کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>Vue2 دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Vue2 سنگل فائل کمپوننٹس</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub ریپو</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech دستاویزات</tag-10> </tag-9>"
   },
   "vue2.name": {
     "translation": "Vue2 سنگل فائل کمپوننٹس"

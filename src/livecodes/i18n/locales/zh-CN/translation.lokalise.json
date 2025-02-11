@@ -4,7 +4,7 @@
     "translation": "博客"
   },
   "about.blog.title": {
-    "translation": "LiveCodes 博客"
+    "translation": "Programe.Tech 博客"
   },
   "about.configuration": {
     "translation": "配置"
@@ -13,10 +13,10 @@
     "translation": "致谢"
   },
   "about.credits.para1": {
-    "translation": "LiveCodes 的实现得益于开源项目、网络服务和贡献者的支持。 <tag-1>查看致谢</tag-1>"
+    "translation": "Programe.Tech 的实现得益于开源项目、网络服务和贡献者的支持。 <tag-1>查看致谢</tag-1>"
   },
   "about.credits.para2": {
-    "translation": "© 2024 Hatem Hosny。LiveCodes 已获得 MIT 许可。"
+    "translation": "© 2024 Hatem Hosny。Programe.Tech 已获得 MIT 许可。"
   },
   "about.documentations.heading": {
     "translation": "文档"
@@ -31,25 +31,25 @@
     "translation": "GitHub"
   },
   "about.heading": {
-    "translation": "关于 LiveCodes"
+    "translation": "关于 Programe.Tech"
   },
-  "about.livecodes.aboutUs": {
-    "translation": "关于 LiveCodes"
+  "about.Programe.Tech.aboutUs": {
+    "translation": "关于 Programe.Tech"
   },
-  "about.livecodes.para1": {
-    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> 是一个开源的、功能丰富的、客户端侧的代码运行环境。目前支持超过 90 种语言 / 框架。它可以作为独立应用使用，亦可嵌入到任意网页中。"
+  "about.Programe.Tech.para1": {
+    "translation": "<tag-1><tag-2>Programe.Tech</tag-2></tag-1> 是一个开源的、功能丰富的、客户端侧的代码运行环境。目前支持超过 90 种语言 / 框架。它可以作为独立应用使用，亦可嵌入到任意网页中。"
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "translation": "功能强大的 SDK 可轻松整合代码运行环境并与其进行通信。文档内容详细完整，代码示例、实时演示和屏幕截图一应俱全。"
   },
   "about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "translation": "赞助"
   },
   "about.sponsor.title": {
-    "translation": "赞助 LiveCodes"
+    "translation": "赞助 Programe.Tech"
   },
   "about.twitter.text": {
     "translation": "𝕏 / Twitter"
@@ -127,7 +127,7 @@
     "translation": "帮助我们翻译"
   },
   "app.logo.title": {
-    "translation": "LiveCodes: 一个简单实用的代码运行环境！"
+    "translation": "Programe.Tech: 一个简单实用的代码运行环境！"
   },
   "app.projectInfo.hint": {
     "translation": "项目信息"
@@ -166,7 +166,7 @@
     "translation": "添加文件"
   },
   "assets.add.githubPages.desc": {
-    "translation": "将资产部署到 GitHub Pages。该文件将推送至您 GitHub 帐户上 <tag-2> livecodes-assets</tag-2> 仓库的 <tag-1>gh-pages</tag-1> 分支。如果该仓库尚不存在，则将创建一个公开仓库。"
+    "translation": "将资产部署到 GitHub Pages。该文件将推送至您 GitHub 帐户上 <tag-2> Programe.Tech-assets</tag-2> 仓库的 <tag-1>gh-pages</tag-1> 分支。如果该仓库尚不存在，则将创建一个公开仓库。"
   },
   "assets.add.githubPages.heading": {
     "translation": "GitHub Pages"
@@ -304,7 +304,7 @@
     "translation": "备份"
   },
   "backup.backup.desc": {
-    "translation": "备份 LiveCodes 数据，以便稍后在此设备上或其他设备上恢复。 <tag-1> </tag-1>请访问<tag-2>文档</tag-2>以了解详情。"
+    "translation": "备份 Programe.Tech 数据，以便稍后在此设备上或其他设备上恢复。 <tag-1> </tag-1>请访问<tag-2>文档</tag-2>以了解详情。"
   },
   "backup.backup.heading": {
     "translation": "备份"
@@ -340,7 +340,7 @@
     "translation": "进行中 ..."
   },
   "backup.restore.desc": {
-    "translation": "恢复先前备份的 LiveCodes 数据。<tag-1></tag-1>如果您选择替换当前内容，可能需要先将其备份。<tag-2></tag-2>请访问<tag-3>文档</tag-3> 以了解详情。"
+    "translation": "恢复先前备份的 Programe.Tech 数据。<tag-1></tag-1>如果您选择替换当前内容，可能需要先将其备份。<tag-2></tag-2>请访问<tag-3>文档</tag-3> 以了解详情。"
   },
   "backup.restore.fromFile": {
     "translation": "从文件恢复"
@@ -1180,7 +1180,7 @@
     "translation": "GitHub"
   },
   "generic.about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "generic.about.sponsor": {
     "translation": "赞助"
@@ -1198,7 +1198,7 @@
     "translation": "自定义"
   },
   "generic.embed.logoHint": {
-    "translation": "在 LiveCodes 上编辑 🡕"
+    "translation": "在 Programe.Tech 上编辑 🡕"
   },
   "generic.error.authentication": {
     "translation": "身份验证错误！"
@@ -1357,7 +1357,7 @@
     "translation": "备份 / 恢复 ..."
   },
   "menu.blog": {
-    "translation": "LiveCodes 博客"
+    "translation": "Programe.Tech 博客"
   },
   "menu.broadcast": {
     "translation": "播送 ..."
@@ -1663,7 +1663,7 @@
     "translation": "键入样式/脚本 URL。每个 URL 应位于单独的一行中。"
   },
   "resultMode.linkText": {
-    "translation": "在 LiveCodes 上编辑"
+    "translation": "在 Programe.Tech 上编辑"
   },
   "savePrompt.heading": {
     "translation": "未保存的更改"
@@ -1852,13 +1852,13 @@
     "translation": "纯文本"
   },
   "splash.loading": {
-    "translation": "正在加载 LiveCodes ..."
+    "translation": "正在加载 Programe.Tech ..."
   },
   "sync.autoSync": {
     "translation": "自动同步"
   },
   "sync.create.desc": {
-    "translation": "将创建一个新的<tag-1>私有</tag-1>仓库。您的 LiveCodes 本地数据将与 <tag-2>main</tag-2> 分支同步。"
+    "translation": "将创建一个新的<tag-1>私有</tag-1>仓库。您的 Programe.Tech 本地数据将与 <tag-2>main</tag-2> 分支同步。"
   },
   "sync.create.heading": {
     "translation": "创建新仓库"
@@ -1873,7 +1873,7 @@
     "translation": "必须填写仓库名称"
   },
   "sync.existing.desc": {
-    "translation": "您的 LiveCodes 本地数据将与 <tag-1>main</tag-1> 分支同步。"
+    "translation": "您的 Programe.Tech 本地数据将与 <tag-1>main</tag-1> 分支同步。"
   },
   "sync.existing.heading": {
     "translation": "现有仓库"
@@ -2173,7 +2173,7 @@
     "translation": "文档"
   },
   "welcome.about.heading": {
-    "translation": "关于 LiveCodes"
+    "translation": "关于 Programe.Tech"
   },
   "welcome.heading": {
     "translation": "欢迎"

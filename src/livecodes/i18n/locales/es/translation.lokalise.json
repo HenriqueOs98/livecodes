@@ -4,7 +4,7 @@
     "translation": "Blog"
   },
   "about.blog.title": {
-    "translation": "Blog de LiveCodes"
+    "translation": "Blog de Programe.Tech"
   },
   "about.configuration": {
     "translation": "Configuración"
@@ -13,10 +13,10 @@
     "translation": "Créditos"
   },
   "about.credits.para1": {
-    "translation": "LiveCodes es posible gracias a proyectos de código abierto, servicios web y colaboradores. <tag-1> Ver créditos </tag-1>"
+    "translation": "Programe.Tech es posible gracias a proyectos de código abierto, servicios web y colaboradores. <tag-1> Ver créditos </tag-1>"
   },
   "about.credits.para2": {
-    "translation": "© 2024 Hatem Hosny. LiveCodes tiene licencia MIT."
+    "translation": "© 2024 Hatem Hosny. Programe.Tech tiene licencia MIT."
   },
   "about.documentations.heading": {
     "translation": "Documentación"
@@ -31,25 +31,25 @@
     "translation": "GitHub"
   },
   "about.heading": {
-    "translation": "Acerca de LiveCodes"
+    "translation": "Acerca de Programe.Tech"
   },
-  "about.livecodes.aboutUs": {
-    "translation": "Acerca de LiveCodes"
+  "about.Programe.Tech.aboutUs": {
+    "translation": "Acerca de Programe.Tech"
   },
-  "about.livecodes.para1": {
-    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> es un área de juego de código <tag-3>de código abierto</tag-3>, <tag-4>rico en características</tag-4> y <tag-5>del lado del cliente</tag-5>. Actualmente, se admiten <tag-6>más de 90 lenguajes/<tag-7></tag-7>frameworks</tag-6>. Se puede usar como una aplicación independiente o se puede <tag-8>incrustar</tag-8> en cualquier página web. Hay muchas formas de <tag-9>precargar los campos de juego</tag-9> con código."
+  "about.Programe.Tech.para1": {
+    "translation": "<tag-1><tag-2>Programe.Tech</tag-2></tag-1> es un área de juego de código <tag-3>de código abierto</tag-3>, <tag-4>rico en características</tag-4> y <tag-5>del lado del cliente</tag-5>. Actualmente, se admiten <tag-6>más de 90 lenguajes/<tag-7></tag-7>frameworks</tag-6>. Se puede usar como una aplicación independiente o se puede <tag-8>incrustar</tag-8> en cualquier página web. Hay muchas formas de <tag-9>precargar los campos de juego</tag-9> con código."
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "translation": "Una amplia gama de <tag-1>opciones de configuración</tag-1> lo hace muy flexible. Un potente <tag-2>SDK</tag-2> (para <tag-3>JS/TS</tag-3>, <tag-4>React</tag-4>, <tag-5>Vue</tag-5> y <tag-6>Svelte</tag-6>) facilita la <tag-7>incrustación</tag-7> y la <tag-8>comunicación</tag-8> con los campos de juego. Hay disponible una <tag-9>documentación completa</tag-9> con ejemplos de código, demostraciones en vivo y capturas de pantalla."
   },
   "about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "translation": "Patrocinar"
   },
   "about.sponsor.title": {
-    "translation": "Patrocinar LiveCodes"
+    "translation": "Patrocinar Programe.Tech"
   },
   "about.twitter.text": {
     "translation": "𝕏 / Twitter"
@@ -127,7 +127,7 @@
     "translation": "Ayúdenos a traducir"
   },
   "app.logo.title": {
-    "translation": "LiveCodes: un editor de código que se ejecuta en su navegador!"
+    "translation": "Programe.Tech: un editor de código que se ejecuta en su navegador!"
   },
   "app.projectInfo.hint": {
     "translation": "Información del proyecto"
@@ -166,7 +166,7 @@
     "translation": "Agregar archivo"
   },
   "assets.add.githubPages.desc": {
-    "translation": "Desplegar activo en GitHub Pages. El archivo se envía a la rama <tag-1>gh-pages</tag-1> del repositorio <tag-2>livecodes-assets</tag-2> en tu cuenta de GitHub. Si el repositorio aún no existe, se creará un repositorio público."
+    "translation": "Desplegar activo en GitHub Pages. El archivo se envía a la rama <tag-1>gh-pages</tag-1> del repositorio <tag-2>Programe.Tech-assets</tag-2> en tu cuenta de GitHub. Si el repositorio aún no existe, se creará un repositorio público."
   },
   "assets.add.githubPages.heading": {
     "translation": "GitHub Pages"
@@ -304,7 +304,7 @@
     "translation": "Respaldar"
   },
   "backup.backup.desc": {
-    "translation": "Respalda los datos de LiveCodes para que puedan restaurarse más tarde en este u otros dispositivos. <tag-1></tag-1> Por favor, visita la <tag-2>documentación</tag-2> para más detalles."
+    "translation": "Respalda los datos de Programe.Tech para que puedan restaurarse más tarde en este u otros dispositivos. <tag-1></tag-1> Por favor, visita la <tag-2>documentación</tag-2> para más detalles."
   },
   "backup.backup.heading": {
     "translation": "Respaldo"
@@ -340,7 +340,7 @@
     "translation": "En progreso..."
   },
   "backup.restore.desc": {
-    "translation": "Restaura los datos de LiveCodes previamente respaldados. <tag-1></tag-1> Si eliges reemplazar el contenido actual, es posible que desees respaldarlo primero. <tag-2></tag-2> Por favor, visita la <tag-3>documentación</tag-3> para más detalles."
+    "translation": "Restaura los datos de Programe.Tech previamente respaldados. <tag-1></tag-1> Si eliges reemplazar el contenido actual, es posible que desees respaldarlo primero. <tag-2></tag-2> Por favor, visita la <tag-3>documentación</tag-3> para más detalles."
   },
   "backup.restore.fromFile": {
     "translation": "Restaurar desde archivo"
@@ -1198,7 +1198,7 @@
     "translation": "Costumbre"
   },
   "generic.embed.logoHint": {
-    "translation": "Editar en LiveCodes 🡕"
+    "translation": "Editar en Programe.Tech 🡕"
   },
   "generic.error.authentication": {
     "translation": "¡Error de autenticación!"
@@ -1357,7 +1357,7 @@
     "translation": "Copia de seguridad / Restaurar …"
   },
   "menu.blog": {
-    "translation": "Blog de LiveCodes"
+    "translation": "Blog de Programe.Tech"
   },
   "menu.broadcast": {
     "translation": "Transmitir …"
@@ -1663,7 +1663,7 @@
     "translation": "Agrega URLs de hojas de estilo/scripts. Cada URL debe estar en una línea separada."
   },
   "resultMode.linkText": {
-    "translation": "Editar en LiveCodes"
+    "translation": "Editar en Programe.Tech"
   },
   "savePrompt.heading": {
     "translation": "Cambios sin guardar"
@@ -1852,13 +1852,13 @@
     "translation": "Texto plano"
   },
   "splash.loading": {
-    "translation": "Cargando LiveCodes…"
+    "translation": "Cargando Programe.Tech…"
   },
   "sync.autoSync": {
     "translation": "Sincronización automática"
   },
   "sync.create.desc": {
-    "translation": "Se creará un nuevo repositorio <tag-1>privado</tag-1>. Tus datos locales de LiveCodes se sincronizarán con la rama <tag-2>main</tag-2>."
+    "translation": "Se creará un nuevo repositorio <tag-1>privado</tag-1>. Tus datos locales de Programe.Tech se sincronizarán con la rama <tag-2>main</tag-2>."
   },
   "sync.create.heading": {
     "translation": "Crear nuevo repositorio"
@@ -1873,7 +1873,7 @@
     "translation": "Se requiere el nombre del repositorio"
   },
   "sync.existing.desc": {
-    "translation": "Tus datos locales de LiveCodes se sincronizarán con la rama <tag-1>main</tag-1>."
+    "translation": "Tus datos locales de Programe.Tech se sincronizarán con la rama <tag-1>main</tag-1>."
   },
   "sync.existing.heading": {
     "translation": "Repositorio existente"
@@ -2173,7 +2173,7 @@
     "translation": "Documentación"
   },
   "welcome.about.heading": {
-    "translation": "Acerca de LiveCodes"
+    "translation": "Acerca de Programe.Tech"
   },
   "welcome.heading": {
     "translation": "Bienvenido"

@@ -4,7 +4,7 @@
     "translation": "المدونة"
   },
   "about.blog.title": {
-    "translation": "مدونة LiveCodes"
+    "translation": "مدونة Programe.Tech"
   },
   "about.configuration": {
     "translation": "إعدادات"
@@ -13,10 +13,10 @@
     "translation": "الاعتمادات"
   },
   "about.credits.para1": {
-    "translation": "تم إنشاء LiveCodes بفضل مشاريع مفتوحة المصدر وخدمات الويب والمساهمين. <tag-1> عرض الاعتمادات </tag-1>"
+    "translation": "تم إنشاء Programe.Tech بفضل مشاريع مفتوحة المصدر وخدمات الويب والمساهمين. <tag-1> عرض الاعتمادات </tag-1>"
   },
   "about.credits.para2": {
-    "translation": "© 2024 حاتم حسني. LiveCodes مرخصة بموجب ترخيص MIT."
+    "translation": "© 2024 حاتم حسني. Programe.Tech مرخصة بموجب ترخيص MIT."
   },
   "about.documentations.heading": {
     "translation": "الوثائق"
@@ -31,25 +31,25 @@
     "translation": "GitHub"
   },
   "about.heading": {
-    "translation": "حول LiveCodes"
+    "translation": "حول Programe.Tech"
   },
-  "about.livecodes.aboutUs": {
-    "translation": "حول LiveCodes"
+  "about.Programe.Tech.aboutUs": {
+    "translation": "حول Programe.Tech"
   },
-  "about.livecodes.para1": {
-    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> هو ملعب برمجي <tag-3>مفتوح المصدر</tag-3>، <tag-4>غني بالميزات</tag-4>، <tag-5>يعمل على جانب العميل</tag-5>. حاليًا، يتم دعم <tag-6>أكثر من 90 لغة/<tag-7></tag-7>إطار عمل</tag-6>. يمكن استخدامه كتطبيق مستقل أو يمكن <tag-8>تضمينه</tag-8> في أي صفحة ويب. هناك العديد من الطرق <tag-9>لملء الملاعب مسبقًا</tag-9> بالكود."
+  "about.Programe.Tech.para1": {
+    "translation": "<tag-1><tag-2>Programe.Tech</tag-2></tag-1> هو ملعب برمجي <tag-3>مفتوح المصدر</tag-3>، <tag-4>غني بالميزات</tag-4>، <tag-5>يعمل على جانب العميل</tag-5>. حاليًا، يتم دعم <tag-6>أكثر من 90 لغة/<tag-7></tag-7>إطار عمل</tag-6>. يمكن استخدامه كتطبيق مستقل أو يمكن <tag-8>تضمينه</tag-8> في أي صفحة ويب. هناك العديد من الطرق <tag-9>لملء الملاعب مسبقًا</tag-9> بالكود."
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "translation": "مجموعة واسعة من <tag-1>الإعدادات</tag-1> تجعله مرنًا للغاية. <tag-2>SDK</tag-2> قوي (لـ <tag-3>JS/TS</tag-3>، و<tag-4>React</tag-4>، و<tag-5>Vue</tag-5> و<tag-6>Svelte</tag-6>) يسهل <tag-7>التضمين</tag-7> و<tag-8>التواصل</tag-8> مع الملاعب. تتوفر <tag-9>وثائق شاملة</tag-9> مع نماذج الكود والعروض التوضيحية الحية ولقطات الشاشة."
   },
   "about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "translation": "دعم"
   },
   "about.sponsor.title": {
-    "translation": "دعم LiveCodes"
+    "translation": "دعم Programe.Tech"
   },
   "about.twitter.text": {
     "translation": "𝕏 / تويتر"
@@ -127,7 +127,7 @@
     "translation": "ساعدنا في الترجمة"
   },
   "app.logo.title": {
-    "translation": "LiveCodes: محرر برمجي يعمل ببساطة!"
+    "translation": "Programe.Tech: محرر برمجي يعمل ببساطة!"
   },
   "app.projectInfo.hint": {
     "translation": "معلومات المشروع"
@@ -166,7 +166,7 @@
     "translation": "إضافة ملف"
   },
   "assets.add.githubPages.desc": {
-    "translation": "نشر الأصل على صفحات GitHub. يتم دفع الملف إلى فرع <tag-1>gh-pages</tag-1> في المستودع <tag-2>livecodes-assets</tag-2> على حساب GitHub الخاص بك. إذا لم يكن المستودع موجودًا بالفعل، سيتم إنشاء مستودع عام."
+    "translation": "نشر الأصل على صفحات GitHub. يتم دفع الملف إلى فرع <tag-1>gh-pages</tag-1> في المستودع <tag-2>Programe.Tech-assets</tag-2> على حساب GitHub الخاص بك. إذا لم يكن المستودع موجودًا بالفعل، سيتم إنشاء مستودع عام."
   },
   "assets.add.githubPages.heading": {
     "translation": "صفحات GitHub"
@@ -304,7 +304,7 @@
     "translation": "نسخ احتياطي"
   },
   "backup.backup.desc": {
-    "translation": "قم بعمل نسخة احتياطية من بيانات LiveCodes، حتى يمكن استعادتها لاحقًا على هذا الجهاز أو أجهزة أخرى. <tag-1></tag-1> يرجى زيارة <tag-2>الوثائق</tag-2> للحصول على التفاصيل."
+    "translation": "قم بعمل نسخة احتياطية من بيانات Programe.Tech، حتى يمكن استعادتها لاحقًا على هذا الجهاز أو أجهزة أخرى. <tag-1></tag-1> يرجى زيارة <tag-2>الوثائق</tag-2> للحصول على التفاصيل."
   },
   "backup.backup.heading": {
     "translation": "نسخ احتياطي"
@@ -340,7 +340,7 @@
     "translation": "جارٍ التنفيذ..."
   },
   "backup.restore.desc": {
-    "translation": "استعادة بيانات LiveCodes التي تم نسخها احتياطيًا مسبقًا. <tag-1></tag-1> إذا اخترت استبدال المحتوى الحالي، قد ترغب في عمل نسخة احتياطية منه أولاً. <tag-2></tag-2> يرجى زيارة <tag-3>الوثائق</tag-3> للحصول على التفاصيل."
+    "translation": "استعادة بيانات Programe.Tech التي تم نسخها احتياطيًا مسبقًا. <tag-1></tag-1> إذا اخترت استبدال المحتوى الحالي، قد ترغب في عمل نسخة احتياطية منه أولاً. <tag-2></tag-2> يرجى زيارة <tag-3>الوثائق</tag-3> للحصول على التفاصيل."
   },
   "backup.restore.fromFile": {
     "translation": "استعادة من ملف"
@@ -1198,7 +1198,7 @@
     "translation": "مخصص"
   },
   "generic.embed.logoHint": {
-    "translation": "تحرير على LiveCodes 🡕"
+    "translation": "تحرير على Programe.Tech 🡕"
   },
   "generic.error.authentication": {
     "translation": "خطأ في المصادقة!"
@@ -1357,7 +1357,7 @@
     "translation": "نسخ احتياطي / استعادة …"
   },
   "menu.blog": {
-    "translation": "مدونة LiveCodes"
+    "translation": "مدونة Programe.Tech"
   },
   "menu.broadcast": {
     "translation": "بث …"
@@ -1663,7 +1663,7 @@
     "translation": "أضف روابط ورقة الأنماط/النص البرمجي. يجب أن يكون كل رابط في سطر منفصل."
   },
   "resultMode.linkText": {
-    "translation": "تحرير على LiveCodes"
+    "translation": "تحرير على Programe.Tech"
   },
   "savePrompt.heading": {
     "translation": "تغييرات غير محفوظة"
@@ -1852,13 +1852,13 @@
     "translation": "نص عادي"
   },
   "splash.loading": {
-    "translation": "جارٍ تحميل LiveCodes…"
+    "translation": "جارٍ تحميل Programe.Tech…"
   },
   "sync.autoSync": {
     "translation": "مزامنة تلقائية"
   },
   "sync.create.desc": {
-    "translation": "سيتم إنشاء مستودع <tag-1>خاص</tag-1> جديد. ستتم مزامنة بيانات LiveCodes المحلية مع فرع <tag-2>main</tag-2>."
+    "translation": "سيتم إنشاء مستودع <tag-1>خاص</tag-1> جديد. ستتم مزامنة بيانات Programe.Tech المحلية مع فرع <tag-2>main</tag-2>."
   },
   "sync.create.heading": {
     "translation": "إنشاء مستودع جديد"
@@ -1873,7 +1873,7 @@
     "translation": "اسم المستودع مطلوب"
   },
   "sync.existing.desc": {
-    "translation": "ستتم مزامنة بيانات LiveCodes المحلية مع فرع <tag-1>main</tag-1>."
+    "translation": "ستتم مزامنة بيانات Programe.Tech المحلية مع فرع <tag-1>main</tag-1>."
   },
   "sync.existing.heading": {
     "translation": "مستودع موجود"
@@ -2173,7 +2173,7 @@
     "translation": "الوثائق"
   },
   "welcome.about.heading": {
-    "translation": "حول LiveCodes"
+    "translation": "حول Programe.Tech"
   },
   "welcome.heading": {
     "translation": "مرحبًا"

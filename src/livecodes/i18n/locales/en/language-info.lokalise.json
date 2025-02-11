@@ -110,11 +110,11 @@
   },
   "clojurescript.desc": {
     "notes": "### <tag-1> ###\n<a href=\"https://clojure.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-2> ###\n<br  />\n\n### <tag-3> ###\n<a href=\"https://github.com/squint-cljs/cherry\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "ClojureScript is a compiler for <tag-1>Clojure</tag-1> that targets JavaScript. <tag-2></tag-2>In LiveCodes, it runs in the browser using <tag-3>Cherry</tag-3>"
+    "translation": "ClojureScript is a compiler for <tag-1>Clojure</tag-1> that targets JavaScript. <tag-2></tag-2>In Programe.Tech, it runs in the browser using <tag-3>Cherry</tag-3>"
   },
   "clojurescript.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://clojurescript.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://clojure.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/squint-cljs/cherry\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://learnxinyminutes.com/docs/clojure/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/clojurescript\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=clojurescript\" class=\"button\" target=\"_parent\" data-template=\"clojurescript\" />\n\n",
-    "translation": "<tag-1> <tag-2>ClojureScript official website</tag-2> </tag-1> <tag-3> <tag-4>Clojure official website</tag-4> </tag-3> <tag-5> <tag-6>Cherry repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=clojure</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>ClojureScript official website</tag-2> </tag-1> <tag-3> <tag-4>Clojure official website</tag-4> </tag-3> <tag-5> <tag-6>Cherry repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=clojure</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "clojurescript.name": {
     "notes": "",
@@ -186,7 +186,7 @@
   },
   "diagrams.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"?template=diagrams\" class=\"button\" target=\"_parent\" data-template=\"diagrams\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"{{DOCS_BASE_URL}}languages/diagrams\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>Load starter template</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes Documentation</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>Load starter template</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech Documentation</tag-4> </tag-3>"
   },
   "diagrams.name": {
     "notes": "",
@@ -198,7 +198,7 @@
   },
   "dot.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://olado.github.io/doT/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"{{DOCS_BASE_URL}}languages/dot\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>Official website</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes Documentations</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>Official website</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech Documentations</tag-4> </tag-3>"
   },
   "dot.name": {
     "notes": "",
@@ -210,7 +210,7 @@
   },
   "ejs.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://ejs.co/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"{{DOCS_BASE_URL}}languages/ejs\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>LiveCodes Documentations</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech Documentations</tag-4> </tag-3>"
   },
   "ejs.name": {
     "notes": "",
@@ -222,7 +222,7 @@
   },
   "eta.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://eta.js.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://eta.js.org/docs/learn\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/eta\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>Documentation</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5>"
+    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>Documentation</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5>"
   },
   "eta.name": {
     "notes": "",
@@ -234,7 +234,7 @@
   },
   "fennel.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://fennel-lang.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://fennel-lang.org/tutorial\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/fennel\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"?template=fennel\" class=\"button\" target=\"_parent\" data-template=\"fennel\" />\n\n",
-    "translation": "<tag-1> <tag-2>Fennel official website</tag-2> </tag-1> <tag-3> <tag-4>Getting Started with Fennel</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5> <tag-7> <tag-8>Load starter template</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Fennel official website</tag-2> </tag-1> <tag-3> <tag-4>Getting Started with Fennel</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5> <tag-7> <tag-8>Load starter template</tag-8> </tag-7>"
   },
   "fennel.name": {
     "notes": "",
@@ -290,7 +290,7 @@
   },
   "haml.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://haml.info/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://haml.info/docs.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/uglyog/clientside-haml-js\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://learnxinyminutes.com/docs/haml/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/haml\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1><tag-2>Haml official website</tag-2></tag-1> <tag-3> <tag-4>Haml documentation</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=haml</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Haml official website</tag-2></tag-1> <tag-3> <tag-4>Haml documentation</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=haml</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9>"
   },
   "haml.name": {
     "notes": "",
@@ -302,7 +302,7 @@
   },
   "handlebars.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://handlebarsjs.com/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"{{DOCS_BASE_URL}}languages/handlebars\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>LiveCodes Documentations</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech Documentations</tag-4> </tag-3>"
   },
   "handlebars.name": {
     "notes": "",
@@ -322,11 +322,11 @@
   },
   "jsx.desc": {
     "notes": "",
-    "translation": "JSX is compiled to JavaScript in LiveCodes using the TypeScript Compiler.  By default it uses React as the JSX runtime."
+    "translation": "JSX is compiled to JavaScript in Programe.Tech using the TypeScript Compiler.  By default it uses React as the JSX runtime."
   },
   "jsx.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://react.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://react.dev/learn/writing-markup-with-jsx\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/jsx\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>JSX in React documentation</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>JSX in React documentation</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5>"
   },
   "jsx.name": {
     "notes": "",
@@ -334,7 +334,7 @@
   },
   "julia.desc1": {
     "notes": "",
-    "translation": "Julia language support in LiveCodes is still experimental"
+    "translation": "Julia language support in Programe.Tech is still experimental"
   },
   "julia.desc2": {
     "notes": "### <tag-1> ###\n<a href=\"https://github.com/Keno/julia-wasm\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-2> ###\n<a href=\"https://github.com/chris-koch-penn/polylang.io\" target=\"_blank\" rel=\"noopener\" />\n\n",
@@ -366,7 +366,7 @@
   },
   "liquid.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://liquidjs.com\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://liquidjs.com/tutorials/intro-to-liquid.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/liquid\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>LiquidJS official website</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS documentation</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>LiquidJS official website</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS documentation</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5>"
   },
   "liquid.name": {
     "notes": "",
@@ -390,7 +390,7 @@
   },
   "lua.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.lua.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.lua.org/manual/5.4/manual.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://fengari.io/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://github.com/fengari-lua/fengari-web\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"https://learnxinyminutes.com/docs/lua/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"{{DOCS_BASE_URL}}languages/lua\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-13> ###\n<li  />\n\n### <tag-14> ###\n<a href=\"?template=lua\" class=\"button\" target=\"_parent\" data-template=\"lua\" />\n\n",
-    "translation": "<tag-1><tag-2>Lua official website</tag-2></tag-1> <tag-3> <tag-4>Lua documentation</tag-4> </tag-3> <tag-5> <tag-6>Fengari official website</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub repo</tag-8> </tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=Lua</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
+    "translation": "<tag-1><tag-2>Lua official website</tag-2></tag-1> <tag-3> <tag-4>Lua documentation</tag-4> </tag-3> <tag-5> <tag-6>Fengari official website</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub repo</tag-8> </tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=Lua</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
   },
   "lua.name": {
     "notes": "",
@@ -402,7 +402,7 @@
   },
   "luaWasm.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.lua.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.lua.org/manual/5.4/manual.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/ceifa/wasmoon\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://learnxinyminutes.com/docs/lua/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/lua-wasm\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=lua-wasm\" class=\"button\" target=\"_parent\" data-template=\"lua-wasm\" />\n\n",
-    "translation": "<tag-1><tag-2>Lua official website</tag-2></tag-1> <tag-3> <tag-4>Lua documentation</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=Lua</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Lua official website</tag-2></tag-1> <tag-3> <tag-4>Lua documentation</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=Lua</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "luaWasm.name": {
     "notes": "",
@@ -450,7 +450,7 @@
   },
   "mjml.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://mjml.io/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://documentation.mjml.io/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://mjml.io/templates\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"{{DOCS_BASE_URL}}languages/mjml\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1><tag-2>MJML official website</tag-2></tag-1> <tag-3> <tag-4>MJML documentation</tag-4> </tag-3> <tag-5> <tag-6>MJML official templates</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes Documentations</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>MJML official website</tag-2></tag-1> <tag-3> <tag-4>MJML documentation</tag-4> </tag-3> <tag-5> <tag-6>MJML official templates</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech Documentations</tag-8> </tag-7>"
   },
   "mjml.name": {
     "notes": "",
@@ -462,7 +462,7 @@
   },
   "mustache.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://mustache.github.io/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://mustache.github.io/mustache.5.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/janl/mustache.js\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"{{DOCS_BASE_URL}}languages/mustache\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>Official website</tag-2> </tag-1> <tag-3> <tag-4>mustache(5) manual</tag-4> </tag-3> <tag-5> <tag-6>JavaScript implementation</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes Documentations</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Official website</tag-2> </tag-1> <tag-3> <tag-4>mustache(5) manual</tag-4> </tag-3> <tag-5> <tag-6>JavaScript implementation</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech Documentations</tag-8> </tag-7>"
   },
   "mustache.name": {
     "notes": "",
@@ -474,7 +474,7 @@
   },
   "nunjucks.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://mozilla.github.io/nunjucks/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"{{DOCS_BASE_URL}}languages/nunjucks\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>Official website</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes Documentations</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>Official website</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech Documentations</tag-4> </tag-3>"
   },
   "nunjucks.name": {
     "notes": "",
@@ -514,7 +514,7 @@
   },
   "php.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.php.net/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.php.net/manual/en/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/asmblah/uniter\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://learnxinyminutes.com/docs/php/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/php\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=php\" class=\"button\" target=\"_parent\" data-template=\"php\" />\n\n",
-    "translation": "<tag-1><tag-2>PHP official website</tag-2></tag-1> <tag-3> <tag-4>PHP documentation</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>PHP official website</tag-2></tag-1> <tag-3> <tag-4>PHP documentation</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "php.name": {
     "notes": "",
@@ -526,7 +526,7 @@
   },
   "phpWasm.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.php.net/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.php.net/manual/en/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/seanmorris/php-wasm\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://learnxinyminutes.com/docs/php/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/php-wasm\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=php-wasm\" class=\"button\" target=\"_parent\" data-template=\"php-wasm\" />\n\n",
-    "translation": "<tag-1><tag-2>PHP official website</tag-2></tag-1> <tag-3> <tag-4>PHP documentation</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>PHP official website</tag-2></tag-1> <tag-3> <tag-4>PHP documentation</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub repo</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "phpWasm.name": {
     "notes": "",
@@ -562,7 +562,7 @@
   },
   "pug.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://pugjs.org/api/getting-started.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://learnxinyminutes.com/docs/pug/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/pug\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>Pug documentation</tag-2> </tag-1> <tag-3> <tag-4>Learn X in Y minutes, where X=Pug</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Pug documentation</tag-2> </tag-1> <tag-3> <tag-4>Learn X in Y minutes, where X=Pug</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5>"
   },
   "pug.name": {
     "notes": "",
@@ -574,7 +574,7 @@
   },
   "python.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.python.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.python.org/doc/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://brython.info/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://learnxinyminutes.com/docs/python/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/python\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=python\" class=\"button\" target=\"_parent\" data-template=\"python\" />\n\n",
-    "translation": "<tag-1> <tag-2>Python official website</tag-2> </tag-1> <tag-3> <tag-4>Python documentation</tag-4> </tag-3> <tag-5> <tag-6>Brython documentation</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python official website</tag-2> </tag-1> <tag-3> <tag-4>Python documentation</tag-4> </tag-3> <tag-5> <tag-6>Brython documentation</tag-6> </tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "python.name": {
     "notes": "",
@@ -590,7 +590,7 @@
   },
   "pythonWasm.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.python.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.python.org/doc/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://pyodide.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://learnxinyminutes.com/docs/python/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/python-wasm\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=python-wasm\" class=\"button\" target=\"_parent\" data-template=\"python-wasm\" />\n\n",
-    "translation": "<tag-1> <tag-2>Python official website</tag-2> </tag-1> <tag-3> <tag-4>Python documentation</tag-4> </tag-3> <tag-5><tag-6>Pyodide documentation</tag-6></tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python official website</tag-2> </tag-1> <tag-3> <tag-4>Python documentation</tag-4> </tag-3> <tag-5><tag-6>Pyodide documentation</tag-6></tag-5> <tag-7> <tag-8>Learn X in Y minutes, where X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "pythonWasm.name": {
     "notes": "",
@@ -602,7 +602,7 @@
   },
   "r.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.r-project.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://cran.r-project.org/manuals.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://r4ds.hadley.nz/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://docs.r-wasm.org/webr/latest/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"https://learnxinyminutes.com/docs/r/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"{{DOCS_BASE_URL}}languages/r\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-13> ###\n<li  />\n\n### <tag-14> ###\n<a href=\"?template=r\" class=\"button\" target=\"_parent\" data-template=\"r\" />\n\n",
-    "translation": "<tag-1> <tag-2>R project official website</tag-2> </tag-1> <tag-3> <tag-4>The R Manuals</tag-4> </tag-3> <tag-5> <tag-6>R for Data Science (2e)</tag-6> </tag-5> <tag-7> <tag-8>WebR documentation</tag-8> </tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=R</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>R project official website</tag-2> </tag-1> <tag-3> <tag-4>The R Manuals</tag-4> </tag-3> <tag-5> <tag-6>R for Data Science (2e)</tag-6> </tag-5> <tag-7> <tag-8>WebR documentation</tag-8> </tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=R</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
   },
   "r.name": {
     "notes": "",
@@ -614,7 +614,7 @@
   },
   "react.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://react.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://react.dev/learn/react-compiler\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/react\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"?template=react\" class=\"button\" target=\"_parent\" data-template=\"react\" />\n\n",
-    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Compiler</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5> <tag-7> <tag-8>Load starter template</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Compiler</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5> <tag-7> <tag-8>Load starter template</tag-8> </tag-7>"
   },
   "react.name": {
     "notes": "",
@@ -626,7 +626,7 @@
   },
   "reactNative.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://react.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://reactnative.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://necolas.github.io/react-native-web/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://reactnative.dev/docs/getting-started\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/react-native\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=react-native\" class=\"button\" target=\"_parent\" data-template=\"react-native\" />\n\n",
-    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Native website</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web website</tag-6> </tag-5> <tag-7> <tag-8>React Native documentation</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Native website</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web website</tag-6> </tag-5> <tag-7> <tag-8>React Native documentation</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "reactNative.name": {
     "notes": "",
@@ -638,7 +638,7 @@
   },
   "reactNativeTsx.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://react.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://reactnative.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://necolas.github.io/react-native-web/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://reactnative.dev/docs/getting-started\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"https://www.typescriptlang.org/docs/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-13> ###\n<li  />\n\n### <tag-14> ###\n<a href=\"{{DOCS_BASE_URL}}languages/react-native-tsx\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-15> ###\n<li  />\n\n### <tag-16> ###\n<a href=\"?template=react-native\" class=\"button\" target=\"_parent\" data-template=\"react-native\" />\n\n",
-    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Native website</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web website</tag-6> </tag-5> <tag-7> <tag-8>React Native documentation</tag-8> </tag-7> <tag-9> <tag-10>TypeScript website</tag-10> </tag-9> <tag-11> <tag-12>TypeScript documentation</tag-12> </tag-11> <tag-13> <tag-14>LiveCodes Documentations</tag-14> </tag-13> <tag-15> <tag-16>Load starter template (JSX)</tag-16> </tag-15>"
+    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Native website</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web website</tag-6> </tag-5> <tag-7> <tag-8>React Native documentation</tag-8> </tag-7> <tag-9> <tag-10>TypeScript website</tag-10> </tag-9> <tag-11> <tag-12>TypeScript documentation</tag-12> </tag-11> <tag-13> <tag-14>Programe.Tech Documentations</tag-14> </tag-13> <tag-15> <tag-16>Load starter template (JSX)</tag-16> </tag-15>"
   },
   "reactNativeTsx.name": {
     "notes": "",
@@ -650,7 +650,7 @@
   },
   "reactTsx.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://react.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://react.dev/learn/react-compiler\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://www.typescriptlang.org/docs/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/react-tsx\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=react\" class=\"button\" target=\"_parent\" data-template=\"react-tsx\" />\n\n",
-    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Compiler</tag-4> </tag-3> <tag-5> <tag-6>TypeScript website</tag-6> </tag-5> <tag-7> <tag-8>TypeScript documentation</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template (JSX)</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>React Compiler</tag-4> </tag-3> <tag-5> <tag-6>TypeScript website</tag-6> </tag-5> <tag-7> <tag-8>TypeScript documentation</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template (JSX)</tag-12> </tag-11>"
   },
   "reactTsx.name": {
     "notes": "",
@@ -718,7 +718,7 @@
   },
   "ruby.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.ruby-lang.org/en/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.ruby-lang.org/en/documentation/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://opalrb.com/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://cdn.opalrb.com/opal/1.0.0/index.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"https://learnxinyminutes.com/docs/ruby/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"{{DOCS_BASE_URL}}languages/ruby\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-13> ###\n<li  />\n\n### <tag-14> ###\n<a href=\"?template=ruby\" class=\"button\" target=\"_parent\" data-template=\"ruby\" />\n\n",
-    "translation": "<tag-1> <tag-2>Ruby official website</tag-2> </tag-1> <tag-3> <tag-4>Ruby documentation</tag-4> </tag-3> <tag-5><tag-6>Opal official website</tag-6></tag-5> <tag-7> <tag-8>Opal standard library CDN</tag-8> </tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=ruby</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby official website</tag-2> </tag-1> <tag-3> <tag-4>Ruby documentation</tag-4> </tag-3> <tag-5><tag-6>Opal official website</tag-6></tag-5> <tag-7> <tag-8>Opal standard library CDN</tag-8> </tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
   },
   "ruby.name": {
     "notes": "",
@@ -730,7 +730,7 @@
   },
   "rubyWasm.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.ruby-lang.org/en/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.ruby-lang.org/en/documentation/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://ruby.github.io/ruby.wasm/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://github.com/ruby/ruby\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"https://learnxinyminutes.com/docs/ruby/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"{{DOCS_BASE_URL}}languages/ruby-wasm\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-13> ###\n<li  />\n\n### <tag-14> ###\n<a href=\"?template=ruby-wasm\" class=\"button\" target=\"_parent\" data-template=\"ruby-wasm\" />\n\n",
-    "translation": "<tag-1> <tag-2>Ruby official website</tag-2> </tag-1> <tag-3> <tag-4>Ruby documentation</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasm website</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=ruby</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby official website</tag-2> </tag-1> <tag-3> <tag-4>Ruby documentation</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasm website</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>Learn X in Y minutes, where X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech Documentations</tag-12> </tag-11> <tag-13> <tag-14>Load starter template</tag-14> </tag-13>"
   },
   "rubyWasm.name": {
     "notes": "",
@@ -778,7 +778,7 @@
   },
   "solid.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.solidjs.com/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.solidjs.com/docs\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/solid\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"?template=solid\" class=\"button\" target=\"_parent\" data-template=\"solid\" />\n\n",
-    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3><tag-4>Documentation</tag-4></tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5> <tag-7> <tag-8>Load starter template (TSX)</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3><tag-4>Documentation</tag-4></tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5> <tag-7> <tag-8>Load starter template (TSX)</tag-8> </tag-7>"
   },
   "solid.name": {
     "notes": "",
@@ -790,7 +790,7 @@
   },
   "solid.tsx.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://www.solidjs.com/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://www.solidjs.com/docs\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://www.typescriptlang.org/docs/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/solid.tsx\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-11> ###\n<li  />\n\n### <tag-12> ###\n<a href=\"?template=solid\" class=\"button\" target=\"_parent\" data-template=\"solid\" />\n\n",
-    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>Solid documentation</tag-4> </tag-3> <tag-5> <tag-6>TypeScript website</tag-6> </tag-5> <tag-7> <tag-8>TypeScript documentation</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Official website</tag-2></tag-1> <tag-3> <tag-4>Solid documentation</tag-4> </tag-3> <tag-5> <tag-6>TypeScript website</tag-6> </tag-5> <tag-7> <tag-8>TypeScript documentation</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9> <tag-11> <tag-12>Load starter template</tag-12> </tag-11>"
   },
   "solid.tsx.name": {
     "notes": "",
@@ -858,7 +858,7 @@
   },
   "sucrase.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://sucrase.io/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://github.com/alangpierce/sucrase\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"{{DOCS_BASE_URL}}languages/sucrase\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>Sucrase official website</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub Repo</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes Documentations</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sucrase official website</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub Repo</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech Documentations</tag-6> </tag-5>"
   },
   "sucrase.name": {
     "notes": "",
@@ -894,7 +894,7 @@
   },
   "teal.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://github.com/teal-language/tl\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://github.com/teal-language/tl/tree/master/docs\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/teal-language/tl/blob/master/docs/tutorial.md\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"{{DOCS_BASE_URL}}languages/teal\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"?template=teal\" class=\"button\" target=\"_parent\" data-template=\"teal\" />\n\n",
-    "translation": "<tag-1> <tag-2>Teal GitHub repo</tag-2> </tag-1> <tag-3> <tag-4>Teal docs</tag-4> </tag-3> <tag-5> <tag-6>Teal tutorial</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes Documentations</tag-8> </tag-7> <tag-9> <tag-10>Load starter template</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Teal GitHub repo</tag-2> </tag-1> <tag-3> <tag-4>Teal docs</tag-4> </tag-3> <tag-5> <tag-6>Teal tutorial</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech Documentations</tag-8> </tag-7> <tag-9> <tag-10>Load starter template</tag-10> </tag-9>"
   },
   "teal.name": {
     "notes": "",
@@ -902,11 +902,11 @@
   },
   "tsx.desc": {
     "notes": "",
-    "translation": "TypeScript in JSX. TSX is compiled to JavaScript in LiveCodes using the TypeScript Compiler. By default it uses React as the JSX runtime."
+    "translation": "TypeScript in JSX. TSX is compiled to JavaScript in Programe.Tech using the TypeScript Compiler. By default it uses React as the JSX runtime."
   },
   "tsx.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://react.dev/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://react.dev/learn/writing-markup-with-jsx\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://www.typescriptlang.org/docs/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"{{DOCS_BASE_URL}}languages/tsx\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>JSX in React documentation</tag-4> </tag-3> <tag-5> <tag-6>Typescript documentation</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes Documentations</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React official website</tag-2> </tag-1> <tag-3> <tag-4>JSX in React documentation</tag-4> </tag-3> <tag-5> <tag-6>Typescript documentation</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech Documentations</tag-8> </tag-7>"
   },
   "tsx.name": {
     "notes": "",
@@ -918,7 +918,7 @@
   },
   "twig.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://twig.symfony.com/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://twig.symfony.com/doc/3.x/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://github.com/twigjs/twig.js\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://github.com/twigjs/twig.js/wiki\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/twig\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1> <tag-2>Twig official website</tag-2> </tag-1> <tag-3> <tag-4>Twig Documentation</tag-4> </tag-3> <tag-5> <tag-6>Twig.js Repo</tag-6> </tag-5> <tag-7> <tag-8>Twig.js Documentation</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Twig official website</tag-2> </tag-1> <tag-3> <tag-4>Twig Documentation</tag-4> </tag-3> <tag-5> <tag-6>Twig.js Repo</tag-6> </tag-5> <tag-7> <tag-8>Twig.js Documentation</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9>"
   },
   "twig.name": {
     "notes": "",
@@ -938,7 +938,7 @@
   },
   "vue.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://vuejs.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://vuejs.org/guide/introduction.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://vuejs.org/api/sfc-spec.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"{{DOCS_BASE_URL}}languages/vue\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"?template=vue\" class=\"button\" target=\"_parent\" data-template=\"vue\" />\n\n",
-    "translation": "<tag-1> <tag-2>Vue.js v3 official website</tag-2> </tag-1> <tag-3> <tag-4>Vue3 documentation</tag-4> </tag-3> <tag-5> <tag-6>Vue3 single file components</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes Documentations</tag-8> </tag-7> <tag-9> <tag-10>Load starter template</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Vue.js v3 official website</tag-2> </tag-1> <tag-3> <tag-4>Vue3 documentation</tag-4> </tag-3> <tag-5> <tag-6>Vue3 single file components</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech Documentations</tag-8> </tag-7> <tag-9> <tag-10>Load starter template</tag-10> </tag-9>"
   },
   "vue.name": {
     "notes": "",
@@ -950,7 +950,7 @@
   },
   "vue2.link": {
     "notes": "### <tag-1> ###\n<li  />\n\n### <tag-2> ###\n<a href=\"https://vuejs.org/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-3> ###\n<li  />\n\n### <tag-4> ###\n<a href=\"https://v2.vuejs.org/v2/guide/\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-5> ###\n<li  />\n\n### <tag-6> ###\n<a href=\"https://v2.vuejs.org/v2/guide/single-file-components.html\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-7> ###\n<li  />\n\n### <tag-8> ###\n<a href=\"https://github.com/FranckFreiburger/vue3-sfc-loader\" target=\"_blank\" rel=\"noopener\" />\n\n### <tag-9> ###\n<li  />\n\n### <tag-10> ###\n<a href=\"{{DOCS_BASE_URL}}languages/vue2\" target=\"_blank\" rel=\"noopener\" />\n\n",
-    "translation": "<tag-1><tag-2>Vue.js official website</tag-2></tag-1> <tag-3> <tag-4>Vue2 documentation</tag-4> </tag-3> <tag-5> <tag-6>Vue2 single file components</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub repo</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes Documentations</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Vue.js official website</tag-2></tag-1> <tag-3> <tag-4>Vue2 documentation</tag-4> </tag-3> <tag-5> <tag-6>Vue2 single file components</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub repo</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech Documentations</tag-10> </tag-9>"
   },
   "vue2.name": {
     "notes": "",

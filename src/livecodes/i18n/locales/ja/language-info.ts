@@ -49,8 +49,8 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'Clio',
   },
   clojurescript: {
-    desc: 'ClojureScript は JavaScript をターゲットとする<1>Clojure</1>のコンパイラです。<2></2>LiveCodes では、<3>Cherry</3>を使用してブラウザで実行されます。',
-    link: '<1> <2>ClojureScript 公式ウェブサイト</2> </1> <3> <4>Clojure 公式ウェブサイト</4> </3> <5> <6>Cherry リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=clojure</8> </7> <9> <10>LiveCodes ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
+    desc: 'ClojureScript は JavaScript をターゲットとする<1>Clojure</1>のコンパイラです。<2></2>Programe.Tech では、<3>Cherry</3>を使用してブラウザで実行されます。',
+    link: '<1> <2>ClojureScript 公式ウェブサイト</2> </1> <3> <4>Clojure 公式ウェブサイト</4> </3> <5> <6>Cherry リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=clojure</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
     name: 'ClojureScript (CLJS)',
   },
   coffeescript: {
@@ -80,27 +80,27 @@ const languageInfo: I18nLangInfoTranslation = {
     desc2: 'コードとしての図表。サポート：',
     desc3:
       '<1> <2>Cytoscape</2> </1> <3> <4>ELK</4> (<5>elkjs</5>を使用) </3> <6> <7>Gnuplot</7> (<8>gnuplot-JS</8>を使用) </6> <9> <10>Graphviz</10> (<11>@hpcc-js/wasm</11>を使用) </9> <12> <13>Mermaid</13> </12> <14> <15>Nomnoml</15> </14> <16> <17>Pintora</17> </16> <18> <19>Plotly</19> </18> <20> <21>Svgbob</21> </20> <22> <23>Vega</23> </22> <24> <25>VegaLite</25> </24> <26> <27>WaveDrom</27> </26>',
-    link: '<1> <2>スターターテンプレートを読み込む</2> </1> <3> <4>LiveCodes ドキュメント</4> </3>',
+    link: '<1> <2>スターターテンプレートを読み込む</2> </1> <3> <4>Programe.Tech ドキュメント</4> </3>',
     name: 'ダイアグラム',
   },
   dot: {
     desc: 'Node.js とブラウザ向けの最速かつ簡潔な JavaScript テンプレートエンジン。',
-    link: '<1> <2>公式ウェブサイト</2> </1> <3> <4>LiveCodes ドキュメント</4> </3>',
+    link: '<1> <2>公式ウェブサイト</2> </1> <3> <4>Programe.Tech ドキュメント</4> </3>',
     name: 'doT.js',
   },
   ejs: {
     desc: '埋め込み JavaScript テンプレート。',
-    link: '<1><2>公式ウェブサイト</2></1> <3> <4>LiveCodes ドキュメント</4> </3>',
+    link: '<1><2>公式ウェブサイト</2></1> <3> <4>Programe.Tech ドキュメント</4> </3>',
     name: 'EJS',
   },
   eta: {
     desc: 'Node、Deno、ブラウザ用の埋め込み JS テンプレートエンジン。軽量、高速、プラガブル。TypeScript で書かれています。',
-    link: '<1><2>公式ウェブサイト</2></1> <3> <4>ドキュメント</4> </3> <5> <6>LiveCodes ドキュメント</6> </5>',
+    link: '<1><2>公式ウェブサイト</2></1> <3> <4>ドキュメント</4> </3> <5> <6>Programe.Tech ドキュメント</6> </5>',
     name: 'Eta',
   },
   fennel: {
     desc: 'Fennel は、Lua のスピード、シンプルさ、リーチと、Lisp 構文とマクロシステムの柔軟性を組み合わせたプログラミング言語です。',
-    link: '<1> <2>Fennel 公式ウェブサイト</2> </1> <3> <4>Fennel 入門</4> </3> <5> <6>LiveCodes ドキュメント</6> </5> <7> <8>スターターテンプレートを読み込む</8> </7>',
+    link: '<1> <2>Fennel 公式ウェブサイト</2> </1> <3> <4>Fennel 入門</4> </3> <5> <6>Programe.Tech ドキュメント</6> </5> <7> <8>スターターテンプレートを読み込む</8> </7>',
     name: 'Fennel',
   },
   flow: {
@@ -124,12 +124,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   haml: {
     desc: 'clientside-haml-js を使用したクライアントサイド JavaScript ビューテンプレート用の Haml コンパイラ。',
-    link: '<1><2>Haml 公式ウェブサイト</2></1> <3> <4>Haml ドキュメント</4> </3> <5> <6>clientside-haml-js GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=haml</8> </7> <9> <10>LiveCodes ドキュメント</10> </9>',
+    link: '<1><2>Haml 公式ウェブサイト</2></1> <3> <4>Haml ドキュメント</4> </3> <5> <6>clientside-haml-js GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=haml</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9>',
     name: 'Haml',
   },
   handlebars: {
     desc: 'ステロイドを使用したミニマルなテンプレートエンジン。',
-    link: '<1><2>公式ウェブサイト</2></1> <3> <4>LiveCodes ドキュメント</4> </3>',
+    link: '<1><2>公式ウェブサイト</2></1> <3> <4>Programe.Tech ドキュメント</4> </3>',
     name: 'Handlebars',
   },
   imba: {
@@ -138,12 +138,12 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'Imba',
   },
   jsx: {
-    desc: 'JSX は LiveCodes で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。',
-    link: '<1> <2>React 公式ウェブサイト</2> </1> <3> <4>React ドキュメントの JSX</4> </3> <5> <6>LiveCodes ドキュメント</6> </5>',
+    desc: 'JSX は Programe.Tech で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。',
+    link: '<1> <2>React 公式ウェブサイト</2> </1> <3> <4>React ドキュメントの JSX</4> </3> <5> <6>Programe.Tech ドキュメント</6> </5>',
     name: 'JSX',
   },
   julia: {
-    desc1: '（LiveCodes での Julia 言語サポートはまだ実験的です）',
+    desc1: '（Programe.Tech での Julia 言語サポートはまだ実験的です）',
     desc2:
       '<2>polylang.io</2>によって適応された<1>julia-wasm</1>を使用して、WASM上で動作するJuliaコンパイラとJulia Base。',
     link: '<1> <2>Julia 公式ウェブサイト</2> </1> <3> <4>Julia ドキュメント</4> </3> <5> <6>X分でYを学ぶ、X=Julia</6> </5> <7> <8>スターターテンプレートを読み込む</8> </7>',
@@ -156,7 +156,7 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   liquid: {
     desc: 'シンプルで表現力豊かで安全なテンプレートエンジン。',
-    link: '<1> <2>LiquidJS 公式ウェブサイト</2> </1> <3> <4>LiquidJS ドキュメント</4> </3> <5> <6>LiveCodes ドキュメント</6> </5>',
+    link: '<1> <2>LiquidJS 公式ウェブサイト</2> </1> <3> <4>LiquidJS ドキュメント</4> </3> <5> <6>Programe.Tech ドキュメント</6> </5>',
     name: 'LiquidJS',
   },
   livescript: {
@@ -166,12 +166,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   lua: {
     desc: 'fengari-web を使用してブラウザで動作する Lua。',
-    link: '<1><2>Lua 公式ウェブサイト</2></1> <3> <4>Lua ドキュメント</4> </3> <5> <6>Fengari 公式ウェブサイト</6> </5> <7> <8>fengari-web GitHub リポジトリ</8> </7> <9> <10>X分でYを学ぶ、X=Lua</10> </9> <11> <12>LiveCodes ドキュメント</12> </11> <13><14>スターターテンプレートを読み込む</14></13>',
+    link: '<1><2>Lua 公式ウェブサイト</2></1> <3> <4>Lua ドキュメント</4> </3> <5> <6>Fengari 公式ウェブサイト</6> </5> <7> <8>fengari-web GitHub リポジトリ</8> </7> <9> <10>X分でYを学ぶ、X=Lua</10> </9> <11> <12>Programe.Tech ドキュメント</12> </11> <13><14>スターターテンプレートを読み込む</14></13>',
     name: 'Lua',
   },
   luaWasm: {
     desc: 'WebAssembly で作成された JS バインディングを持つ実際の Lua 5.4 VM である Wasmoon を使用してブラウザで動作する Lua。',
-    link: '<1><2>Lua 公式ウェブサイト</2></1> <3> <4>Lua ドキュメント</4> </3> <5> <6>Wasmoon GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=Lua</8> </7> <9> <10>LiveCodes ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
+    link: '<1><2>Lua 公式ウェブサイト</2></1> <3> <4>Lua ドキュメント</4> </3> <5> <6>Wasmoon GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=Lua</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
     name: 'Lua (Wasm)',
   },
   malina: {
@@ -191,17 +191,17 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   mjml: {
     desc: 'MJML は、レスポンシブなメールのコーディングの苦痛を軽減するために設計されたマークアップ言語です。',
-    link: '<1><2>MJML 公式ウェブサイト</2></1> <3> <4>MJML ドキュメント</4> </3> <5> <6>MJML 公式テンプレート</6> </5> <7> <8>LiveCodes ドキュメント</8> </7>',
+    link: '<1><2>MJML 公式ウェブサイト</2></1> <3> <4>MJML ドキュメント</4> </3> <5> <6>MJML 公式テンプレート</6> </5> <7> <8>Programe.Tech ドキュメント</8> </7>',
     name: 'MJML',
   },
   mustache: {
     desc: 'ロジックレステンプレート。',
-    link: '<1> <2>公式ウェブサイト</2> </1> <3> <4>mustache(5) マニュアル</4> </3> <5> <6>JavaScript 実装</6> </5> <7> <8>LiveCodes ドキュメント</8> </7>',
+    link: '<1> <2>公式ウェブサイト</2> </1> <3> <4>mustache(5) マニュアル</4> </3> <5> <6>JavaScript 実装</6> </5> <7> <8>Programe.Tech ドキュメント</8> </7>',
     name: 'Mustache',
   },
   nunjucks: {
     desc: 'JavaScript 用の豊富で強力なテンプレート言語。Nunjucks は本質的に<1>jinja2</1>のポートです。',
-    link: '<1> <2>公式ウェブサイト</2> </1> <3> <4>LiveCodes ドキュメント</4> </3>',
+    link: '<1> <2>公式ウェブサイト</2> </1> <3> <4>Programe.Tech ドキュメント</4> </3>',
     name: 'Nunjucks',
   },
   ocaml: {
@@ -219,12 +219,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   php: {
     desc: 'Uniter を使用してブラウザで動作する PHP。',
-    link: '<1><2>PHP 公式ウェブサイト</2></1> <3> <4>PHP ドキュメント</4> </3> <5> <6>Uniter GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=PHP</8> </7> <9> <10>LiveCodes ドキュメント</10> </9> <11><12>スターターテンプレートを読み込む</12></11>',
+    link: '<1><2>PHP 公式ウェブサイト</2></1> <3> <4>PHP ドキュメント</4> </3> <5> <6>Uniter GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=PHP</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9> <11><12>スターターテンプレートを読み込む</12></11>',
     name: 'PHP',
   },
   phpWasm: {
     desc: 'php-wasm を使用し、WebAssembly を利用したブラウザ内の PHP。',
-    link: '<1><2>PHP 公式ウェブサイト</2></1> <3> <4>PHP ドキュメント</4> </3> <5> <6>php-wasm GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=PHP</8> </7> <9> <10>LiveCodes ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
+    link: '<1><2>PHP 公式ウェブサイト</2></1> <3> <4>PHP ドキュメント</4> </3> <5> <6>php-wasm GitHub リポジトリ</6> </5> <7> <8>X分でYを学ぶ、X=PHP</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
     name: 'PHP (Wasm)',
   },
   postgresql: {
@@ -239,44 +239,44 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   pug: {
     desc: '堅牢で、エレガントで、機能豊富なテンプレートエンジン。',
-    link: '<1> <2>Pug ドキュメント</2> </1> <3> <4>X分でYを学ぶ、X=Pug</4> </3> <5> <6>LiveCodes ドキュメント</6> </5>',
+    link: '<1> <2>Pug ドキュメント</2> </1> <3> <4>X分でYを学ぶ、X=Pug</4> </3> <5> <6>Programe.Tech ドキュメント</6> </5>',
     name: 'Pug',
   },
   python: {
     desc: 'Brython を使用してブラウザで動作する Python。',
-    link: '<1> <2>Python 公式ウェブサイト</2> </1> <3> <4>Python ドキュメント</4> </3> <5> <6>Brython ドキュメント</6> </5> <7> <8>X分でYを学ぶ、X=Python</8> </7> <9> <10>LiveCodes ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
+    link: '<1> <2>Python 公式ウェブサイト</2> </1> <3> <4>Python ドキュメント</4> </3> <5> <6>Brython ドキュメント</6> </5> <7> <8>X分でYを学ぶ、X=Python</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
     name: 'Python',
   },
   pythonWasm: {
     desc1: 'Pyodide を使用して WebAssembly にコンパイルされた科学計算スタック付きの Python。',
     desc2:
       'Pyodide を使用すると、NumPy、Pandas、Matplotlib、SciPy、scikit-learn などを含む Python の科学計算スタックを使用できます。さらに、PyPi からピュアな Python ホイールをインストールすることも可能です。',
-    link: '<1> <2>Python 公式ウェブサイト</2> </1> <3> <4>Python ドキュメント</4> </3> <5><6>Pyodide ドキュメント</6></5> <7> <8>X分でYを学ぶ、X=Python</8> </7> <9> <10>LiveCodes ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
+    link: '<1> <2>Python 公式ウェブサイト</2> </1> <3> <4>Python ドキュメント</4> </3> <5><6>Pyodide ドキュメント</6></5> <7> <8>X分でYを学ぶ、X=Python</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
     name: 'Python (Wasm)',
   },
   r: {
     desc: 'WebRを使用してブラウザで実行されるR。',
-    link: '<1> <2>Rプロジェクト公式ウェブサイト</2> </1> <3> <4>Rマニュアル</4> </3> <5> <6>Rによるデータサイエンス（第2版）</6> </5> <7> <8>WebRドキュメント</8> </7> <9> <10>X分でわかるR（X in Y minutes）</10> </9> <11> <12>LiveCodesドキュメント</12> </11> <13> <14>スターターテンプレートを読み込む</14> </13>',
+    link: '<1> <2>Rプロジェクト公式ウェブサイト</2> </1> <3> <4>Rマニュアル</4> </3> <5> <6>Rによるデータサイエンス（第2版）</6> </5> <7> <8>WebRドキュメント</8> </7> <9> <10>X分でわかるR（X in Y minutes）</10> </9> <11> <12>Programe.Techドキュメント</12> </11> <13> <14>スターターテンプレートを読み込む</14> </13>',
     name: 'R',
   },
   react: {
     desc: 'React Compiler はビルド時にのみ動作し、React アプリケーションを自動的に最適化するツールです。',
-    link: '<1> <2>React 公式サイト</2> </1> <3> <4>React コンパイラ</4> </3> <5> <6>LiveCodes ドキュメント</6> </5> <7> <8>スターターテンプレートを読み込む</8> </7>',
+    link: '<1> <2>React 公式サイト</2> </1> <3> <4>React コンパイラ</4> </3> <5> <6>Programe.Tech ドキュメント</6> </5> <7> <8>スターターテンプレートを読み込む</8> </7>',
     name: 'React コンパイラ',
   },
   reactNative: {
     desc: 'React Native for WebはReact DOMと相互運用可能なReact NativeのコンポーネントとAPIのアクセシブルな実装です。',
-    link: '<1> <2>React公式ウェブサイト</2> </1> <3> <4>React Nativeウェブサイト</4> </3> <5> <6>React Native for Webウェブサイト</6> </5> <7> <8>React Nativeドキュメント</8> </7> <9> <10>LiveCodesドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
+    link: '<1> <2>React公式ウェブサイト</2> </1> <3> <4>React Nativeウェブサイト</4> </3> <5> <6>React Native for Webウェブサイト</6> </5> <7> <8>React Nativeドキュメント</8> </7> <9> <10>Programe.Techドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
     name: 'React Native for Web',
   },
   reactNativeTsx: {
     desc: 'React Native for WebはReact DOMと相互運用可能なReact NativeのコンポーネントとAPIのアクセシブルな実装です。',
-    link: '<1> <2>React公式ウェブサイト</2> </1> <3> <4>React Nativeウェブサイト</4> </3> <5> <6>React Native for Webウェブサイト</6> </5> <7> <8>React Nativeドキュメント</8> </7> <9> <10>TypeScriptウェブサイト</10> </9> <11> <12>TypeScriptドキュメント</12> </11> <13> <14>LiveCodesドキュメント</14> </13> <15> <16>スターターテンプレートを読み込む（JSX）</16> </15>',
+    link: '<1> <2>React公式ウェブサイト</2> </1> <3> <4>React Nativeウェブサイト</4> </3> <5> <6>React Native for Webウェブサイト</6> </5> <7> <8>React Nativeドキュメント</8> </7> <9> <10>TypeScriptウェブサイト</10> </9> <11> <12>TypeScriptドキュメント</12> </11> <13> <14>Programe.Techドキュメント</14> </13> <15> <16>スターターテンプレートを読み込む（JSX）</16> </15>',
     name: 'React Native for Web（TypeScript使用）',
   },
   reactTsx: {
     desc: 'React Compiler はビルド時にのみ動作し、React アプリケーションを自動的に最適化するツールです。',
-    link: '<1> <2>React 公式サイト</2> </1> <3> <4>React コンパイラ</4> </3> <5> <6>TypeScript サイト</6> </5> <7> <8>TypeScript ドキュメント</8> </7> <9> <10>LiveCodes ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む (JSX)</12> </11>',
+    link: '<1> <2>React 公式サイト</2> </1> <3> <4>React コンパイラ</4> </3> <5> <6>TypeScript サイト</6> </5> <7> <8>TypeScript ドキュメント</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む (JSX)</12> </11>',
     name: 'React コンパイラ (TypeScript 付き)',
   },
   reason: {
@@ -304,12 +304,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   ruby: {
     desc: 'Opalを使用してブラウザで実行されるRuby。',
-    link: '<1> <2>Ruby公式ウェブサイト</2> </1> <3> <4>Rubyドキュメント</4> </3> <5><6>Opal公式ウェブサイト</6></5> <7> <8>Opal標準ライブラリCDN</8> </7> <9> <10>X分でわかるRuby（X in Y minutes）</10> </9> <11> <12>LiveCodesドキュメント</12> </11> <13> <14>スターターテンプレートを読み込む</14> </13>',
+    link: '<1> <2>Ruby公式ウェブサイト</2> </1> <3> <4>Rubyドキュメント</4> </3> <5><6>Opal公式ウェブサイト</6></5> <7> <8>Opal標準ライブラリCDN</8> </7> <9> <10>X分でわかるRuby（X in Y minutes）</10> </9> <11> <12>Programe.Techドキュメント</12> </11> <13> <14>スターターテンプレートを読み込む</14> </13>',
     name: 'Ruby',
   },
   rubyWasm: {
     desc: 'ruby-wasm（CRubyのWebAssemblyポートのコレクション）を使用してブラウザで実行されるRuby。',
-    link: '<1> <2>Ruby公式ウェブサイト</2> </1> <3> <4>Rubyドキュメント</4> </3> <5> <6>ruby.wasmウェブサイト</6> </5> <7><8>CRuby</8></7> <9> <10>X分でわかるRuby（X in Y minutes）</10> </9> <11> <12>LiveCodesドキュメント</12> </11> <13> <14>スターターテンプレートを読み込む</14> </13>',
+    link: '<1> <2>Ruby公式ウェブサイト</2> </1> <3> <4>Rubyドキュメント</4> </3> <5> <6>ruby.wasmウェブサイト</6> </5> <7><8>CRuby</8></7> <9> <10>X分でわかるRuby（X in Y minutes）</10> </9> <11> <12>Programe.Techドキュメント</12> </11> <13> <14>スターターテンプレートを読み込む</14> </13>',
     name: 'Ruby（WASM）',
   },
   sass: {
@@ -329,11 +329,11 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   solid: {
     desc: 'ユーザーインターフェースを構築するための宣言的、効率的、柔軟なJavaScriptライブラリ。',
-    link: '<1><2>公式ウェブサイト</2></1> <3><4>ドキュメント</4></3> <5> <6>LiveCodesドキュメント</6> </5> <7> <8>スターターテンプレートを読み込む（TSX）</8> </7>',
+    link: '<1><2>公式ウェブサイト</2></1> <3><4>ドキュメント</4></3> <5> <6>Programe.Techドキュメント</6> </5> <7> <8>スターターテンプレートを読み込む（TSX）</8> </7>',
     name: 'Solid',
     tsx: {
       desc: 'ユーザーインターフェースを構築するための宣言的、効率的、柔軟なJavaScriptライブラリ。',
-      link: '<1><2>公式ウェブサイト</2></1> <3> <4>Solidドキュメント</4> </3> <5> <6>TypeScriptウェブサイト</6> </5> <7> <8>TypeScriptドキュメント</8> </7> <9> <10>LiveCodesドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
+      link: '<1><2>公式ウェブサイト</2></1> <3> <4>Solidドキュメント</4> </3> <5> <6>TypeScriptウェブサイト</6> </5> <7> <8>TypeScriptドキュメント</8> </7> <9> <10>Programe.Techドキュメント</10> </9> <11> <12>スターターテンプレートを読み込む</12> </11>',
       name: 'Solid（TypeScript使用）',
     },
   },
@@ -363,7 +363,7 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   sucrase: {
     desc: '最新の JS ランタイムをターゲットにできる場合のための、超高速な Babel の代替品。',
-    link: '<1> <2>Sucrase 公式ウェブサイト</2> </1> <3> <4>Sucrase GitHub リポジトリ</4> </3> <5> <6>LiveCodes ドキュメント</6> </5>',
+    link: '<1> <2>Sucrase 公式ウェブサイト</2> </1> <3> <4>Sucrase GitHub リポジトリ</4> </3> <5> <6>Programe.Tech ドキュメント</6> </5>',
     name: 'Sucrase',
   },
   svelte: {
@@ -378,17 +378,17 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   teal: {
     desc: 'Lua の型付き方言。',
-    link: '<1> <2>Teal GitHub リポジトリ</2> </1> <3> <4>Teal ドキュメント</4> </3> <5> <6>Teal チュートリアル</6> </5> <7> <8>LiveCodes ドキュメント</8> </7> <9> <10>スターターテンプレートを読み込む</10> </9>',
+    link: '<1> <2>Teal GitHub リポジトリ</2> </1> <3> <4>Teal ドキュメント</4> </3> <5> <6>Teal チュートリアル</6> </5> <7> <8>Programe.Tech ドキュメント</8> </7> <9> <10>スターターテンプレートを読み込む</10> </9>',
     name: 'Teal',
   },
   tsx: {
-    desc: 'JSX での TypeScript。TSX は LiveCodes で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。',
-    link: '<1> <2>React 公式ウェブサイト</2> </1> <3> <4>React ドキュメントの JSX</4> </3> <5> <6>Typescript ドキュメント</6> </5> <7> <8>LiveCodes ドキュメント</8> </7>',
+    desc: 'JSX での TypeScript。TSX は Programe.Tech で TypeScript コンパイラを使用して JavaScript にコンパイルされます。デフォルトでは React を JSX ランタイムとして使用します。',
+    link: '<1> <2>React 公式ウェブサイト</2> </1> <3> <4>React ドキュメントの JSX</4> </3> <5> <6>Typescript ドキュメント</6> </5> <7> <8>Programe.Tech ドキュメント</8> </7>',
     name: 'TSX',
   },
   twig: {
     desc: '<2>Twig.js</2>による<1>Twig</1> PHP テンプレート言語の JavaScript 実装。',
-    link: '<1> <2>Twig 公式ウェブサイト</2> </1> <3> <4>Twig ドキュメント</4> </3> <5> <6>Twig.js リポジトリ</6> </5> <7> <8>Twig.js ドキュメント</8> </7> <9> <10>LiveCodes ドキュメント</10> </9>',
+    link: '<1> <2>Twig 公式ウェブサイト</2> </1> <3> <4>Twig ドキュメント</4> </3> <5> <6>Twig.js リポジトリ</6> </5> <7> <8>Twig.js ドキュメント</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9>',
     name: 'Twig',
   },
   typescript: {
@@ -397,12 +397,12 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'TypeScript',
   },
   vue: {
-    link: '<1> <2>Vue.js v3 公式ウェブサイト</2> </1> <3> <4>Vue3 ドキュメント</4> </3> <5> <6>Vue3 単一ファイルコンポーネント</6> </5> <7> <8>LiveCodes ドキュメント</8> </7> <9><10>スターターテンプレートを読み込む</10></9>',
+    link: '<1> <2>Vue.js v3 公式ウェブサイト</2> </1> <3> <4>Vue3 ドキュメント</4> </3> <5> <6>Vue3 単一ファイルコンポーネント</6> </5> <7> <8>Programe.Tech ドキュメント</8> </7> <9><10>スターターテンプレートを読み込む</10></9>',
     name: 'Vue3 単一ファイルコンポーネント',
   },
   vue2: {
     desc: 'vue3-sfc-loader を使用して読み込みます。',
-    link: '<1><2>Vue.js 公式ウェブサイト</2></1> <3> <4>Vue2 ドキュメント</4> </3> <5> <6>Vue2 単一ファイルコンポーネント</6> </5> <7> <8>vue3-sfc-loader GitHub リポジトリ</8> </7> <9> <10>LiveCodes ドキュメント</10> </9>',
+    link: '<1><2>Vue.js 公式ウェブサイト</2></1> <3> <4>Vue2 ドキュメント</4> </3> <5> <6>Vue2 単一ファイルコンポーネント</6> </5> <7> <8>vue3-sfc-loader GitHub リポジトリ</8> </7> <9> <10>Programe.Tech ドキュメント</10> </9>',
     name: 'Vue2 単一ファイルコンポーネント',
   },
   wat: {

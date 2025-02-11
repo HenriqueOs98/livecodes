@@ -4,7 +4,7 @@
     "translation": "Blog"
   },
   "about.blog.title": {
-    "translation": "Blog LiveCodes"
+    "translation": "Blog Programe.Tech"
   },
   "about.configuration": {
     "translation": "Configuration"
@@ -13,10 +13,10 @@
     "translation": "Crédits"
   },
   "about.credits.para1": {
-    "translation": "LiveCodes est rendu possible grâce à des projets open source, des services Web et des contributeurs. <tag-1> Voir les crédits </tag-1>"
+    "translation": "Programe.Tech est rendu possible grâce à des projets open source, des services Web et des contributeurs. <tag-1> Voir les crédits </tag-1>"
   },
   "about.credits.para2": {
-    "translation": "© 2024 Hatem Hosny. LiveCodes est sous licence MIT."
+    "translation": "© 2024 Hatem Hosny. Programe.Tech est sous licence MIT."
   },
   "about.documentations.heading": {
     "translation": "Documentation"
@@ -31,25 +31,25 @@
     "translation": "GitHub"
   },
   "about.heading": {
-    "translation": "À propos de LiveCodes"
+    "translation": "À propos de Programe.Tech"
   },
-  "about.livecodes.aboutUs": {
-    "translation": "À propos de LiveCodes"
+  "about.Programe.Tech.aboutUs": {
+    "translation": "À propos de Programe.Tech"
   },
-  "about.livecodes.para1": {
-    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> est un éditeur de code, open-source et riche en fonctionnalités. Actuellement, plus de 90 langages et frameworks sont pris en charge. Il peut être utilisé comme une application autonome ou intégré dans n'importe quelle page web."
+  "about.Programe.Tech.para1": {
+    "translation": "<tag-1><tag-2>Programe.Tech</tag-2></tag-1> est un éditeur de code, open-source et riche en fonctionnalités. Actuellement, plus de 90 langages et frameworks sont pris en charge. Il peut être utilisé comme une application autonome ou intégré dans n'importe quelle page web."
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "translation": "Un puissant SDK facilite l'intégration et la communication avec le code intégré dans une page web. Une documentation complète est disponible avec des exemples de code, des démonstrations en direct et des captures d'écran."
   },
   "about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "translation": "Parrainage"
   },
   "about.sponsor.title": {
-    "translation": "Sponsoriser LiveCodes"
+    "translation": "Sponsoriser Programe.Tech"
   },
   "about.twitter.text": {
     "translation": "𝕏 / Twitter"
@@ -127,7 +127,7 @@
     "translation": "Aidez-nous à traduire"
   },
   "app.logo.title": {
-    "translation": "LiveCodes : un éditeur de code qui fonctionne, tout simplement!"
+    "translation": "Programe.Tech : un éditeur de code qui fonctionne, tout simplement!"
   },
   "app.projectInfo.hint": {
     "translation": "Informations sur le projet"
@@ -166,7 +166,7 @@
     "translation": "Ajouter un fichier"
   },
   "assets.add.githubPages.desc": {
-    "translation": "Déployer l'actif sur GitHub Pages. Le fichier est poussé vers la branche <tag-1>gh-pages</tag-1> du dépôt <tag-2>livecodes-assets</tag-2> sur votre compte GitHub. Si le dépôt n'existe pas déjà, un dépôt public sera créé."
+    "translation": "Déployer l'actif sur GitHub Pages. Le fichier est poussé vers la branche <tag-1>gh-pages</tag-1> du dépôt <tag-2>Programe.Tech-assets</tag-2> sur votre compte GitHub. Si le dépôt n'existe pas déjà, un dépôt public sera créé."
   },
   "assets.add.githubPages.heading": {
     "translation": "GitHub Pages"
@@ -304,7 +304,7 @@
     "translation": "Sauvegarder"
   },
   "backup.backup.desc": {
-    "translation": "Sauvegardez les données LiveCodes afin de pouvoir les restaurer ultérieurement sur cet appareil ou d'autres. <tag-1></tag-1> Veuillez consulter la <tag-2>documentation</tag-2> pour plus de détails."
+    "translation": "Sauvegardez les données Programe.Tech afin de pouvoir les restaurer ultérieurement sur cet appareil ou d'autres. <tag-1></tag-1> Veuillez consulter la <tag-2>documentation</tag-2> pour plus de détails."
   },
   "backup.backup.heading": {
     "translation": "Sauvegarde"
@@ -340,7 +340,7 @@
     "translation": "En cours..."
   },
   "backup.restore.desc": {
-    "translation": "Restaurez les données LiveCodes précédemment sauvegardées. <tag-1></tag-1> Si vous choisissez de remplacer le contenu actuel, vous voudrez peut-être d'abord le sauvegarder. <tag-2></tag-2> Pour plus de détails, veuillez consulter la <tag-3>documentation</tag-3>"
+    "translation": "Restaurez les données Programe.Tech précédemment sauvegardées. <tag-1></tag-1> Si vous choisissez de remplacer le contenu actuel, vous voudrez peut-être d'abord le sauvegarder. <tag-2></tag-2> Pour plus de détails, veuillez consulter la <tag-3>documentation</tag-3>"
   },
   "backup.restore.fromFile": {
     "translation": "Restaurer à partir du fichier"
@@ -1198,7 +1198,7 @@
     "translation": "Personnalisé"
   },
   "generic.embed.logoHint": {
-    "translation": "Editer sur LiveCodes 🡕"
+    "translation": "Editer sur Programe.Tech 🡕"
   },
   "generic.error.authentication": {
     "translation": "Erreur d'authentification !"
@@ -1357,7 +1357,7 @@
     "translation": "Sauvegarde / Restauration …"
   },
   "menu.blog": {
-    "translation": "Blog LiveCodes"
+    "translation": "Blog Programe.Tech"
   },
   "menu.broadcast": {
     "translation": "Diffusion …"
@@ -1663,7 +1663,7 @@
     "translation": "Ajoutez des URLs de feuilles de style/scripts. Chaque URL doit figurer sur une ligne distincte."
   },
   "resultMode.linkText": {
-    "translation": "Éditer sur LiveCodes"
+    "translation": "Éditer sur Programe.Tech"
   },
   "savePrompt.heading": {
     "translation": "Modifications non enregistrées"
@@ -1852,13 +1852,13 @@
     "translation": "Texte brut"
   },
   "splash.loading": {
-    "translation": "Chargement de LiveCodes…"
+    "translation": "Chargement de Programe.Tech…"
   },
   "sync.autoSync": {
     "translation": "Synchronisation automatique"
   },
   "sync.create.desc": {
-    "translation": "Un nouveau dépôt <tag-1>privé</tag-1> sera créé. Vos données locales LiveCodes seront synchronisées avec la branche <tag-2>main</tag-2>."
+    "translation": "Un nouveau dépôt <tag-1>privé</tag-1> sera créé. Vos données locales Programe.Tech seront synchronisées avec la branche <tag-2>main</tag-2>."
   },
   "sync.create.heading": {
     "translation": "Créer un nouveau dépôt"
@@ -1873,7 +1873,7 @@
     "translation": "Le nom du dépôt est requis"
   },
   "sync.existing.desc": {
-    "translation": "Vos données locales LiveCodes seront synchronisées avec la branche <tag-1>main</tag-1>."
+    "translation": "Vos données locales Programe.Tech seront synchronisées avec la branche <tag-1>main</tag-1>."
   },
   "sync.existing.heading": {
     "translation": "Dépôt existant"
@@ -2173,7 +2173,7 @@
     "translation": "Documentation"
   },
   "welcome.about.heading": {
-    "translation": "À propos de LiveCodes"
+    "translation": "À propos de Programe.Tech"
   },
   "welcome.heading": {
     "translation": "Bienvenue"

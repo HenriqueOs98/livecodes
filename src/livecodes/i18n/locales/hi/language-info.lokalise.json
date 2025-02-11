@@ -82,10 +82,10 @@
     "translation": "Clio"
   },
   "clojurescript.desc": {
-    "translation": "ClojureScript <tag-1>Clojure</tag-1> के लिए एक कंपाइलर है जो JavaScript को लक्षित करता है। <tag-2></tag-2>LiveCodes में, यह ब्राउज़र में <tag-3>Cherry</tag-3> का उपयोग करके चलता है।"
+    "translation": "ClojureScript <tag-1>Clojure</tag-1> के लिए एक कंपाइलर है जो JavaScript को लक्षित करता है। <tag-2></tag-2>Programe.Tech में, यह ब्राउज़र में <tag-3>Cherry</tag-3> का उपयोग करके चलता है।"
   },
   "clojurescript.link": {
-    "translation": "<tag-1> <tag-2>ClojureScript आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Clojure आधिकारिक वेबसाइट</tag-4> </tag-3> <tag-5> <tag-6>Cherry रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=clojure</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>ClojureScript आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Clojure आधिकारिक वेबसाइट</tag-4> </tag-3> <tag-5> <tag-6>Cherry रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=clojure</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
   },
   "clojurescript.name": {
     "translation": "ClojureScript (CLJS)"
@@ -139,7 +139,7 @@
     "translation": "<tag-1> <tag-2>Cytoscape</tag-2> </tag-1> <tag-3> <tag-4>ELK</tag-4> (<tag-5>elkjs</tag-5> का उपयोग करके) </tag-3> <tag-6> <tag-7>Gnuplot</tag-7> (<tag-8>gnuplot-JS</tag-8> का उपयोग करके) </tag-6> <tag-9> <tag-10>Graphviz</tag-10> (<tag-11>@hpcc-js/wasm</tag-11> का उपयोग करके) </tag-9> <tag-12> <tag-13>Mermaid</tag-13> </tag-12> <tag-14> <tag-15>Nomnoml</tag-15> </tag-14> <tag-16> <tag-17>Pintora</tag-17> </tag-16> <tag-18> <tag-19>Plotly</tag-19> </tag-18> <tag-20> <tag-21>Svgbob</tag-21> </tag-20> <tag-22> <tag-23>Vega</tag-23> </tag-22> <tag-24> <tag-25>VegaLite</tag-25> </tag-24> <tag-26> <tag-27>WaveDrom</tag-27> </tag-26>"
   },
   "diagrams.link": {
-    "translation": "<tag-1> <tag-2>स्टार्टर टेम्पलेट लोड करें</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes दस्तावेज़ीकरण</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>स्टार्टर टेम्पलेट लोड करें</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech दस्तावेज़ीकरण</tag-4> </tag-3>"
   },
   "diagrams.name": {
     "translation": "आरेख"
@@ -148,7 +148,7 @@
     "translation": "Node.js और ब्राउज़रों के लिए सबसे तेज़ + संक्षिप्त जावास्क्रिप्ट टेम्पलेट इंजन।"
   },
   "dot.link": {
-    "translation": "<tag-1> <tag-2>आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes दस्तावेज़ीकरण</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech दस्तावेज़ीकरण</tag-4> </tag-3>"
   },
   "dot.name": {
     "translation": "doT.js"
@@ -157,7 +157,7 @@
     "translation": "एम्बेडेड जावास्क्रिप्ट टेम्प्लेटिंग।"
   },
   "ejs.link": {
-    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>LiveCodes दस्तावेज़ीकरण</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech दस्तावेज़ीकरण</tag-4> </tag-3>"
   },
   "ejs.name": {
     "translation": "EJS"
@@ -166,7 +166,7 @@
     "translation": "Node, Deno, और ब्राउज़र के लिए एम्बेडेड JS टेम्पलेट इंजन। हल्का, तेज़, और प्लगेबल। TypeScript में लिखा गया।"
   },
   "eta.link": {
-    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़ीकरण</tag-6> </tag-5>"
+    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़ीकरण</tag-6> </tag-5>"
   },
   "eta.name": {
     "translation": "Eta"
@@ -175,7 +175,7 @@
     "translation": "Fennel एक प्रोग्रामिंग भाषा है जो Lua की गति, सरलता, और पहुंच को लिस्प सिंटैक्स और मैक्रो सिस्टम की लचीलेपन के साथ जोड़ती है।"
   },
   "fennel.link": {
-    "translation": "<tag-1> <tag-2>Fennel आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Fennel के साथ शुरुआत करना</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>स्टार्टर टेम्पलेट लोड करें</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>Fennel आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Fennel के साथ शुरुआत करना</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>स्टार्टर टेम्पलेट लोड करें</tag-8> </tag-7>"
   },
   "fennel.name": {
     "translation": "Fennel"
@@ -217,7 +217,7 @@
     "translation": "क्लाइंटसाइड-haml-js का उपयोग करके क्लाइंट साइड जावास्क्रिप्ट व्यू टेम्प्लेट्स के लिए Haml कंपाइलर।"
   },
   "haml.link": {
-    "translation": "<tag-1><tag-2>Haml आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Haml दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=haml</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Haml आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Haml दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>clientside-haml-js GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=haml</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9>"
   },
   "haml.name": {
     "translation": "Haml"
@@ -226,7 +226,7 @@
     "translation": "स्टेरॉयड्स पर न्यूनतम टेम्प्लेटिंग।"
   },
   "handlebars.link": {
-    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>LiveCodes दस्तावेज़ीकरण</tag-4> </tag-3>"
+    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Programe.Tech दस्तावेज़ीकरण</tag-4> </tag-3>"
   },
   "handlebars.name": {
     "translation": "Handlebars"
@@ -241,16 +241,16 @@
     "translation": "Imba"
   },
   "jsx.desc": {
-    "translation": "LiveCodes में JSX को TypeScript कंपाइलर का उपयोग करके JavaScript में कंपाइल किया जाता है। डिफ़ॉल्ट रूप से यह JSX रनटाइम के रूप में React का उपयोग करता है।"
+    "translation": "Programe.Tech में JSX को TypeScript कंपाइलर का उपयोग करके JavaScript में कंपाइल किया जाता है। डिफ़ॉल्ट रूप से यह JSX रनटाइम के रूप में React का उपयोग करता है।"
   },
   "jsx.link": {
-    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React दस्तावेज़ीकरण में JSX</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़ीकरण</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React दस्तावेज़ीकरण में JSX</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़ीकरण</tag-6> </tag-5>"
   },
   "jsx.name": {
     "translation": "JSX"
   },
   "julia.desc1": {
-    "translation": "(LiveCodes में Julia भाषा समर्थन अभी भी प्रयोगात्मक है)"
+    "translation": "(Programe.Tech में Julia भाषा समर्थन अभी भी प्रयोगात्मक है)"
   },
   "julia.desc2": {
     "translation": "<tag-2>polylang.io</tag-2> द्वारा अनुकूलित <tag-1>julia-wasm</tag-1> का उपयोग करके WASM पर चलने वाला Julia कंपाइलर और Julia Base।"
@@ -274,7 +274,7 @@
     "translation": "एक सरल, अभिव्यंजक और सुरक्षित टेम्पलेट इंजन।"
   },
   "liquid.link": {
-    "translation": "<tag-1> <tag-2>LiquidJS आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़ीकरण</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>LiquidJS आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>LiquidJS दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़ीकरण</tag-6> </tag-5>"
   },
   "liquid.name": {
     "translation": "LiquidJS"
@@ -292,7 +292,7 @@
     "translation": "fengari-web का उपयोग करके ब्राउज़र में चलने वाला Lua।"
   },
   "lua.link": {
-    "translation": "<tag-1><tag-2>Lua आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Lua दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Fengari आधिकारिक वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub रेपो</tag-8> </tag-7> <tag-9> <tag-10>X को Y मिनटों में सीखें, जहां X=Lua</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13><tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14></tag-13>"
+    "translation": "<tag-1><tag-2>Lua आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Lua दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Fengari आधिकारिक वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>fengari-web GitHub रेपो</tag-8> </tag-7> <tag-9> <tag-10>X को Y मिनटों में सीखें, जहां X=Lua</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13><tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14></tag-13>"
   },
   "lua.name": {
     "translation": "Lua"
@@ -301,7 +301,7 @@
     "translation": "Wasmoon का उपयोग करके ब्राउज़र में चलने वाला Lua, जो WebAssembly के साथ बनाया गया JS बाइंडिंग्स के साथ एक वास्तविक lua 5.4 VM है।"
   },
   "luaWasm.link": {
-    "translation": "<tag-1><tag-2>Lua आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Lua दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=Lua</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>Lua आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Lua दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Wasmoon GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=Lua</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
   },
   "luaWasm.name": {
     "translation": "Lua (Wasm)"
@@ -337,7 +337,7 @@
     "translation": "MJML एक मार्कअप भाषा है जिसे प्रतिक्रियाशील ईमेल को कोड करने की पीड़ा को कम करने के लिए डिज़ाइन किया गया है।"
   },
   "mjml.link": {
-    "translation": "<tag-1><tag-2>MJML आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>MJML दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>MJML आधिकारिक टेम्पलेट्स</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes दस्तावेज़ीकरण</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>MJML आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>MJML दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>MJML आधिकारिक टेम्पलेट्स</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech दस्तावेज़ीकरण</tag-8> </tag-7>"
   },
   "mjml.name": {
     "translation": "MJML"
@@ -346,7 +346,7 @@
     "translation": "तर्करहित टेम्पलेट्स।"
   },
   "mustache.link": {
-    "translation": "<tag-1> <tag-2>आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>mustache(5) मैनुअल</tag-4> </tag-3> <tag-5> <tag-6>JavaScript कार्यान्वयन</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes दस्तावेज़ीकरण</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>mustache(5) मैनुअल</tag-4> </tag-3> <tag-5> <tag-6>JavaScript कार्यान्वयन</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech दस्तावेज़ीकरण</tag-8> </tag-7>"
   },
   "mustache.name": {
     "translation": "Mustache"
@@ -355,7 +355,7 @@
     "translation": "JavaScript के लिए एक समृद्ध और शक्तिशाली टेम्प्लेटिंग भाषा। Nunjucks अनिवार्य रूप से <tag-1>jinja2</tag-1> का एक पोर्ट है।"
   },
   "nunjucks.link": {
-    "translation": "<tag-1> <tag-2>आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>LiveCodes दस्तावेज़ीकरण</tag-4> </tag-3>"
+    "translation": "<tag-1> <tag-2>आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Programe.Tech दस्तावेज़ीकरण</tag-4> </tag-3>"
   },
   "nunjucks.name": {
     "translation": "Nunjucks"
@@ -385,7 +385,7 @@
     "translation": "Uniter का उपयोग करके ब्राउज़र में चलने वाला PHP।"
   },
   "php.link": {
-    "translation": "<tag-1><tag-2>PHP आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>PHP दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11><tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12></tag-11>"
+    "translation": "<tag-1><tag-2>PHP आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>PHP दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Uniter GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11><tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12></tag-11>"
   },
   "php.name": {
     "translation": "PHP"
@@ -394,7 +394,7 @@
     "translation": "php-wasm का उपयोग करके WebAssembly द्वारा संचालित ब्राउज़र में PHP।"
   },
   "phpWasm.link": {
-    "translation": "<tag-1><tag-2>PHP आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>PHP दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=PHP</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>PHP आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>PHP दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>php-wasm GitHub रेपो</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=PHP</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
   },
   "phpWasm.name": {
     "translation": "PHP (Wasm)"
@@ -421,7 +421,7 @@
     "translation": "मजबूत, सुंदर, सुविधा संपन्न टेम्पलेट इंजन।"
   },
   "pug.link": {
-    "translation": "<tag-1> <tag-2>Pug दस्तावेज़ीकरण</tag-2> </tag-1> <tag-3> <tag-4>X को Y मिनटों में सीखें, जहां X=Pug</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़ीकरण</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Pug दस्तावेज़ीकरण</tag-2> </tag-1> <tag-3> <tag-4>X को Y मिनटों में सीखें, जहां X=Pug</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़ीकरण</tag-6> </tag-5>"
   },
   "pug.name": {
     "translation": "Pug"
@@ -430,7 +430,7 @@
     "translation": "Brython का उपयोग करके ब्राउज़र में चलने वाला Python।"
   },
   "python.link": {
-    "translation": "<tag-1> <tag-2>Python आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Python दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Brython दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Python दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Brython दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
   },
   "python.name": {
     "translation": "Python"
@@ -442,7 +442,7 @@
     "translation": "Pyodide NumPy, Pandas, Matplotlib, SciPy, scikit-learn और बहुत कुछ सहित Python वैज्ञानिक स्टैक का उपयोग करने की अनुमति देता है। इसके अतिरिक्त PyPi से शुद्ध Python व्हील्स को इंस्टॉल करना संभव है।"
   },
   "pythonWasm.link": {
-    "translation": "<tag-1> <tag-2>Python आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Python दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5><tag-6>Pyodide दस्तावेज़ीकरण</tag-6></tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=Python</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>Python आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Python दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5><tag-6>Pyodide दस्तावेज़ीकरण</tag-6></tag-5> <tag-7> <tag-8>X को Y मिनटों में सीखें, जहां X=Python</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
   },
   "pythonWasm.name": {
     "translation": "Python (Wasm)"
@@ -451,7 +451,7 @@
     "translation": "WebR का उपयोग करके ब्राउज़र में चलने वाला R।"
   },
   "r.link": {
-    "translation": "<tag-1> <tag-2>R प्रोजेक्ट की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>R मैनुअल्स</tag-4> </tag-3> <tag-5> <tag-6>डेटा विज्ञान के लिए R (2e)</tag-6> </tag-5> <tag-7> <tag-8>WebR दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>X को Y मिनट में सीखें, जहाँ X=R</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>R प्रोजेक्ट की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>R मैनुअल्स</tag-4> </tag-3> <tag-5> <tag-6>डेटा विज्ञान के लिए R (2e)</tag-6> </tag-5> <tag-7> <tag-8>WebR दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>X को Y मिनट में सीखें, जहाँ X=R</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14> </tag-13>"
   },
   "r.name": {
     "translation": "R"
@@ -460,7 +460,7 @@
     "translation": "React Compiler एक बिल्ड-टाइम टूल है जो स्वचालित रूप से React ऐप्स को ऑप्टिमाइज़ करता है।"
   },
   "react.link": {
-    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React कंपाइलर</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़</tag-6> </tag-5> <tag-7> <tag-8>स्टार्टर टेम्पलेट लोड करें</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React कंपाइलर</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़</tag-6> </tag-5> <tag-7> <tag-8>स्टार्टर टेम्पलेट लोड करें</tag-8> </tag-7>"
   },
   "react.name": {
     "translation": "रिएक्ट कंपाइलर"
@@ -469,7 +469,7 @@
     "translation": "React Native for Web, React Native के कंपोनेंट्स और API का एक सुलभ कार्यान्वयन है जो React DOM के साथ अंतरसंचालनीय है।"
   },
   "reactNative.link": {
-    "translation": "<tag-1> <tag-2>React की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React Native वेबसाइट</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>React Native दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React Native वेबसाइट</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>React Native दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
   },
   "reactNative.name": {
     "translation": "React Native for Web"
@@ -478,7 +478,7 @@
     "translation": "React Native for Web, React Native के कंपोनेंट्स और API का एक सुलभ कार्यान्वयन है जो React DOM के साथ अंतरसंचालनीय है।"
   },
   "reactNativeTsx.link": {
-    "translation": "<tag-1> <tag-2>React की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React Native वेबसाइट</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>React Native दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>TypeScript वेबसाइट</tag-10> </tag-9> <tag-11> <tag-12>TypeScript दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>LiveCodes दस्तावेज़ीकरण</tag-14> </tag-13> <tag-15> <tag-16>स्टार्टर टेम्पलेट लोड करें (JSX)</tag-16> </tag-15>"
+    "translation": "<tag-1> <tag-2>React की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React Native वेबसाइट</tag-4> </tag-3> <tag-5> <tag-6>React Native for Web वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>React Native दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>TypeScript वेबसाइट</tag-10> </tag-9> <tag-11> <tag-12>TypeScript दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>Programe.Tech दस्तावेज़ीकरण</tag-14> </tag-13> <tag-15> <tag-16>स्टार्टर टेम्पलेट लोड करें (JSX)</tag-16> </tag-15>"
   },
   "reactNativeTsx.name": {
     "translation": "React Native for Web (TypeScript के साथ)"
@@ -487,7 +487,7 @@
     "translation": "React Compiler एक बिल्ड-टाइम टूल है जो स्वचालित रूप से React ऐप्स को ऑप्टिमाइज़ करता है।"
   },
   "reactTsx.link": {
-    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React कंपाइलर</tag-4> </tag-3> <tag-5> <tag-6>TypeScript वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>TypeScript दस्तावेज़</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें (JSX)</tag-12> </tag-11>"
+    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React कंपाइलर</tag-4> </tag-3> <tag-5> <tag-6>TypeScript वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>TypeScript दस्तावेज़</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें (JSX)</tag-12> </tag-11>"
   },
   "reactTsx.name": {
     "translation": "रिएक्ट कंपाइलर (टाइपस्क्रिप्ट के साथ)"
@@ -538,7 +538,7 @@
     "translation": "Opal का उपयोग करके ब्राउज़र में चलने वाला Ruby।"
   },
   "ruby.link": {
-    "translation": "<tag-1> <tag-2>Ruby की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Ruby दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5><tag-6>Opal की आधिकारिक वेबसाइट</tag-6></tag-5> <tag-7> <tag-8>Opal मानक पुस्तकालय CDN</tag-8> </tag-7> <tag-9> <tag-10>X को Y मिनट में सीखें, जहां X=ruby</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Ruby दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5><tag-6>Opal की आधिकारिक वेबसाइट</tag-6></tag-5> <tag-7> <tag-8>Opal मानक पुस्तकालय CDN</tag-8> </tag-7> <tag-9> <tag-10>X को Y मिनट में सीखें, जहां X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14> </tag-13>"
   },
   "ruby.name": {
     "translation": "Ruby"
@@ -547,7 +547,7 @@
     "translation": "ruby-wasm (CRuby के WebAssembly पोर्ट्स का एक संग्रह) का उपयोग करके ब्राउज़र में चलने वाला Ruby।"
   },
   "rubyWasm.link": {
-    "translation": "<tag-1> <tag-2>Ruby की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Ruby दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasm वेबसाइट</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>X को Y मिनट में सीखें, जहां X=ruby</tag-10> </tag-9> <tag-11> <tag-12>LiveCodes दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14> </tag-13>"
+    "translation": "<tag-1> <tag-2>Ruby की आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Ruby दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>ruby.wasm वेबसाइट</tag-6> </tag-5> <tag-7><tag-8>CRuby</tag-8></tag-7> <tag-9> <tag-10>X को Y मिनट में सीखें, जहां X=ruby</tag-10> </tag-9> <tag-11> <tag-12>Programe.Tech दस्तावेज़ीकरण</tag-12> </tag-11> <tag-13> <tag-14>स्टार्टर टेम्पलेट लोड करें</tag-14> </tag-13>"
   },
   "rubyWasm.name": {
     "translation": "Ruby (WASM)"
@@ -583,7 +583,7 @@
     "translation": "उपयोगकर्ता इंटरफेस बनाने के लिए एक घोषणात्मक, कुशल और लचीली JavaScript लाइब्रेरी।"
   },
   "solid.link": {
-    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3><tag-4>दस्तावेज़ीकरण</tag-4></tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>स्टार्टर टेम्पलेट लोड करें (TSX)</tag-8> </tag-7>"
+    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3><tag-4>दस्तावेज़ीकरण</tag-4></tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>स्टार्टर टेम्पलेट लोड करें (TSX)</tag-8> </tag-7>"
   },
   "solid.name": {
     "translation": "Solid"
@@ -592,7 +592,7 @@
     "translation": "उपयोगकर्ता इंटरफेस बनाने के लिए एक घोषणात्मक, कुशल और लचीली JavaScript लाइब्रेरी।"
   },
   "solid.tsx.link": {
-    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Solid दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>TypeScript वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>TypeScript दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
+    "translation": "<tag-1><tag-2>आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Solid दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>TypeScript वेबसाइट</tag-6> </tag-5> <tag-7> <tag-8>TypeScript दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9> <tag-11> <tag-12>स्टार्टर टेम्पलेट लोड करें</tag-12> </tag-11>"
   },
   "solid.tsx.name": {
     "translation": "Solid (TypeScript के साथ)"
@@ -643,7 +643,7 @@
     "translation": "आधुनिक JS रनटाइम को लक्षित कर सकने के लिए Babel का सुपर-फास्ट विकल्प।"
   },
   "sucrase.link": {
-    "translation": "<tag-1> <tag-2>Sucrase आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub रेपो</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes दस्तावेज़ीकरण</tag-6> </tag-5>"
+    "translation": "<tag-1> <tag-2>Sucrase आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub रेपो</tag-4> </tag-3> <tag-5> <tag-6>Programe.Tech दस्तावेज़ीकरण</tag-6> </tag-5>"
   },
   "sucrase.name": {
     "translation": "Sucrase"
@@ -670,16 +670,16 @@
     "translation": "Lua की एक टाइप की गई बोली।"
   },
   "teal.link": {
-    "translation": "<tag-1> <tag-2>Teal GitHub रेपो</tag-2> </tag-1> <tag-3> <tag-4>Teal दस्तावेज़</tag-4> </tag-3> <tag-5> <tag-6>Teal ट्यूटोरियल</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>स्टार्टर टेम्पलेट लोड करें</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Teal GitHub रेपो</tag-2> </tag-1> <tag-3> <tag-4>Teal दस्तावेज़</tag-4> </tag-3> <tag-5> <tag-6>Teal ट्यूटोरियल</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>स्टार्टर टेम्पलेट लोड करें</tag-10> </tag-9>"
   },
   "teal.name": {
     "translation": "Teal"
   },
   "tsx.desc": {
-    "translation": "JSX में TypeScript। TSX को LiveCodes में TypeScript कंपाइलर का उपयोग करके JavaScript में कंपाइल किया जाता है। डिफ़ॉल्ट रूप से यह JSX रनटाइम के रूप में React का उपयोग करता है।"
+    "translation": "JSX में TypeScript। TSX को Programe.Tech में TypeScript कंपाइलर का उपयोग करके JavaScript में कंपाइल किया जाता है। डिफ़ॉल्ट रूप से यह JSX रनटाइम के रूप में React का उपयोग करता है।"
   },
   "tsx.link": {
-    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React दस्तावेज़ीकरण में JSX</tag-4> </tag-3> <tag-5> <tag-6>Typescript दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes दस्तावेज़ीकरण</tag-8> </tag-7>"
+    "translation": "<tag-1> <tag-2>React आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>React दस्तावेज़ीकरण में JSX</tag-4> </tag-3> <tag-5> <tag-6>Typescript दस्तावेज़ीकरण</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech दस्तावेज़ीकरण</tag-8> </tag-7>"
   },
   "tsx.name": {
     "translation": "TSX"
@@ -688,7 +688,7 @@
     "translation": "<tag-2>Twig.js</tag-2> द्वारा PHP टेम्प्लेटिंग भाषा <tag-1>Twig</tag-1> का एक JavaScript कार्यान्वयन।"
   },
   "twig.link": {
-    "translation": "<tag-1> <tag-2>Twig आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Twig दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Twig.js रेपो</tag-6> </tag-5> <tag-7> <tag-8>Twig.js दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9>"
+    "translation": "<tag-1> <tag-2>Twig आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Twig दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Twig.js रेपो</tag-6> </tag-5> <tag-7> <tag-8>Twig.js दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9>"
   },
   "twig.name": {
     "translation": "Twig"
@@ -703,7 +703,7 @@
     "translation": "TypeScript"
   },
   "vue.link": {
-    "translation": "<tag-1> <tag-2>Vue.js v3 आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Vue3 दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Vue3 सिंगल फाइल कंपोनेंट्स</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9><tag-10>स्टार्टर टेम्पलेट लोड करें</tag-10></tag-9>"
+    "translation": "<tag-1> <tag-2>Vue.js v3 आधिकारिक वेबसाइट</tag-2> </tag-1> <tag-3> <tag-4>Vue3 दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Vue3 सिंगल फाइल कंपोनेंट्स</tag-6> </tag-5> <tag-7> <tag-8>Programe.Tech दस्तावेज़ीकरण</tag-8> </tag-7> <tag-9><tag-10>स्टार्टर टेम्पलेट लोड करें</tag-10></tag-9>"
   },
   "vue.name": {
     "translation": "Vue3 सिंगल फाइल कंपोनेंट्स"
@@ -712,7 +712,7 @@
     "translation": "vue3-sfc-loader का उपयोग करके लोड किया गया।"
   },
   "vue2.link": {
-    "translation": "<tag-1><tag-2>Vue.js आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Vue2 दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Vue2 सिंगल फाइल कंपोनेंट्स</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub रेपो</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes दस्तावेज़ीकरण</tag-10> </tag-9>"
+    "translation": "<tag-1><tag-2>Vue.js आधिकारिक वेबसाइट</tag-2></tag-1> <tag-3> <tag-4>Vue2 दस्तावेज़ीकरण</tag-4> </tag-3> <tag-5> <tag-6>Vue2 सिंगल फाइल कंपोनेंट्स</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub रेपो</tag-8> </tag-7> <tag-9> <tag-10>Programe.Tech दस्तावेज़ीकरण</tag-10> </tag-9>"
   },
   "vue2.name": {
     "translation": "Vue2 सिंगल फाइल कंपोनेंट्स"

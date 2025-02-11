@@ -49,8 +49,8 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'Clio',
   },
   clojurescript: {
-    desc: 'ClojureScript es un compilador para <1>Clojure</1> que tiene como objetivo JavaScript. <2></2>En LiveCodes, se ejecuta en el navegador usando <3>Cherry</3>.',
-    link: '<1> <2>Sitio web oficial de ClojureScript</2> </1> <3> <4>Sitio web oficial de Clojure</4> </3> <5> <6>Repositorio de Cherry</6> </5> <7> <8>Aprende X en Y minutos, donde X=clojure</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
+    desc: 'ClojureScript es un compilador para <1>Clojure</1> que tiene como objetivo JavaScript. <2></2>En Programe.Tech, se ejecuta en el navegador usando <3>Cherry</3>.',
+    link: '<1> <2>Sitio web oficial de ClojureScript</2> </1> <3> <4>Sitio web oficial de Clojure</4> </3> <5> <6>Repositorio de Cherry</6> </5> <7> <8>Aprende X en Y minutos, donde X=clojure</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
     name: 'ClojureScript (CLJS)',
   },
   coffeescript: {
@@ -80,27 +80,27 @@ const languageInfo: I18nLangInfoTranslation = {
     desc2: 'Diagramas como código. Soporta:',
     desc3:
       '<1> <2>Cytoscape</2> </1> <3> <4>ELK</4> (usando <5>elkjs</5>) </3> <6> <7>Gnuplot</7> (usando <8>gnuplot-JS</8>) </6> <9> <10>Graphviz</10> (usando <11>@hpcc-js/wasm</11>) </9> <12> <13>Mermaid</13> </12> <14> <15>Nomnoml</15> </14> <16> <17>Pintora</17> </16> <18> <19>Plotly</19> </18> <20> <21>Svgbob</21> </20> <22> <23>Vega</23> </22> <24> <25>VegaLite</25> </24> <26> <27>WaveDrom</27> </26>',
-    link: '<1> <2>Cargar plantilla inicial</2> </1> <3> <4>Documentación de LiveCodes</4> </3>',
+    link: '<1> <2>Cargar plantilla inicial</2> </1> <3> <4>Documentación de Programe.Tech</4> </3>',
     name: 'Diagramas',
   },
   dot: {
     desc: 'El motor de plantillas JavaScript más rápido y conciso para Node.js y navegadores.',
-    link: '<1> <2>Sitio web oficial</2> </1> <3> <4>Documentación de LiveCodes</4> </3>',
+    link: '<1> <2>Sitio web oficial</2> </1> <3> <4>Documentación de Programe.Tech</4> </3>',
     name: 'doT.js',
   },
   ejs: {
     desc: 'Plantillas de JavaScript integradas.',
-    link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación de LiveCodes</4> </3>',
+    link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación de Programe.Tech</4> </3>',
     name: 'EJS',
   },
   eta: {
     desc: 'Motor de plantillas JS integrado para Node, Deno y el navegador. Ligero, rápido y conectable. Escrito en TypeScript.',
-    link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación</4> </3> <5> <6>Documentación de LiveCodes</6> </5>',
+    link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación</4> </3> <5> <6>Documentación de Programe.Tech</6> </5>',
     name: 'Eta',
   },
   fennel: {
     desc: 'Fennel es un lenguaje de programación que combina la velocidad, simplicidad y alcance de Lua con la flexibilidad de una sintaxis de lisp y un sistema de macros.',
-    link: '<1> <2>Sitio web oficial de Fennel</2> </1> <3> <4>Introducción a Fennel</4> </3> <5> <6>Documentación de LiveCodes</6> </5> <7> <8>Cargar plantilla inicial</8> </7>',
+    link: '<1> <2>Sitio web oficial de Fennel</2> </1> <3> <4>Introducción a Fennel</4> </3> <5> <6>Documentación de Programe.Tech</6> </5> <7> <8>Cargar plantilla inicial</8> </7>',
     name: 'Fennel',
   },
   flow: {
@@ -125,12 +125,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   haml: {
     desc: 'Compilador Haml para plantillas de vista JavaScript del lado del cliente usando clientside-haml-js.',
-    link: '<1><2>Sitio web oficial de Haml</2></1> <3> <4>Documentación de Haml</4> </3> <5> <6>Repositorio GitHub de clientside-haml-js</6> </5> <7> <8>Aprende X en Y minutos, donde X=haml</8> </7> <9> <10>Documentación de LiveCodes</10> </9>',
+    link: '<1><2>Sitio web oficial de Haml</2></1> <3> <4>Documentación de Haml</4> </3> <5> <6>Repositorio GitHub de clientside-haml-js</6> </5> <7> <8>Aprende X en Y minutos, donde X=haml</8> </7> <9> <10>Documentación de Programe.Tech</10> </9>',
     name: 'Haml',
   },
   handlebars: {
     desc: 'Plantillas minimalistas con esteroides.',
-    link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación de LiveCodes</4> </3>',
+    link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación de Programe.Tech</4> </3>',
     name: 'Handlebars',
   },
   imba: {
@@ -139,12 +139,12 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'Imba',
   },
   jsx: {
-    desc: 'JSX se compila a JavaScript en LiveCodes usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX.',
-    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Documentación de JSX en React</4> </3> <5> <6>Documentación de LiveCodes</6> </5>',
+    desc: 'JSX se compila a JavaScript en Programe.Tech usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX.',
+    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Documentación de JSX en React</4> </3> <5> <6>Documentación de Programe.Tech</6> </5>',
     name: 'JSX',
   },
   julia: {
-    desc1: '(El soporte del lenguaje Julia en LiveCodes aún es experimental)',
+    desc1: '(El soporte del lenguaje Julia en Programe.Tech aún es experimental)',
     desc2:
       'Compilador de Julia y Julia Base ejecutándose en WASM, utilizando <1>julia-wasm</1> adaptado por <2>polylang.io</2>.',
     link: '<1> <2>Sitio web oficial de Julia</2> </1> <3> <4>Documentación de Julia</4> </3> <5> <6>Aprende X en Y minutos, donde X=Julia</6> </5> <7> <8>Cargar plantilla inicial</8> </7>',
@@ -157,7 +157,7 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   liquid: {
     desc: 'Un motor de plantillas simple, expresivo y seguro.',
-    link: '<1> <2>Sitio web oficial de LiquidJS</2> </1> <3> <4>Documentación de LiquidJS</4> </3> <5> <6>Documentación de LiveCodes</6> </5>',
+    link: '<1> <2>Sitio web oficial de LiquidJS</2> </1> <3> <4>Documentación de LiquidJS</4> </3> <5> <6>Documentación de Programe.Tech</6> </5>',
     name: 'LiquidJS',
   },
   livescript: {
@@ -167,12 +167,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   lua: {
     desc: 'Lua ejecutándose en el navegador usando fengari-web.',
-    link: '<1><2>Sitio web oficial de Lua</2></1> <3> <4>Documentación de Lua</4> </3> <5> <6>Sitio web oficial de Fengari</6> </5> <7> <8>Repositorio GitHub de fengari-web</8> </7> <9> <10>Aprende X en Y minutos, donde X=Lua</10> </9> <11> <12>Documentación de LiveCodes</12> </11> <13><14>Cargar plantilla inicial</14></13>',
+    link: '<1><2>Sitio web oficial de Lua</2></1> <3> <4>Documentación de Lua</4> </3> <5> <6>Sitio web oficial de Fengari</6> </5> <7> <8>Repositorio GitHub de fengari-web</8> </7> <9> <10>Aprende X en Y minutos, donde X=Lua</10> </9> <11> <12>Documentación de Programe.Tech</12> </11> <13><14>Cargar plantilla inicial</14></13>',
     name: 'Lua',
   },
   luaWasm: {
     desc: 'Lua ejecutándose en el navegador usando Wasmoon, una verdadera máquina virtual Lua 5.4 con enlaces JS hecha con WebAssembly.',
-    link: '<1><2>Sitio web oficial de Lua</2></1> <3> <4>Documentación de Lua</4> </3> <5> <6>Repositorio GitHub de Wasmoon</6> </5> <7> <8>Aprende X en Y minutos, donde X=Lua</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
+    link: '<1><2>Sitio web oficial de Lua</2></1> <3> <4>Documentación de Lua</4> </3> <5> <6>Repositorio GitHub de Wasmoon</6> </5> <7> <8>Aprende X en Y minutos, donde X=Lua</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
     name: 'Lua (Wasm)',
   },
   malina: {
@@ -192,17 +192,17 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   mjml: {
     desc: 'MJML es un lenguaje de marcado diseñado para reducir el dolor de codificar un correo electrónico responsive.',
-    link: '<1><2>Sitio web oficial de MJML</2></1> <3> <4>Documentación de MJML</4> </3> <5> <6>Plantillas oficiales de MJML</6> </5> <7> <8>Documentación de LiveCodes</8> </7>',
+    link: '<1><2>Sitio web oficial de MJML</2></1> <3> <4>Documentación de MJML</4> </3> <5> <6>Plantillas oficiales de MJML</6> </5> <7> <8>Documentación de Programe.Tech</8> </7>',
     name: 'MJML',
   },
   mustache: {
     desc: 'Plantillas sin lógica.',
-    link: '<1> <2>Sitio web oficial</2> </1> <3> <4>Manual de mustache(5)</4> </3> <5> <6>Implementación en JavaScript</6> </5> <7> <8>Documentación de LiveCodes</8> </7>',
+    link: '<1> <2>Sitio web oficial</2> </1> <3> <4>Manual de mustache(5)</4> </3> <5> <6>Implementación en JavaScript</6> </5> <7> <8>Documentación de Programe.Tech</8> </7>',
     name: 'Mustache',
   },
   nunjucks: {
     desc: 'Un lenguaje de plantillas rico y poderoso para JavaScript. Nunjucks es esencialmente un puerto de <1>jinja2</1>.',
-    link: '<1> <2>Sitio web oficial</2> </1> <3> <4>Documentación de LiveCodes</4> </3>',
+    link: '<1> <2>Sitio web oficial</2> </1> <3> <4>Documentación de Programe.Tech</4> </3>',
     name: 'Nunjucks',
   },
   ocaml: {
@@ -219,12 +219,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   php: {
     desc: 'PHP ejecutándose en el navegador usando Uniter.',
-    link: '<1><2>Sitio web oficial de PHP</2></1> <3> <4>Documentación de PHP</4> </3> <5> <6>Repositorio GitHub de Uniter</6> </5> <7> <8>Aprende X en Y minutos, donde X=PHP</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11><12>Cargar plantilla inicial</12></11>',
+    link: '<1><2>Sitio web oficial de PHP</2></1> <3> <4>Documentación de PHP</4> </3> <5> <6>Repositorio GitHub de Uniter</6> </5> <7> <8>Aprende X en Y minutos, donde X=PHP</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11><12>Cargar plantilla inicial</12></11>',
     name: 'PHP',
   },
   phpWasm: {
     desc: 'PHP en el navegador, impulsado por WebAssembly, usando php-wasm.',
-    link: '<1><2>Sitio web oficial de PHP</2></1> <3> <4>Documentación de PHP</4> </3> <5> <6>Repositorio GitHub de php-wasm</6> </5> <7> <8>Aprende X en Y minutos, donde X=PHP</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
+    link: '<1><2>Sitio web oficial de PHP</2></1> <3> <4>Documentación de PHP</4> </3> <5> <6>Repositorio GitHub de php-wasm</6> </5> <7> <8>Aprende X en Y minutos, donde X=PHP</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
     name: 'PHP (Wasm)',
   },
   postgresql: {
@@ -239,44 +239,44 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   pug: {
     desc: 'Motor de plantillas robusto, elegante y rico en características.',
-    link: '<1> <2>Documentación de Pug</2> </1> <3> <4>Aprende X en Y minutos, donde X=Pug</4> </3> <5> <6>Documentación de LiveCodes</6> </5>',
+    link: '<1> <2>Documentación de Pug</2> </1> <3> <4>Aprende X en Y minutos, donde X=Pug</4> </3> <5> <6>Documentación de Programe.Tech</6> </5>',
     name: 'Pug',
   },
   python: {
     desc: 'Python ejecutándose en el navegador usando Brython.',
-    link: '<1> <2>Sitio web oficial de Python</2> </1> <3> <4>Documentación de Python</4> </3> <5> <6>Documentación de Brython</6> </5> <7> <8>Aprende X en Y minutos, donde X=Python</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
+    link: '<1> <2>Sitio web oficial de Python</2> </1> <3> <4>Documentación de Python</4> </3> <5> <6>Documentación de Brython</6> </5> <7> <8>Aprende X en Y minutos, donde X=Python</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
     name: 'Python',
   },
   pythonWasm: {
     desc1: 'Python con el stack científico, compilado a WebAssembly usando Pyodide.',
     desc2:
       'Pyodide permite usar el stack científico de Python incluyendo NumPy, Pandas, Matplotlib, SciPy, scikit-learn y muchos más. Además, es posible instalar paquetes puros de Python desde PyPi.',
-    link: '<1> <2>Sitio web oficial de Python</2> </1> <3> <4>Documentación de Python</4> </3> <5><6>Documentación de Pyodide</6></5> <7> <8>Aprende X en Y minutos, donde X=Python</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
+    link: '<1> <2>Sitio web oficial de Python</2> </1> <3> <4>Documentación de Python</4> </3> <5><6>Documentación de Pyodide</6></5> <7> <8>Aprende X en Y minutos, donde X=Python</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
     name: 'Python (Wasm)',
   },
   r: {
     desc: 'R ejecutándose en el navegador usando WebR.',
-    link: '<1> <2>Sitio web oficial del proyecto R</2> </1> <3> <4>Los manuales de R</4> </3> <5> <6>R para Ciencia de Datos (2a ed.)</6> </5> <7> <8>Documentación de WebR</8> </7> <9> <10>Aprende X en Y minutos, donde X=R</10> </9> <11> <12>Documentación de LiveCodes</12> </11> <13> <14>Cargar plantilla inicial</14> </13>',
+    link: '<1> <2>Sitio web oficial del proyecto R</2> </1> <3> <4>Los manuales de R</4> </3> <5> <6>R para Ciencia de Datos (2a ed.)</6> </5> <7> <8>Documentación de WebR</8> </7> <9> <10>Aprende X en Y minutos, donde X=R</10> </9> <11> <12>Documentación de Programe.Tech</12> </11> <13> <14>Cargar plantilla inicial</14> </13>',
     name: 'R',
   },
   react: {
     desc: 'React Compiler es una herramienta que funciona solo durante la compilación y optimiza automáticamente las aplicaciones React.',
-    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Compilador React</4> </3> <5> <6>Documentación de LiveCodes</6> </5> <7> <8>Cargar plantilla inicial</8> </7>',
+    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Compilador React</4> </3> <5> <6>Documentación de Programe.Tech</6> </5> <7> <8>Cargar plantilla inicial</8> </7>',
     name: 'Compilador de React',
   },
   reactNative: {
     desc: 'React Native para Web es una implementación accesible de los Componentes y APIs de React Native que es interoperable con React DOM.',
-    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Sitio web de React Native</4> </3> <5> <6>Sitio web de React Native para Web</6> </5> <7> <8>Documentación de React Native</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
+    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Sitio web de React Native</4> </3> <5> <6>Sitio web de React Native para Web</6> </5> <7> <8>Documentación de React Native</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
     name: 'React Native para Web',
   },
   reactNativeTsx: {
     desc: 'React Native para Web es una implementación accesible de los Componentes y APIs de React Native que es interoperable con React DOM.',
-    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Sitio web de React Native</4> </3> <5> <6>Sitio web de React Native para Web</6> </5> <7> <8>Documentación de React Native</8> </7> <9> <10>Sitio web de TypeScript</10> </9> <11> <12>Documentación de TypeScript</12> </11> <13> <14>Documentación de LiveCodes</14> </13> <15> <16>Cargar plantilla inicial (JSX)</16> </15>',
+    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Sitio web de React Native</4> </3> <5> <6>Sitio web de React Native para Web</6> </5> <7> <8>Documentación de React Native</8> </7> <9> <10>Sitio web de TypeScript</10> </9> <11> <12>Documentación de TypeScript</12> </11> <13> <14>Documentación de Programe.Tech</14> </13> <15> <16>Cargar plantilla inicial (JSX)</16> </15>',
     name: 'React Native para Web (con TypeScript)',
   },
   reactTsx: {
     desc: 'React Compiler es una herramienta que funciona solo durante la compilación y optimiza automáticamente las aplicaciones React.',
-    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Compilador React</4> </3> <5> <6>Sitio web TypeScript</6> </5> <7> <8>Documentación TypeScript</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial (JSX)</12> </11>',
+    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Compilador React</4> </3> <5> <6>Sitio web TypeScript</6> </5> <7> <8>Documentación TypeScript</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial (JSX)</12> </11>',
     name: 'Compilador React (con TypeScript)',
   },
   reason: {
@@ -304,12 +304,12 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   ruby: {
     desc: 'Ruby ejecutándose en el navegador usando Opal.',
-    link: '<1> <2>Sitio web oficial de Ruby</2> </1> <3> <4>Documentación de Ruby</4> </3> <5><6>Sitio web oficial de Opal</6></5> <7> <8>CDN de la biblioteca estándar de Opal</8> </7> <9> <10>Aprende X en Y minutos, donde X=ruby</10> </9> <11> <12>Documentación de LiveCodes</12> </11> <13> <14>Cargar plantilla inicial</14> </13>',
+    link: '<1> <2>Sitio web oficial de Ruby</2> </1> <3> <4>Documentación de Ruby</4> </3> <5><6>Sitio web oficial de Opal</6></5> <7> <8>CDN de la biblioteca estándar de Opal</8> </7> <9> <10>Aprende X en Y minutos, donde X=ruby</10> </9> <11> <12>Documentación de Programe.Tech</12> </11> <13> <14>Cargar plantilla inicial</14> </13>',
     name: 'Ruby',
   },
   rubyWasm: {
     desc: 'Ruby ejecutándose en el navegador usando ruby-wasm (una colección de puertos WebAssembly de CRuby).',
-    link: '<1> <2>Sitio web oficial de Ruby</2> </1> <3> <4>Documentación de Ruby</4> </3> <5> <6>Sitio web de ruby.wasm</6> </5> <7><8>CRuby</8></7> <9> <10>Aprende X en Y minutos, donde X=ruby</10> </9> <11> <12>Documentación de LiveCodes</12> </11> <13> <14>Cargar plantilla inicial</14> </13>',
+    link: '<1> <2>Sitio web oficial de Ruby</2> </1> <3> <4>Documentación de Ruby</4> </3> <5> <6>Sitio web de ruby.wasm</6> </5> <7><8>CRuby</8></7> <9> <10>Aprende X en Y minutos, donde X=ruby</10> </9> <11> <12>Documentación de Programe.Tech</12> </11> <13> <14>Cargar plantilla inicial</14> </13>',
     name: 'Ruby (WASM)',
   },
   sass: {
@@ -329,11 +329,11 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   solid: {
     desc: 'Una biblioteca JavaScript declarativa, eficiente y flexible para construir interfaces de usuario.',
-    link: '<1><2>Sitio web oficial</2></1> <3><4>Documentación</4></3> <5> <6>Documentación de LiveCodes</6> </5> <7> <8>Cargar plantilla inicial (TSX)</8> </7>',
+    link: '<1><2>Sitio web oficial</2></1> <3><4>Documentación</4></3> <5> <6>Documentación de Programe.Tech</6> </5> <7> <8>Cargar plantilla inicial (TSX)</8> </7>',
     name: 'Solid',
     tsx: {
       desc: 'Una biblioteca JavaScript declarativa, eficiente y flexible para construir interfaces de usuario.',
-      link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación de Solid</4> </3> <5> <6>Sitio web de TypeScript</6> </5> <7> <8>Documentación de TypeScript</8> </7> <9> <10>Documentación de LiveCodes</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
+      link: '<1><2>Sitio web oficial</2></1> <3> <4>Documentación de Solid</4> </3> <5> <6>Sitio web de TypeScript</6> </5> <7> <8>Documentación de TypeScript</8> </7> <9> <10>Documentación de Programe.Tech</10> </9> <11> <12>Cargar plantilla inicial</12> </11>',
       name: 'Solid (con TypeScript)',
     },
   },
@@ -363,7 +363,7 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   sucrase: {
     desc: 'Alternativa super rápida a Babel para cuando puedes apuntar a entornos de ejecución JS modernos.',
-    link: '<1> <2>Sitio web oficial de Sucrase</2> </1> <3> <4>Repositorio GitHub de Sucrase</4> </3> <5> <6>Documentación de LiveCodes</6> </5>',
+    link: '<1> <2>Sitio web oficial de Sucrase</2> </1> <3> <4>Repositorio GitHub de Sucrase</4> </3> <5> <6>Documentación de Programe.Tech</6> </5>',
     name: 'Sucrase',
   },
   svelte: {
@@ -378,17 +378,17 @@ const languageInfo: I18nLangInfoTranslation = {
   },
   teal: {
     desc: 'Un dialecto tipado de Lua.',
-    link: '<1> <2>Repositorio GitHub de Teal</2> </1> <3> <4>Documentación de Teal</4> </3> <5> <6>Tutorial de Teal</6> </5> <7> <8>Documentación de LiveCodes</8> </7> <9> <10>Cargar plantilla inicial</10> </9>',
+    link: '<1> <2>Repositorio GitHub de Teal</2> </1> <3> <4>Documentación de Teal</4> </3> <5> <6>Tutorial de Teal</6> </5> <7> <8>Documentación de Programe.Tech</8> </7> <9> <10>Cargar plantilla inicial</10> </9>',
     name: 'Teal',
   },
   tsx: {
-    desc: 'TypeScript en JSX. TSX se compila a JavaScript en LiveCodes usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX.',
-    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Documentación de JSX en React</4> </3> <5> <6>Documentación de TypeScript</6> </5> <7> <8>Documentación de LiveCodes</8> </7>',
+    desc: 'TypeScript en JSX. TSX se compila a JavaScript en Programe.Tech usando el Compilador de TypeScript. Por defecto, utiliza React como el tiempo de ejecución de JSX.',
+    link: '<1> <2>Sitio web oficial de React</2> </1> <3> <4>Documentación de JSX en React</4> </3> <5> <6>Documentación de TypeScript</6> </5> <7> <8>Documentación de Programe.Tech</8> </7>',
     name: 'TSX',
   },
   twig: {
     desc: 'Una implementación en JavaScript de <1>Twig</1> el lenguaje de plantillas PHP por <2>Twig.js</2>.',
-    link: '<1> <2>Sitio web oficial de Twig</2> </1> <3> <4>Documentación de Twig</4> </3> <5> <6>Repositorio de Twig.js</6> </5> <7> <8>Documentación de Twig.js</8> </7> <9> <10>Documentación de LiveCodes</10> </9>',
+    link: '<1> <2>Sitio web oficial de Twig</2> </1> <3> <4>Documentación de Twig</4> </3> <5> <6>Repositorio de Twig.js</6> </5> <7> <8>Documentación de Twig.js</8> </7> <9> <10>Documentación de Programe.Tech</10> </9>',
     name: 'Twig',
   },
   typescript: {
@@ -397,12 +397,12 @@ const languageInfo: I18nLangInfoTranslation = {
     name: 'TypeScript',
   },
   vue: {
-    link: '<1> <2>Sitio web oficial de Vue.js v3</2> </1> <3> <4>Documentación de Vue3</4> </3> <5> <6>Componentes de archivo único de Vue3</6> </5> <7> <8>Documentación de LiveCodes</8> </7> <9><10>Cargar plantilla inicial</10></9>',
+    link: '<1> <2>Sitio web oficial de Vue.js v3</2> </1> <3> <4>Documentación de Vue3</4> </3> <5> <6>Componentes de archivo único de Vue3</6> </5> <7> <8>Documentación de Programe.Tech</8> </7> <9><10>Cargar plantilla inicial</10></9>',
     name: 'Componentes de archivo único de Vue3',
   },
   vue2: {
     desc: 'Cargado usando vue3-sfc-loader.',
-    link: '<1><2>Sitio web oficial de Vue.js</2></1> <3> <4>Documentación de Vue2</4> </3> <5> <6>Componentes de archivo único de Vue2</6> </5> <7> <8>Repositorio GitHub de vue3-sfc-loader</8> </7> <9> <10>Documentación de LiveCodes</10> </9>',
+    link: '<1><2>Sitio web oficial de Vue.js</2></1> <3> <4>Documentación de Vue2</4> </3> <5> <6>Componentes de archivo único de Vue2</6> </5> <7> <8>Repositorio GitHub de vue3-sfc-loader</8> </7> <9> <10>Documentación de Programe.Tech</10> </9>',
     name: 'Componentes de archivo único de Vue2',
   },
   wat: {

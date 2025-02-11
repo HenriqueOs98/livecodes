@@ -6,14 +6,14 @@ const translation: I18nTranslation = {
   about: {
     blog: {
       text: 'ブログ',
-      title: 'LiveCodesブログ',
+      title: 'Programe.Techブログ',
     },
     configuration: '設定',
     credits: {
       heading: 'クレジット',
       para1:
-        'LiveCodes は、オープンソース プロジェクト、Web サービス、貢献者によって実現されています。 <1>クレジットを表示</1>',
-      para2: '© 2024 Hatem Hosny。LiveCodes は MIT ライセンスに基づいてライセンスされています。',
+        'Programe.Tech は、オープンソース プロジェクト、Web サービス、貢献者によって実現されています。 <1>クレジットを表示</1>',
+      para2: '© 2024 Hatem Hosny。Programe.Tech は MIT ライセンスに基づいてライセンスされています。',
     },
     documentations: {
       heading: 'ドキュメント',
@@ -23,18 +23,18 @@ const translation: I18nTranslation = {
       text: 'GitHub',
       title: 'GitHub',
     },
-    heading: 'LiveCodesについて',
-    livecodes: {
-      aboutUs: 'LiveCodesについて',
+    heading: 'Programe.Techについて',
+    Programe.Tech: {
+      aboutUs: 'Programe.Techについて',
       para1:
-        '<1><2>LiveCodes</2></1>は、<3>オープンソース</3>で<4>機能豊富</4>な<5>クライアントサイド</5>のコードプレイグラウンドです。現在、<6>90以上の言語/<7></7>フレームワーク</6>をサポートしています。スタンドアロンアプリとして使用することも、任意のWebページに<8>埋め込む</8>こともできます。プレイグラウンドに<9>コードをプリフィル</9>する方法は多数あります。',
+        '<1><2>Programe.Tech</2></1>は、<3>オープンソース</3>で<4>機能豊富</4>な<5>クライアントサイド</5>のコードプレイグラウンドです。現在、<6>90以上の言語/<7></7>フレームワーク</6>をサポートしています。スタンドアロンアプリとして使用することも、任意のWebページに<8>埋め込む</8>こともできます。プレイグラウンドに<9>コードをプリフィル</9>する方法は多数あります。',
       para2:
         '強力な SDK により、プレイグラウンドとの統合や通信が簡単になります。コード例、ライブ デモ、スクリーンショットを含む詳細なドキュメントもご利用いただけます。',
     },
-    sdk: 'LiveCodes SDK',
+    sdk: 'Programe.Tech SDK',
     sponsor: {
       text: 'スポンサー',
-      title: 'LiveCodesをスポンサー',
+      title: 'Programe.Techをスポンサー',
     },
     twitter: {
       text: '𝕏 / Twitter',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: '翻訳にご協力ください',
     },
     logo: {
-      title: 'LiveCodes: ブラウザ上で動作するコード エディターです。',
+      title: 'Programe.Tech: ブラウザ上で動作するコード エディターです。',
     },
     projectInfo: {
       hint: 'プロジェクト情報',
@@ -130,7 +130,7 @@ const translation: I18nTranslation = {
         label: 'ファイルを追加',
       },
       githubPages: {
-        desc: 'アセットをGitHub Pagesにデプロイします。ファイルはあなたのGitHubアカウントの<2>livecodes-assets</2>リポジトリの<1>gh-pages</1>ブランチにプッシュされます。リポジトリがまだ存在しない場合は、公開リポジトリが作成されます。',
+        desc: 'アセットをGitHub Pagesにデプロイします。ファイルはあなたのGitHubアカウントの<2>Programe.Tech-assets</2>リポジトリの<1>gh-pages</1>ブランチにプッシュされます。リポジトリがまだ存在しない場合は、公開リポジトリが作成されます。',
         heading: 'GitHub Pages',
         label: 'ファイルをアップロード',
       },
@@ -201,7 +201,7 @@ const translation: I18nTranslation = {
     backup: {
       assets: 'アセット',
       button: 'バックアップ',
-      desc: 'LiveCodesのデータをバックアップして、後でこのデバイスや他のデバイスで復元できるようにします。<1></1>詳細については<2>ドキュメント</2>をご覧ください。',
+      desc: 'Programe.Techのデータをバックアップして、後でこのデバイスや他のデバイスで復元できるようにします。<1></1>詳細については<2>ドキュメント</2>をご覧ください。',
       heading: 'バックアップ',
       projects: 'プロジェクト',
       settings: 'ユーザー設定',
@@ -217,7 +217,7 @@ const translation: I18nTranslation = {
     heading: 'バックアップ / 復元',
     inProgress: '進行中...',
     restore: {
-      desc: '以前にバックアップしたLiveCodesデータを復元します。<1></1>現在のコンテンツを置き換える場合は、先にバックアップを取ることをお勧めします。<2></2>詳細については<3>ドキュメント</3>をご覧ください。',
+      desc: '以前にバックアップしたPrograme.Techデータを復元します。<1></1>現在のコンテンツを置き換える場合は、先にバックアップを取ることをお勧めします。<2></2>詳細については<3>ドキュメント</3>をご覧ください。',
       fromFile: 'ファイルから復元',
       heading: '復元',
       mode: {
@@ -617,7 +617,7 @@ const translation: I18nTranslation = {
     close: '閉じる',
     custom: 'カスタム',
     embed: {
-      logoHint: 'LiveCodes で編集する。🡕',
+      logoHint: 'Programe.Tech で編集する。🡕',
     },
     error: {
       authentication: '認証エラー！',
@@ -698,7 +698,7 @@ const translation: I18nTranslation = {
     autoSave: '自動保存',
     autoUpdate: '自動更新',
     backup: 'バックアップ / 復元 …',
-    blog: 'LiveCodesブログ',
+    blog: 'Programe.Techブログ',
     broadcast: '配信 …',
     commandMenu: 'コマンドメニュー',
     config: '設定',
@@ -844,7 +844,7 @@ const translation: I18nTranslation = {
     urlDesc: 'スタイルシート/スクリプトのURLを追加。各URLは別の行に記述してください。',
   },
   resultMode: {
-    linkText: 'LiveCodesで編集する',
+    linkText: 'Programe.Techで編集する',
   },
   savePrompt: {
     heading: '未保存の変更',
@@ -943,12 +943,12 @@ const translation: I18nTranslation = {
     text: 'プレーンテキスト',
   },
   splash: {
-    loading: 'LiveCodesを読み込み中…',
+    loading: 'Programe.Techを読み込み中…',
   },
   sync: {
     autoSync: '自動同期',
     create: {
-      desc: '新しい<1>プライベート</1>リポジトリが作成されます。LiveCodesのローカルデータは<2>main</2>ブランチと同期されます。',
+      desc: '新しい<1>プライベート</1>リポジトリが作成されます。Programe.Techのローカルデータは<2>main</2>ブランチと同期されます。',
       heading: '新しいリポジトリを作成',
       repoName: 'リポジトリ名',
     },
@@ -957,7 +957,7 @@ const translation: I18nTranslation = {
       repoNameRequired: 'リポジトリ名は必須です',
     },
     existing: {
-      desc: 'LiveCodesのローカルデータは<1>main</1>ブランチと同期されます。',
+      desc: 'Programe.Techのローカルデータは<1>main</1>ブランチと同期されます。',
       heading: '既存のリポジトリ',
       repoName: 'リポジトリ名',
     },
@@ -1087,7 +1087,7 @@ const translation: I18nTranslation = {
   welcome: {
     about: {
       documentation: 'ドキュメント',
-      heading: 'LiveCodesについて',
+      heading: 'Programe.Techについて',
     },
     heading: 'ようこそ',
     recent: {

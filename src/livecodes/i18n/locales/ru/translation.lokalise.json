@@ -4,7 +4,7 @@
     "translation": "Блог"
   },
   "about.blog.title": {
-    "translation": "Блог LiveCodes"
+    "translation": "Блог Programe.Tech"
   },
   "about.configuration": {
     "translation": "Конфигурация"
@@ -13,10 +13,10 @@
     "translation": "Кредиты"
   },
   "about.credits.para1": {
-    "translation": "LiveCodes стал возможен благодаря проектам с открытым исходным кодом, веб-сервисам и участникам. <tag-1> Посмотреть кредиты </tag-1>"
+    "translation": "Programe.Tech стал возможен благодаря проектам с открытым исходным кодом, веб-сервисам и участникам. <tag-1> Посмотреть кредиты </tag-1>"
   },
   "about.credits.para2": {
-    "translation": "© 2024 Hatem Hosny. LiveCodes распространяется по лицензии MIT."
+    "translation": "© 2024 Hatem Hosny. Programe.Tech распространяется по лицензии MIT."
   },
   "about.documentations.heading": {
     "translation": "Документация"
@@ -31,25 +31,25 @@
     "translation": "GitHub"
   },
   "about.heading": {
-    "translation": "О LiveCodes"
+    "translation": "О Programe.Tech"
   },
-  "about.livecodes.aboutUs": {
-    "translation": "О LiveCodes"
+  "about.Programe.Tech.aboutUs": {
+    "translation": "О Programe.Tech"
   },
-  "about.livecodes.para1": {
-    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> - это <tag-3>проект с открытым исходным кодом</tag-3>, <tag-4>богатый функциями</tag-4>, <tag-5>клиентская</tag-5> игровая площадка для кода. В настоящее время поддерживается <tag-6>более 90 языков/<tag-7></tag-7>фреймворков</tag-6>. Его можно использовать как отдельное приложение или <tag-8>встраивать</tag-8> в любую веб-страницу. Существует множество способов <tag-9>предварительного заполнения площадок</tag-9> кодом."
+  "about.Programe.Tech.para1": {
+    "translation": "<tag-1><tag-2>Programe.Tech</tag-2></tag-1> - это <tag-3>проект с открытым исходным кодом</tag-3>, <tag-4>богатый функциями</tag-4>, <tag-5>клиентская</tag-5> игровая площадка для кода. В настоящее время поддерживается <tag-6>более 90 языков/<tag-7></tag-7>фреймворков</tag-6>. Его можно использовать как отдельное приложение или <tag-8>встраивать</tag-8> в любую веб-страницу. Существует множество способов <tag-9>предварительного заполнения площадок</tag-9> кодом."
   },
-  "about.livecodes.para2": {
+  "about.Programe.Tech.para2": {
     "translation": "Широкий спектр <tag-1>параметров конфигурации</tag-1> делает его очень гибким. Мощный <tag-2>SDK</tag-2> (для <tag-3>JS/TS</tag-3>, <tag-4>React</tag-4>, <tag-5>Vue</tag-5> и <tag-6>Svelte</tag-6>) облегчает <tag-7>встраивание</tag-7> и <tag-8>взаимодействие</tag-8> с площадками. Доступна <tag-9>исчерпывающая документация</tag-9> с примерами кода, живыми демонстрациями и скриншотами."
   },
   "about.sdk": {
-    "translation": "LiveCodes SDK"
+    "translation": "Programe.Tech SDK"
   },
   "about.sponsor.text": {
     "translation": "Спонсор"
   },
   "about.sponsor.title": {
-    "translation": "Стать спонсором LiveCodes"
+    "translation": "Стать спонсором Programe.Tech"
   },
   "about.twitter.text": {
     "translation": "𝕏 / Twitter"
@@ -127,7 +127,7 @@
     "translation": "Помогите нам перевести"
   },
   "app.logo.title": {
-    "translation": "LiveCodes: Площадка Для Кода, Которая Просто Работает!"
+    "translation": "Programe.Tech: Площадка Для Кода, Которая Просто Работает!"
   },
   "app.projectInfo.hint": {
     "translation": "Информация о проекте"
@@ -166,7 +166,7 @@
     "translation": "Добавить файл"
   },
   "assets.add.githubPages.desc": {
-    "translation": "Разместить актив на GitHub Pages. Файл будет отправлен в ветку <tag-1>gh-pages</tag-1> репозитория <tag-2>livecodes-assets</tag-2> на вашем аккаунте GitHub. Если репозиторий еще не существует, будет создан публичный репозиторий."
+    "translation": "Разместить актив на GitHub Pages. Файл будет отправлен в ветку <tag-1>gh-pages</tag-1> репозитория <tag-2>Programe.Tech-assets</tag-2> на вашем аккаунте GitHub. Если репозиторий еще не существует, будет создан публичный репозиторий."
   },
   "assets.add.githubPages.heading": {
     "translation": "GitHub Pages"
@@ -304,7 +304,7 @@
     "translation": "Резервное копирование"
   },
   "backup.backup.desc": {
-    "translation": "Создайте резервную копию данных LiveCodes, чтобы их можно было позже восстановить на этом или других устройствах. <tag-1></tag-1> Пожалуйста, ознакомьтесь с <tag-2>документацией</tag-2> для получения подробностей."
+    "translation": "Создайте резервную копию данных Programe.Tech, чтобы их можно было позже восстановить на этом или других устройствах. <tag-1></tag-1> Пожалуйста, ознакомьтесь с <tag-2>документацией</tag-2> для получения подробностей."
   },
   "backup.backup.heading": {
     "translation": "Резервное копирование"
@@ -340,7 +340,7 @@
     "translation": "В процессе..."
   },
   "backup.restore.desc": {
-    "translation": "Восстановите ранее созданную резервную копию данных LiveCodes. <tag-1></tag-1> Если вы решите заменить текущее содержимое, возможно, вы захотите сначала создать его резервную копию. <tag-2></tag-2> Пожалуйста, ознакомьтесь с <tag-3>документацией</tag-3> для получения подробностей."
+    "translation": "Восстановите ранее созданную резервную копию данных Programe.Tech. <tag-1></tag-1> Если вы решите заменить текущее содержимое, возможно, вы захотите сначала создать его резервную копию. <tag-2></tag-2> Пожалуйста, ознакомьтесь с <tag-3>документацией</tag-3> для получения подробностей."
   },
   "backup.restore.fromFile": {
     "translation": "Восстановить из файла"
@@ -1198,7 +1198,7 @@
     "translation": "Обычай"
   },
   "generic.embed.logoHint": {
-    "translation": "Редактировать на LiveCodes 🡕"
+    "translation": "Редактировать на Programe.Tech 🡕"
   },
   "generic.error.authentication": {
     "translation": "Ошибка аутентификации!"
@@ -1357,7 +1357,7 @@
     "translation": "Резервное копирование / Восстановление …"
   },
   "menu.blog": {
-    "translation": "Блог LiveCodes"
+    "translation": "Блог Programe.Tech"
   },
   "menu.broadcast": {
     "translation": "Трансляция …"
@@ -1663,7 +1663,7 @@
     "translation": "Добавьте URL-адреса таблиц стилей/скриптов. Каждый URL должен быть на отдельной строке."
   },
   "resultMode.linkText": {
-    "translation": "Редактирование на LiveCodes"
+    "translation": "Редактирование на Programe.Tech"
   },
   "savePrompt.heading": {
     "translation": "Несохраненные изменения"
@@ -1852,13 +1852,13 @@
     "translation": "Простой текст"
   },
   "splash.loading": {
-    "translation": "Загрузка LiveCodes…"
+    "translation": "Загрузка Programe.Tech…"
   },
   "sync.autoSync": {
     "translation": "Автосинхронизация"
   },
   "sync.create.desc": {
-    "translation": "Будет создан новый <tag-1>приватный</tag-1> репозиторий. Ваши локальные данные LiveCodes будут синхронизированы с веткой <tag-2>main</tag-2>."
+    "translation": "Будет создан новый <tag-1>приватный</tag-1> репозиторий. Ваши локальные данные Programe.Tech будут синхронизированы с веткой <tag-2>main</tag-2>."
   },
   "sync.create.heading": {
     "translation": "Создать новый репозиторий"
@@ -1873,7 +1873,7 @@
     "translation": "Требуется название репозитория"
   },
   "sync.existing.desc": {
-    "translation": "Ваши локальные данные LiveCodes будут синхронизированы с веткой <tag-1>main</tag-1>."
+    "translation": "Ваши локальные данные Programe.Tech будут синхронизированы с веткой <tag-1>main</tag-1>."
   },
   "sync.existing.heading": {
     "translation": "Существующий репозиторий"
@@ -2173,7 +2173,7 @@
     "translation": "Документация"
   },
   "welcome.about.heading": {
-    "translation": "О LiveCodes"
+    "translation": "О Programe.Tech"
   },
   "welcome.heading": {
     "translation": "Добро пожаловать"
