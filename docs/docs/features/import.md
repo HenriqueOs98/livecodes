@@ -26,7 +26,7 @@ https://livecodes.io/?x=https://gist.github.com/f01deb828a42f363502fbae7964d48e9
 
 ### Bookmarklet
 
-Instead of manually copy/pasting URLs to import, adding [**"Edit in LiveCodes"** bookmarklet](../bookmarklet.md) to the browser bookmarks bar can be a more convenient way. It opens LiveCodes in a new window and imports the current webpage URL.
+Instead of manually copy/pasting URLs to import, adding [**"Abra o editor em nova aba"** bookmarklet](../bookmarklet.md) to the browser bookmarks bar can be a more convenient way. It opens LiveCodes in a new window and imports the current webpage URL.
 
 ### SDK
 
@@ -160,7 +160,7 @@ https://livecodes.io/?html-selector=h3&x=https://live-codes.github.io/livecodes-
 
 Of course, [embedded playgrounds](./embeds.md) can be prefilled with code from the same embedding page. This works well for documentation and educational websites.
 
-[This is a demo](https://live-codes.github.io/livecodes-examples/prefill-from-code-blocks.html) for automatic extraction of code blocks to prefill editors by creating "Edit in LiveCodes" links. Also embedded editors are prefilled from the code blocks. ([View source](https://github.com/live-codes/livecodes-examples/blob/master/prefill-from-code-blocks.html))
+[This is a demo](https://live-codes.github.io/livecodes-examples/prefill-from-code-blocks.html) for automatic extraction of code blocks to prefill editors by creating "Abra o editor em nova aba" links. Also embedded editors are prefilled from the code blocks. ([View source](https://github.com/live-codes/livecodes-examples/blob/master/prefill-from-code-blocks.html))
 
 ## Import Raw Code
 

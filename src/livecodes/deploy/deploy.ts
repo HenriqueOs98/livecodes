@@ -177,7 +177,7 @@ export const deployedConfirmation = (deployResult: DeployResult, sourcePublished
           href="https://livecodes.io/?config=https://raw.githubusercontent.com/${username}/${repo}/${commit}/src/livecodes.json"
           target="_blank"
         >
-          Edit in LiveCodes
+          Abra o editor em nova aba
         </a>
       </p>
       <p>

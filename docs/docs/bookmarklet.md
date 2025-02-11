@@ -2,14 +2,14 @@
 
 LiveCodes allows [importing code](./features/import.md) from a [wide variety of sources](./features/import.md#sources).
 
-Instead of manually copy/pasting URLs to import, adding **"Edit in LiveCodes"** bookmarklet to the browser bookmarks bar can be a more convenient way. It opens LiveCodes in a new window and imports the current webpage URL.
+Instead of manually copy/pasting URLs to import, adding **"Abra o editor em nova aba"** bookmarklet to the browser bookmarks bar can be a more convenient way. It opens LiveCodes in a new window and imports the current webpage URL.
 
 ## Add Bookmarklet
 
 Drag this link to the browser bookmarks bar:
 
 <div
-dangerouslySetInnerHTML={{__html: `<a href='javascript:(()=>{window.open("https://livecodes.io/?x="+encodeURIComponent(location.href),"_blank");})();'>Edit in LiveCodes</a>`}}
+dangerouslySetInnerHTML={{__html: `<a href='javascript:(()=>{window.open("https://livecodes.io/?x="+encodeURIComponent(location.href),"_blank");})();'>Abra o editor em nova aba</a>`}}
 />
 
 <br />
