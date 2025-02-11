@@ -1,7 +1,7 @@
 import { fetchWithHandler } from '../utils';
 import { allowedOrigin, whitelistTarget } from './allowed-origin';
 
-const corsApiUrl = 'https://api.livecodes.io/cors?url=';
+const corsApiUrl = 'https://api.playground-dtr.pages.dev/cors?url=';
 const proxyUrl = 'https://api.allorigins.win/raw?url=';
 
 export const corsService = {

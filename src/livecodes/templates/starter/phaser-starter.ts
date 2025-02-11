@@ -42,7 +42,7 @@ body {
 import Phaser from "phaser";
 
 // learn about adding assets in livecodes
-// https://livecodes.io/docs/features/assets
+// https://playground-dtr.pages.dev/docs/features/assets
 
 class Boot extends Phaser.Scene {
   constructor() {

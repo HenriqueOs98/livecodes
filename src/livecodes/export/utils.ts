@@ -83,11 +83,11 @@ export const getDescriptionFile = (
     : !user.username
       ? 'by ' + displayName
       : 'by [' + displayName + '](' + githubUrl + user.username + ')';
-  const projectInfo = url ? `[project](https://livecodes.io/?x=${url})` : 'project';
+  const projectInfo = url ? `[project](https://playground-dtr.pages.dev/?x=${url})` : 'project';
 
   return {
     [safeName(config.title) + '.md']: {
-      content: `# ${config.title}\nA ${projectInfo} created ${userInfo} on [LiveCodes](https://livecodes.io).`,
+      content: `# ${config.title}\nA ${projectInfo} created ${userInfo} on [LiveCodes](https://playground-dtr.pages.dev).`,
     },
   };
 };

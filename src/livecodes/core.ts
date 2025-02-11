@@ -1131,7 +1131,7 @@ const setProjectTitle = (setDefault = false) => {
 
 const setWindowTitle = () => {
   const title = getConfig().title;
-  const hostLabel = location.hostname.startsWith('dev.livecodes.io')
+  const hostLabel = location.hostname.startsWith('dev.playground-dtr.pages.dev')
     ? '(dev) '
     : location.hostname.startsWith('127.0.0.1') || location.hostname.startsWith('localhost')
       ? '(local) '

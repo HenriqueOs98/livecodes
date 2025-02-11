@@ -3,7 +3,7 @@ import { allowedOrigin } from './allowed-origin';
 
 const dpasteGetUrl = 'https://dpaste.com/';
 const dpastePostUrl = 'https://dpaste.com/api/v2/';
-const apiUrl = 'https://api2.livecodes.io/share';
+const apiUrl = 'https://api2.playground-dtr.pages.dev/share';
 
 type ConfigWithResult = Partial<Config & { result: string }>;
 interface ShareService {
@@ -28,7 +28,7 @@ const dpasteService = {
         mode: 'cors',
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded',
-          'User-Agent': 'LiveCodes / https://livecodes.io/',
+          'User-Agent': 'LiveCodes / https://playground-dtr.pages.dev/',
         },
         body: `content=${encodeURIComponent(JSON.stringify(config))}&title=${encodeURIComponent(
           config.title || '',

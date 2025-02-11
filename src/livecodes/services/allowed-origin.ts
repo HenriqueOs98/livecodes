@@ -1,7 +1,7 @@
 export const allowedOrigin = (origin = location.origin) =>
   Boolean(
     origin &&
-      (origin.endsWith('livecodes.io') ||
+      (origin.endsWith('playground-dtr.pages.dev') ||
         origin.endsWith('livecodes.pages.dev') ||
         origin.endsWith('localpen.pages.dev') ||
         origin.startsWith('http://127.0.0.1') ||

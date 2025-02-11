@@ -21,7 +21,7 @@ const apiEndpoint = 'https://data.jsdelivr.com/v1';
 
 const jsDelivrHeaders = {
   // https://github.com/live-codes/livecodes/issues/628
-  ...(isFirefox() ? {} : { 'User-Agent': 'https://livecodes.io' }),
+  ...(isFirefox() ? {} : { 'User-Agent': 'https://playground-dtr.pages.dev' }),
 };
 
 interface APIPkgFiles {

@@ -45,7 +45,7 @@ import plinth/browser/document
 import plinth/browser/element
 import plinth/browser/event
 // see docs for using custom modules:
-// https://livecodes.io/docs/languages/gleam
+// https://playground-dtr.pages.dev/docs/languages/gleam
 
 pub fn main() {
   say_hello()

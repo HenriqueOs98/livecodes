@@ -577,7 +577,7 @@ function App(props) {
       <img
         alt="a long alt attribute value that describes this image in details so that we can demonstrate word-wrap"
         className="logo"
-        src="https://livecodes.io/livecodes/assets/templates/react.svg"
+        src="https://playground-dtr.pages.dev/livecodes/assets/templates/react.svg"
       />
       <p>You clicked {count === 0 ? 'zero' : count} times.</p>
       <button onClick={onClick}>Click me</button>
