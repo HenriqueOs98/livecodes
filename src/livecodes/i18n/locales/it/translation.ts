@@ -24,7 +24,7 @@ const translation: I18nTranslation = {
       title: 'GitHub',
     },
     heading: 'Informazioni su Programe.Tech',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: 'Informazioni su Programe.Tech',
       para1:
         '<1><2>Programe.Tech</2></1> è un playground di codice <3>open-source</3>, <4>ricco di funzionalità</4>, <5>lato client</5>. Attualmente, sono supportati <6>oltre 90 linguaggi/<7></7>framework</6>. Può essere utilizzato come app autonoma o può essere <8>incorporato</8> in qualsiasi pagina web. Ci sono molti modi per <9>precompilare i playground</9> con il codice.',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: 'Aiutaci a tradurre',
     },
     logo: {
-      title: 'Programe.Tech: Un Editor di Codice Che Funziona e Basta!',
+      title: 'livecodes: Un Editor di Codice Che Funziona e Basta!',
     },
     projectInfo: {
       hint: 'Informazioni progetto',

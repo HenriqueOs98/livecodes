@@ -24,7 +24,7 @@ const translation: I18nTranslation = {
       title: 'GitHub',
     },
     heading: 'Acerca de Programe.Tech',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: 'Acerca de Programe.Tech',
       para1:
         '<1><2>Programe.Tech</2></1> es un área de juego de código <3>de código abierto</3>, <4>rico en características</4> y <5>del lado del cliente</5>. Actualmente, se admiten <6>más de 90 lenguajes/<7></7>frameworks</6>. Se puede usar como una aplicación independiente o se puede <8>incrustar</8> en cualquier página web. Hay muchas formas de <9>precargar los campos de juego</9> con código.',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: 'Ayúdenos a traducir',
     },
     logo: {
-      title: 'Programe.Tech: un editor de código que se ejecuta en su navegador!',
+      title: 'livecodes: un editor de código que se ejecuta en su navegador!',
     },
     projectInfo: {
       hint: 'Información del proyecto',

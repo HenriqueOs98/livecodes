@@ -24,7 +24,7 @@ const translation: I18nTranslation = {
       title: 'GitHub',
     },
     heading: 'Programe.Techについて',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: 'Programe.Techについて',
       para1:
         '<1><2>Programe.Tech</2></1>は、<3>オープンソース</3>で<4>機能豊富</4>な<5>クライアントサイド</5>のコードプレイグラウンドです。現在、<6>90以上の言語/<7></7>フレームワーク</6>をサポートしています。スタンドアロンアプリとして使用することも、任意のWebページに<8>埋め込む</8>こともできます。プレイグラウンドに<9>コードをプリフィル</9>する方法は多数あります。',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: '翻訳にご協力ください',
     },
     logo: {
-      title: 'Programe.Tech: ブラウザ上で動作するコード エディターです。',
+      title: 'livecodes: ブラウザ上で動作するコード エディターです。',
     },
     projectInfo: {
       hint: 'プロジェクト情報',

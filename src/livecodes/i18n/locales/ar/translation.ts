@@ -24,7 +24,7 @@ const translation: I18nTranslation = {
       title: 'GitHub',
     },
     heading: 'حول Programe.Tech',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: 'حول Programe.Tech',
       para1:
         '<1><2>Programe.Tech</2></1> هو ملعب برمجي <3>مفتوح المصدر</3>، <4>غني بالميزات</4>، <5>يعمل على جانب العميل</5>. حاليًا، يتم دعم <6>أكثر من 90 لغة/<7></7>إطار عمل</6>. يمكن استخدامه كتطبيق مستقل أو يمكن <8>تضمينه</8> في أي صفحة ويب. هناك العديد من الطرق <9>لملء الملاعب مسبقًا</9> بالكود.',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: 'ساعدنا في الترجمة',
     },
     logo: {
-      title: 'Programe.Tech: محرر برمجي يعمل ببساطة!',
+      title: 'livecodes: محرر برمجي يعمل ببساطة!',
     },
     projectInfo: {
       hint: 'معلومات المشروع',

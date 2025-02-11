@@ -24,7 +24,7 @@ const translation: I18nTranslation = {
       title: 'GitHub',
     },
     heading: 'À propos de Programe.Tech',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: 'À propos de Programe.Tech',
       para1:
         "<1><2>Programe.Tech</2></1> est un éditeur de code, open-source et riche en fonctionnalités. Actuellement, plus de 90 langages et frameworks sont pris en charge. Il peut être utilisé comme une application autonome ou intégré dans n'importe quelle page web.",

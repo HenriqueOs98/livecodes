@@ -23,7 +23,7 @@ const translation: I18nTranslation = {
       title: 'GitHub',
     },
     heading: '关于 Programe.Tech',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: '关于 Programe.Tech',
       para1:
         '<1><2>Programe.Tech</2></1> 是一个开源的、功能丰富的、客户端侧的代码运行环境。目前支持超过 90 种语言 / 框架。它可以作为独立应用使用，亦可嵌入到任意网页中。',
@@ -93,7 +93,7 @@ const translation: I18nTranslation = {
       helpTranslate: '帮助我们翻译',
     },
     logo: {
-      title: 'Programe.Tech: 一个简单实用的代码运行环境！',
+      title: 'livecodes: 一个简单实用的代码运行环境！',
     },
     projectInfo: {
       hint: '项目信息',

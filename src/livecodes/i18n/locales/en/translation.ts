@@ -31,7 +31,7 @@ const translation = {
       title: 'GitHub',
     },
     heading: 'About Programe.Tech',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: 'About Programe.Tech',
       para1:
         '<1><2>Programe.Tech</2></1> is an open-source, feature-rich, client-side code playground. Currently, 90+ languages and frameworks are supported. It can be used as a standalone app or embedded in any web page.',
@@ -101,7 +101,7 @@ const translation = {
       helpTranslate: 'Help Us Translate',
     },
     logo: {
-      title: 'Programe.Tech: A Code Playground That Just Works!',
+      title: 'livecodes: A Code Playground That Just Works!',
     },
     projectInfo: {
       hint: 'Project Info',

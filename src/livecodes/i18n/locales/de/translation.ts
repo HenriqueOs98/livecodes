@@ -24,7 +24,7 @@ const translation: I18nTranslation = {
       title: 'GitHub',
     },
     heading: 'Über Programe.Tech',
-    Programe.Tech: {
+    livecodes: {
       aboutUs: 'Über Programe.Tech',
       para1:
         '<1><2>Programe.Tech</2></1> ist ein <3>Open-Source</3>, <4>funktionsreiches</4>, <5>clientseitiger</5> Code-Spielplatz. Derzeit werden <6>über 90 Sprachen/<7></7>Frameworks</6> unterstützt. Es kann als eigenständige App verwendet oder in jede Webseite <8>eingebettet</8> werden. Es gibt viele Möglichkeiten, Spielplätze mit Code <9>vorzufüllen</9>.',
@@ -94,7 +94,7 @@ const translation: I18nTranslation = {
       helpTranslate: 'Helfen Sie uns beim Übersetzen',
     },
     logo: {
-      title: 'Programe.Tech: Ein Code-Spielplatz, Der Einfach Funktioniert!',
+      title: 'livecodes: Ein Code-Spielplatz, Der Einfach Funktioniert!',
     },
     projectInfo: {
       hint: 'Projektinformationen',
