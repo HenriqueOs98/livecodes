@@ -14,7 +14,7 @@ if (isEmbed) {
   if (clickToLoad) {
     loadingEl.classList.add('click-to-load');
     loadingEl.title = 'Click to Load';
-    loadingText.innerText = 'Click to load LiveCodes';
+    loadingText.innerText = 'Programe.tech';
 
     // load on click
     loadingEl.addEventListener('click', load);
