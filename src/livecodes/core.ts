@@ -5062,8 +5062,7 @@ const configureEmbed = (config: Config, eventsManager: EventsManager) => {
   }
 
   const logoLink = UI.getLogoLink();
-  logoLink.title = window.deps.translateString('generic.embed.logoHint', 'Edit on LiveCodes 🡕');
-
+  logoLink.title = window.deps.translateString('generic.embed.logoHint', 'Edit on Programe.Tech 🡕');
   eventsManager.addEventListener(logoLink, 'click', async (event: Event) => {
     event.preventDefault();
     window.open(

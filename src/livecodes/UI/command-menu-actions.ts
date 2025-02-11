@@ -1015,7 +1015,7 @@ export const getCommandMenuActions = ({
         },
         {
           id: 'LiveCodes Blog',
-          title: window.deps.translateString('menu.blog', 'LiveCodes Blog'),
+          title: window.deps.translateString('menu.blog', 'Programe.Tech Blog'),
           content: getContent('LiveCodes Blog'),
           mdIcon: 'newspaper',
           handler: () => {
