@@ -1,0 +1,51 @@
+{
+  "name": "livecodes-lite",
+  "version": "0.1.0",
+  "description": "Simplified LiveCodes editor with CodeMirror, React and TypeScript",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "start": "rollup -c -w",
+    "build": "rollup -c",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx src",
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "dependencies": {
+    "@codemirror/autocomplete": "^6.9.0",
+    "@codemirror/commands": "^6.2.3",
+    "@codemirror/lang-css": "^6.2.0",
+    "@codemirror/lang-html": "^6.4.3",
+    "@codemirror/lang-javascript": "^6.1.7",
+    "@codemirror/language": "^6.8.0",
+    "@codemirror/lint": "^6.2.1",
+    "@codemirror/state": "^6.2.0",
+    "@codemirror/theme-one-dark": "^6.1.2",
+    "@codemirror/view": "^6.9.6",
+    "@lezer/highlight": "^1.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.10",
+    "@typescript-eslint/eslint-plugin": "^5.48.0",
+    "@typescript-eslint/parser": "^5.48.0",
+    "eslint": "^8.31.0",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rollup": "^2.79.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "typescript": "^4.9.4"
+  }
+}
